@@ -1,0 +1,959 @@
+{
+  "services": [
+    {
+      "id": "001",
+      "key": "web-development",
+      "name": "Website Development",
+      "sidebarLabel": "Website Development",
+      "listTitle": "Website Development",
+      "heroTitle": "Website Development",
+      "heroSubtitle": "Fast, Secure, Scalable Builds",
+      "heroDescription": "We build high-performance websites and storefronts for E-commerce, B2B portals, and D2C brands—designed for speed, security, SEO, and conversion tracking from day one.",
+      "image": "/assets/img/service/WebsiteDev.webp",
+      "sections": [
+        {
+          "heading": "Built for Speed, Security, and Scale",
+          "body": "Clean architecture, optimized rendering, and performance-first engineering so your website loads fast, stays secure, and grows with new products, pages, and marketing needs."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Custom development, CMS setup, integration with CRMs and payment gateways, marketing/analytics tracking, and conversion-focused layouts for every funnel stage."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "002",
+      "key": "seo",
+      "name": "Search Engine Optimization",
+      "sidebarLabel": "Search Engine Optimization",
+      "listTitle": "Search Engine Optimization",
+      "heroTitle": "Search Engine Optimization",
+      "heroSubtitle": "Long-Term Organic Growth",
+      "heroDescription": "We improve rankings and organic pipeline for E-commerce categories, B2B service discovery, and D2C growth—combining technical SEO, on-page optimization, and content authority.",
+      "image": "/assets/img/service/SEO.webp",
+      "sections": [
+        {
+          "heading": "Rank with Technical + Content Authority",
+          "body": "We align your site structure, keywords, and content to how customers search—so you attract the right audience and earn sustainable visibility over time."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Technical audits, keyword research, on-page SEO, content strategy, schema, and authority building with reporting that tracks ranking and conversion progress."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "003",
+      "key": "google-ads",
+      "name": "Google Ads",
+      "sidebarLabel": "Google Ads",
+      "listTitle": "Google Ads",
+      "heroTitle": "Google Ads",
+      "heroSubtitle": "Intent-Based Search & Remarketing",
+      "heroDescription": "Capture high-intent customers with Google Ads for E-commerce growth, B2B inquiries, and D2C conversions—optimized across Search, Shopping, Display, and YouTube.",
+      "image": "/assets/img/service/Google.webp",
+      "sections": [
+        {
+          "heading": "Reach Customers at the Moment of Need",
+          "body": "We structure campaigns around keywords, product intent, and buyer journeys—so your ads show up for the searches that lead to sales and enquiries."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Keyword + campaign strategy, ad copy and extensions, conversion tracking, landing page alignment, remarketing audiences, and continuous optimization."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "004",
+      "key": "meta-ads",
+      "name": "Meta Ads",
+      "sidebarLabel": "Meta Ads",
+      "listTitle": "Meta Ads",
+      "heroTitle": "Meta Ads",
+      "heroSubtitle": "Performance on Facebook & Instagram",
+      "heroDescription": "We run Meta ads for D2C and E-commerce sales and for B2B lead generation—using creative testing, audience strategy, and conversion-focused landing pages that improve ROI.",
+      "image": "/assets/img/service/Meta.webp",
+      "sections": [
+        {
+          "heading": "Creative Testing for Real Business Outcomes",
+          "body": "We build and iterate on ad creatives and targeting to find what works for your audience—so every campaign delivers consistent cost per result and scalable performance."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Campaign setup, pixel + tracking, audience research, ad creative concepts (UGC/video-friendly), landing page alignment, and weekly optimization."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "005",
+      "key": "branding-kit",
+      "name": "Branding Kit",
+      "sidebarLabel": "Branding Kit",
+      "listTitle": "Branding Kit",
+      "heroTitle": "Branding Kit",
+      "heroSubtitle": "Consistent Brand Assets for Growth",
+      "heroDescription": "A complete branding kit that keeps your visuals consistent across your website, ads, social, and video—helping E-commerce, B2B, and D2C brands build trust and recognition.",
+      "image": "/assets/img/service/Branding.webp",
+      "sections": [
+        {
+          "heading": "Brand Consistency Across Every Channel",
+          "body": "We design logos, typography, colours, and reusable templates so your marketing stays on-brand everywhere customers discover you."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Logo variants, style guide, social and ad templates, landing page design direction, and digital assets that support campaigns and growth."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "006",
+      "key": "social-media-marketing",
+      "name": "Social Media Marketing",
+      "sidebarLabel": "Social Media Marketing",
+      "listTitle": "Social Media Marketing",
+      "heroTitle": "Social Media Marketing",
+      "heroSubtitle": "Engagement to Leads",
+      "heroDescription": "We plan and manage social media marketing that builds trust and drives enquiries for B2B brands and high-intent engagement for E-commerce and D2C.",
+      "image": "/assets/img/service/SMO.webp",
+      "sections": [
+        {
+          "heading": "Consistent Presence Across Your Funnel",
+          "body": "From awareness content to conversion-ready posts, we create social experiences that match your customers’ journey and improve brand recall."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Content planning, creative design, community engagement, social analytics, and paid social support (Meta) to turn attention into measurable results."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "008",
+      "key": "influancer-marketing",
+      "name": "Influencer Marketing",
+      "sidebarLabel": "Influencer Marketing",
+      "listTitle": "Influencer Marketing",
+      "heroTitle": "Influencer Marketing",
+      "heroSubtitle": "Trusted Voices for Growth",
+      "heroDescription": "We run influencer campaigns that create credible awareness and conversion-ready content for E-commerce, D2C, and B2B buyers—measurable across reach, leads, and sales.",
+      "image": "/assets/img/service/Influancer.webp",
+      "sections": [
+        {
+          "heading": "Influence with Real Business Intent",
+          "body": "We match influencers to your niche and audience so campaigns feel authentic and deliver tangible results—from engagement to enquiries and purchases."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Influencer selection, campaign planning, creative briefing, UGC-style deliverables, and performance reporting for every collaboration."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "009",
+      "key": "ugc-marketing",
+      "name": "UGC Marketing",
+      "sidebarLabel": "UGC Marketing",
+      "listTitle": "UGC Marketing",
+      "heroTitle": "UGC Marketing",
+      "heroSubtitle": "Turn Customers Into Creators",
+      "heroDescription": "We produce and scale UGC creatives for D2C and E-commerce performance and for B2B credibility—authentic content that improves ad engagement, CTR, and conversions.",
+      "image": "/assets/img/service/UGC.webp",
+      "sections": [
+        {
+          "heading": "Authentic Content that Converts",
+          "body": "UGC helps your brand stand out with real stories and proof. We ensure creatives match your products, audiences, and funnel stage for better results."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "UGC sourcing, scripting support, creator coordination, video-style edits, and delivery of ad-ready assets across Meta and organic channels."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "010",
+      "key": "video-creation",
+      "name": "Video Creation",
+      "sidebarLabel": "Video Creation",
+      "listTitle": "Video Creation",
+      "heroTitle": "Video Creation",
+      "heroSubtitle": "Short-Form & Product Stories",
+      "heroDescription": "We create performance-ready videos—product demos, reels, ads, and testimonials—for E-commerce launches, B2B explainers, and D2C retention campaigns.",
+      "image": "/assets/img/service/video.webp",
+      "sections": [
+        {
+          "heading": "Videos Built for Attention and Action",
+          "body": "From scripts to editing, we design video content to match audience intent, explain your value clearly, and drive clicks and conversions."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Video scripting support, production planning, editing and subtitles, ad-ready exports, and formats optimized for Meta, YouTube, and social."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "011",
+      "key": "product-photography",
+      "name": "Product Photography",
+      "sidebarLabel": "Product Photography",
+      "listTitle": "Product Photography",
+      "heroTitle": "Product Photography",
+      "heroSubtitle": "E-commerce Ready Visuals",
+      "heroDescription": "High-quality product photography and shoots for E-commerce catalogs, D2C product pages, and B2B catalogs—so your creatives look premium across websites and ads.",
+      "image": "/assets/img/service/ProductShoot.webp",
+      "sections": [
+        {
+          "heading": "Visuals that Raise Conversions",
+          "body": "We capture details, textures, and real-world usage so customers feel confident and B2B buyers understand value instantly."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Product shoots, background + lighting setups, retouching, and delivery of image sets ready for PDPs, brochures, and ad creatives."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "012",
+      "key": "website-design",
+      "name": "Website Design",
+      "sidebarLabel": "Website Design",
+      "listTitle": "Website Design",
+      "heroTitle": "Website Design",
+      "heroSubtitle": "Design that Inspires Conversion",
+      "heroDescription": "We create design-led websites that elevate your brand, build trust, and convert visitors into customers with premium digital experiences.",
+      "image": "/assets/img/Service-main/WebDesign.webp",
+      "sections": [
+        {
+          "heading": "Conversion-First UI/UX",
+          "body": "We design websites with clear user journeys, compelling visuals, and conversion-focused layouts that improve engagement and enquiries."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "Landing page design, responsive layouts, brand-led interfaces, and usability-first experiences that help your business stand out online."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    }
+  ],
+  "industries": [
+    {
+      "id": "ind-001",
+      "name": "PCD Pharma Industries",
+      "description": "We help pharma companies build trust and generate high-intent enquiries through compliant, informative websites and targeted digital campaigns.",
+      "image": "/assets/img/industries-specific-main/pcd-pharma-industries.webp",
+      "pageContent": {
+        "heroTitle": "Digital Marketing For PCD Pharma Franchise",
+        "heroSubtitle": "Digital Marketing For PCD Pharma Franchise",
+        "heroCtaLabel": "Get Started Now",
+        "introTitle": "Digital Marketing for PCD Pharma Franchise",
+        "introBody": "In today’s competitive pharma market, a strong digital presence helps PCD companies build credibility, attract distributors, and generate consistent franchise enquiries. We create compliant, trust-building campaigns that bring high-intent leads through the right channels.",
+        "introBullets": [
+          "Build trust with a professional pharma website",
+          "Rank for city + therapy keywords to get franchise leads",
+          "Generate qualified enquiries using ads + landing pages",
+          "Strengthen your brand with consistent social presence"
+        ],
+        "importanceTitle": "Why Digital Marketing is Important for PCD Pharma Franchise?",
+        "importanceFaq": [
+          {
+            "question": "Build credibility and trust",
+            "answer": "A professional website, clear product/therapy information, and proof points (certifications, company profile, manufacturing/third-party details) help distributors trust your brand before they enquire."
+          },
+          {
+            "question": "Get targeted franchise enquiries (city-wise)",
+            "answer": "SEO and lead campaigns target high-intent searches like “PCD pharma franchise in {city}” so you get enquiries from your preferred regions and segments."
+          },
+          {
+            "question": "Increase visibility for divisions & products",
+            "answer": "Dedicated pages for therapy segments, product ranges, and divisions improve discovery and make it easier for prospects to understand what you offer."
+          },
+          {
+            "question": "Improve lead quality with qualification",
+            "answer": "We add qualification questions (region, experience, investment range, interest therapy) to reduce junk leads and improve conversions."
+          }
+        ],
+        "servicesTitle": "Our Digital Marketing Services for PCD Pharma Franchise",
+        "whyChooseTitle": "Why Choose BrandBanalo For Pharma Digital Marketing?",
+        "whyChooseBody": "We combine pharma-friendly messaging with performance marketing to drive real franchise enquiries — not vanity metrics.",
+        "whyChooseBullets": [
+          "Industry-focused content and positioning",
+          "Conversion-first landing pages and enquiry funnels",
+          "SEO strategy for therapy + location keyword clusters",
+          "Tracking, reporting, and continuous optimization",
+          "Creative templates for consistent brand recall"
+        ],
+        "closingTitle": "Grow Your PCD Pharma Franchise With Digital Marketing",
+        "closingBody": "Want consistent franchise/distributor leads with a compliant brand presence? Let’s build a growth system that includes website + SEO + lead generation + social.",
+        "closingCtaLabel": "Let’s Talk"
+      },
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "key": "pcd-pharma",
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Pharma Website Development",
+          "heroSubtitle": "Compliant, Fast, Trust-Building",
+          "heroDescription": "We build pharma websites for PCD and franchise brands with clean product/category structure, enquiry-first UX, fast performance, and compliance-friendly content layouts.",
+          "highlights": [
+            "Product / division pages with clear enquiry CTAs",
+            "Distributor / franchise enquiry funnels (form + WhatsApp + call)",
+            "Fast, mobile-first build with basic technical SEO"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Pharma SEO (PCD & Franchise)",
+          "heroSubtitle": "Rank for PCD + City Keywords",
+          "heroDescription": "We target high-intent pharma searches like “PCD pharma franchise in {city}” and product/therapy segments—improving visibility and enquiry volume organically.",
+          "highlights": [
+            "Keyword clusters for therapy segments & locations",
+            "On-page SEO for division/product pages",
+            "Local SEO to drive city-wise enquiries"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "Pharma Lead Generation",
+          "heroSubtitle": "More Franchise & Distributor Enquiries",
+          "heroDescription": "We run lead funnels designed for pharma franchise/distributor leads—offer-led landing pages, qualification questions, and retargeting to improve lead quality.",
+          "highlights": [
+            "Lead ads + landing pages aligned to franchise offers",
+            "Lead qualification fields to reduce junk leads",
+            "Retargeting to re-capture interested buyers"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Pharma Social Media Marketing",
+          "heroSubtitle": "Credibility + Consistent Visibility",
+          "heroDescription": "We build consistent pharma brand presence with compliant, informative content—company profile, certifications, product highlights, and trust-building storytelling.",
+          "highlights": [
+            "Profile + highlights designed for trust",
+            "Content calendar for products, certifications & FAQs",
+            "Creative templates that stay consistent across posts"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-002",
+      "name": "Car Parts Importer & Suppliers",
+      "description": "For automotive importers and suppliers, we focus on product visibility, dealer enquiries, and local search optimisation to drive more orders.",
+      "image": "/assets/img/industries-specific-main/car-parts-importer-suppliers.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "004", "007"],
+      "key": "car-parts",
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Auto Parts Website Development",
+          "heroSubtitle": "Catalog UX + Dealer Enquiry Ready",
+          "heroDescription": "We build automotive parts websites that make it easy to browse SKUs, categories, and compatibility—while driving dealer/distributor enquiries through clear CTAs.",
+          "highlights": [
+            "Category/catalog structure for thousands of SKUs",
+            "Dealer enquiry forms + WhatsApp quick-quote",
+            "Speed + analytics tracking for product interest"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Auto Parts SEO",
+          "heroSubtitle": "Rank for Product + Compatibility Searches",
+          "heroDescription": "We optimize category pages and product-led content so you rank for high-intent searches like part names, OEM numbers, and city-wise supplier queries.",
+          "highlights": [
+            "SEO for categories, brands, OEM keywords",
+            "Technical SEO for large catalogs",
+            "Local SEO for supplier discovery"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "Dealer Lead Generation",
+          "heroSubtitle": "More Calls, WhatsApp, RFQs",
+          "heroDescription": "We run lead funnels to attract wholesalers, garages, and dealers—driving RFQs with qualification steps to improve lead quality and order value.",
+          "highlights": [
+            "RFQ-style landing pages for key categories",
+            "Lead qualification (location, requirement, quantity)",
+            "Remarketing to convert repeat visitors"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Automotive Social Media",
+          "heroSubtitle": "Product Proof + Brand Recall",
+          "heroDescription": "We build consistent content around product ranges, use-cases, warehouse strength, and credibility—so dealers trust you before they enquire.",
+          "highlights": [
+            "Product spotlights and category explainers",
+            "Credibility content (stock, dispatch, QC)",
+            "Creative system for consistent posting"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-003",
+      "name": "Road Safety Product Manufacturer",
+      "description": "We position safety product brands as reliable partners for government and infrastructure companies with clear messaging and targeted campaigns.",
+      "image": "/assets/img/industries-specific-main/road-safety-product-manufacturer.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "key": "road-safety",
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Road Safety Website Development",
+          "heroSubtitle": "Specification-Led, Tender-Friendly",
+          "heroDescription": "We build road safety websites that clearly present specs, certifications, and applications—so contractors and departments can evaluate and enquire quickly.",
+          "highlights": [
+            "Product pages with specs, use-cases, downloads",
+            "Trust content: certifications, projects, clients",
+            "Enquiry CTAs for tenders and bulk orders"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Road Safety SEO",
+          "heroSubtitle": "Rank for Product + Government Intent",
+          "heroDescription": "We target high-intent keywords for safety products and procurement searches—building category authority and generating consistent RFQs.",
+          "highlights": [
+            "SEO for product categories and applications",
+            "Content for procurement/tender buyer questions",
+            "Local + national visibility strategy"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "Tender & B2B Lead Generation",
+          "heroSubtitle": "RFQs from Contractors & Departments",
+          "heroDescription": "We run campaigns to attract bulk buyers and decision makers with qualification steps (location, project size, requirements).",
+          "highlights": [
+            "RFQ landing pages for top product lines",
+            "Lead qualification to improve conversion rate",
+            "Retargeting for long decision cycles"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Road Safety Social Media",
+          "heroSubtitle": "Authority + Project Proof",
+          "heroDescription": "We publish credibility-first content—product demos, installations, compliance highlights, and project proof—to build trust for B2B buyers.",
+          "highlights": [
+            "Installation & project-based posts",
+            "Compliance/certification-led creative",
+            "Consistent brand templates"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-004",
+      "name": "Electronics Devices Supplier",
+      "description": "We help electronics suppliers showcase product lines, highlight specifications, and capture B2B enquiries through conversion-focused experiences.",
+      "image": "/assets/img/industries-specific-main/electronics-devices-supplier.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "006",
+        "012",
+        "004",
+        "005",
+        "007"
+      ],
+      "key": "electronics",
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Electronics Website Development",
+          "heroSubtitle": "Specs, Comparison, Enquiry UX",
+          "heroDescription": "We build electronics supplier websites that present specs clearly, support product comparisons, and convert visitors into RFQs and dealer enquiries.",
+          "highlights": [
+            "Spec-first product pages with downloads",
+            "RFQ forms + WhatsApp for quick quotes",
+            "Fast, SEO-ready architecture"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Electronics SEO",
+          "heroSubtitle": "Rank for Product + Use-Case Searches",
+          "heroDescription": "We target high-intent keywords around device names, features, and applications—so B2B buyers find you when they’re ready to compare vendors.",
+          "highlights": [
+            "SEO for product families and applications",
+            "Technical SEO for catalog sites",
+            "Content to answer spec & procurement queries"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "B2B Lead Generation (Electronics)",
+          "heroSubtitle": "More RFQs, Dealer & OEM Enquiries",
+          "heroDescription": "We run campaigns that drive qualified enquiries from businesses—using offer-led landing pages and lead qualification to improve close rate.",
+          "highlights": [
+            "Landing pages per product category",
+            "Qualification (industry, requirement, quantity)",
+            "Retargeting for repeat consideration"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Electronics Social Media",
+          "heroSubtitle": "Show Features with Visual Proof",
+          "heroDescription": "We turn product features into easy-to-understand content—demos, explainers, and use-cases—so your brand stays top-of-mind for buyers.",
+          "highlights": [
+            "Explainers + feature highlights",
+            "Credibility content (QC, support, warranty)",
+            "Design system for consistent posts"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-005",
+      "name": "Industrial Automation Solutions",
+      "description": "For industrial automation brands, we simplify complex offerings into clear value propositions that resonate with decision makers and engineers.",
+      "image": "/assets/img/industries-specific-main/industrial-automation-solutions.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "006",
+        "012",
+        "003",
+        "005",
+        "007"
+      ],
+      "key": "industrial-automation",
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Automation Website Development",
+          "heroSubtitle": "Complex Offerings, Simple UX",
+          "heroDescription": "We build industrial automation websites that clearly explain solutions, industries served, and ROI—helping engineering teams and decision makers enquire faster.",
+          "highlights": [
+            "Solution pages with outcomes + applications",
+            "Case studies and project proof sections",
+            "Lead forms tailored for B2B qualification"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Automation SEO",
+          "heroSubtitle": "Rank for Solutions + Industry Keywords",
+          "heroDescription": "We target searches around automation solutions, PLC/SCADA, and industry-specific applications—driving qualified traffic from real buyers.",
+          "highlights": [
+            "SEO for solutions, industries, and use-cases",
+            "Technical SEO + schema for services",
+            "Authority content for long sales cycles"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "B2B Lead Generation (Automation)",
+          "heroSubtitle": "Enquiries from Plants & Integrators",
+          "heroDescription": "We run lead funnels that attract plant owners, procurement, and integrators with qualification fields that improve lead quality.",
+          "highlights": [
+            "Offer-led landing pages per solution",
+            "Qualification for project size and timeline",
+            "Retargeting to nurture long cycles"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Automation Social Media",
+          "heroSubtitle": "Build Authority in Your Niche",
+          "heroDescription": "We publish engineering-friendly content—project highlights, demos, explainers—to build credibility and create inbound interest.",
+          "highlights": [
+            "Solution explainers and project snippets",
+            "Trust signals: certifications & partnerships",
+            "Consistent design templates"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-006",
+      "name": "Healthcare - Setup",
+      "description": "We support hospitals, clinics, and healthcare setups with patient-centric websites, appointment funnels, and local visibility strategies.",
+      "image": "/assets/img/industries-specific-main/healthcare-setup.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "key": "healthcare",
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Healthcare Website Development",
+          "heroSubtitle": "Appointments + Trust + Local Discovery",
+          "heroDescription": "We build healthcare websites that make it easy to book appointments, understand services, and trust your clinic/hospital—optimized for mobile and local search.",
+          "highlights": [
+            "Appointment funnels (call/WhatsApp/forms)",
+            "Doctor/service pages for better discovery",
+            "Fast, accessible, mobile-first UX"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Healthcare SEO",
+          "heroSubtitle": "Local Rankings that Bring Patients",
+          "heroDescription": "We improve your local visibility for treatment and doctor searches—optimizing pages, content, and local signals to drive calls and bookings.",
+          "highlights": [
+            "Local SEO for city/area keywords",
+            "Service pages for treatments and specialties",
+            "Technical SEO + schema for clinics"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "Healthcare Lead Generation",
+          "heroSubtitle": "More Bookings, Calls, Enquiries",
+          "heroDescription": "We run campaigns designed for patient intent—treatment-specific landing pages, call tracking, and remarketing to increase appointment volume.",
+          "highlights": [
+            "Treatment-wise landing pages",
+            "Call/WhatsApp tracking for ROI clarity",
+            "Remarketing for decision-making time"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Healthcare Social Media",
+          "heroSubtitle": "Education + Trust-Building Content",
+          "heroDescription": "We create education-first social content—FAQs, myths vs facts, doctor profiles, patient journeys—to build trust and drive enquiries.",
+          "highlights": [
+            "Content plan for awareness to conversion",
+            "Credibility creatives (doctors, facility, reviews)",
+            "Consistent brand templates"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-007",
+      "key": "smc-grp-tanks",
+      "name": "SMC & GRP Tanks Manufacturer",
+      "description": "We support SMC & GRP Tanks Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/smc-grp-tanks-manufacturer.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Tanks Manufacturer Website Development",
+          "heroSubtitle": "Product Specs + RFQ Funnels",
+          "heroDescription": "We build manufacturer websites that explain specs, capacity, applications, and installation—so contractors and industrial buyers can enquire quickly.",
+          "highlights": [
+            "Product/spec pages with downloads",
+            "RFQ and WhatsApp quick-quote CTAs",
+            "Project proof + certifications sections"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Manufacturer SEO",
+          "heroSubtitle": "Rank for Products + Applications",
+          "heroDescription": "We optimize category and product pages to rank for high-intent searches around specifications, use-cases, and location-based supplier queries.",
+          "highlights": [
+            "SEO for applications and capacity/spec keywords",
+            "Technical SEO for structured product pages",
+            "Content to answer buyer questions"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "B2B Lead Generation",
+          "heroSubtitle": "More RFQs from Real Buyers",
+          "heroDescription": "We run campaigns that generate enquiries from contractors, builders, and industries—with qualification fields to improve lead quality.",
+          "highlights": [
+            "RFQ landing pages per product line",
+            "Lead qualification (location, requirement, quantity)",
+            "Retargeting for longer decision cycles"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Manufacturer Social Media",
+          "heroSubtitle": "Credibility + Installation Proof",
+          "heroDescription": "We create content that builds trust—projects, installations, product explainers, and behind-the-scenes manufacturing strength.",
+          "highlights": [
+            "Installation/project highlight posts",
+            "Explainers for specs and use-cases",
+            "Consistent templates for brand recall"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-008",
+      "key": "offline-brand-ads",
+      "name": "Offline Brand Advertisement",
+      "description": "We support Offline Brand Advertisement with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/offline-brand-advertisement.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Offline Ads Business Website Development",
+          "heroSubtitle": "Portfolio-Led, Enquiry-First",
+          "heroDescription": "We build websites for offline advertising businesses that showcase work, coverage areas, rates/offer formats, and convert visitors into calls and WhatsApp enquiries.",
+          "highlights": [
+            "Portfolio/case-study pages that sell outcomes",
+            "Service pages for hoardings, print, activations, etc.",
+            "Call/WhatsApp CTAs + lead capture forms"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Local SEO for Offline Advertising",
+          "heroSubtitle": "Get Found in Your City",
+          "heroDescription": "We target city and service keywords (e.g., hoarding advertising in {city}) so local businesses can find and contact you consistently.",
+          "highlights": [
+            "City/service keyword pages",
+            "Google Business Profile optimization support",
+            "On-page + technical SEO basics"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "Lead Generation for Offline Ads",
+          "heroSubtitle": "More Business Enquiries",
+          "heroDescription": "We run lead funnels that attract business owners and marketers—with qualification (budget, location, format) to improve conversion.",
+          "highlights": [
+            "Offer-led landing pages for each format",
+            "Lead qualification to improve close rate",
+            "Retargeting to convert repeat visitors"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Social Media for Offline Advertising",
+          "heroSubtitle": "Work Proof that Builds Trust",
+          "heroDescription": "We publish portfolio-first content—before/after, campaign results, coverage maps—so prospects trust you before they enquire.",
+          "highlights": [
+            "Reels/posts showcasing placements & results",
+            "Creative templates for fast, consistent posting",
+            "Stories/highlights optimized for enquiries"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-009",
+      "key": "bag-manufacturer",
+      "name": "Bag Manufacturer",
+      "description": "We support Bag Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/bag-manufacturer.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Bag Manufacturer Website Development",
+          "heroSubtitle": "Catalog + Bulk Enquiry Focused",
+          "heroDescription": "We build websites for bag manufacturers with clear categories, material/spec details, and RFQ flows for bulk buyers and distributors.",
+          "highlights": [
+            "Catalog pages by material, use-case, size",
+            "Bulk enquiry forms + WhatsApp quick quotes",
+            "Brand story + manufacturing capacity proof"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Bag Manufacturer SEO",
+          "heroSubtitle": "Rank for Product + Bulk Keywords",
+          "heroDescription": "We optimize your site to rank for bag types, customization queries, and wholesale keywords—driving organic RFQs over time.",
+          "highlights": [
+            "SEO for bag categories and customization terms",
+            "Technical SEO for catalog structure",
+            "Content targeting wholesale/bulk intent"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "Wholesale Lead Generation",
+          "heroSubtitle": "More Bulk Orders & Distributors",
+          "heroDescription": "We run lead funnels that attract wholesalers, corporate buyers, and distributors—with qualification to improve lead quality.",
+          "highlights": [
+            "Landing pages for top-selling bag categories",
+            "Lead qualification (quantity, logo print, timeline)",
+            "Retargeting for repeat enquiries"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Bag Brand Social Media",
+          "heroSubtitle": "Design Proof + Product Showcase",
+          "heroDescription": "We create content that highlights styles, use-cases, durability, and customization—building brand recall and inbound enquiries.",
+          "highlights": [
+            "Product showcase and customization reels",
+            "Creative templates for consistent posting",
+            "Catalog-to-enquiry content funnels"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-010",
+      "key": "machinery-manufacturer",
+      "name": "Machinery Manufacturer",
+      "description": "We support Machinery Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/machinery-manufacturer.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Machinery Website Development",
+          "heroSubtitle": "Specs + ROI + Enquiry UX",
+          "heroDescription": "We build machinery websites that clearly explain capabilities, outputs, and ROI—so plants and distributors can request quotes confidently.",
+          "highlights": [
+            "Machine pages with specs, videos, brochures",
+            "Case studies + applications by industry",
+            "RFQ funnels with qualification fields"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Machinery SEO",
+          "heroSubtitle": "Rank for Machines + Applications",
+          "heroDescription": "We target high-intent searches for machine types and applications to bring in qualified buyers looking to compare suppliers.",
+          "highlights": [
+            "SEO for machine categories and industries served",
+            "Technical SEO for structured product content",
+            "Authority content to support long cycles"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "B2B Lead Generation (Machinery)",
+          "heroSubtitle": "More RFQs, Better Lead Quality",
+          "heroDescription": "We run campaigns designed for high-ticket B2B—qualification, remarketing, and tracking to reduce waste and improve conversion.",
+          "highlights": [
+            "RFQ landing pages per machine line",
+            "Qualification (budget, requirement, timeline)",
+            "Retargeting for decision-making journeys"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Machinery Social Media",
+          "heroSubtitle": "Demos + Credibility Content",
+          "heroDescription": "We publish machine demos, outcomes, and project proof—building trust before prospects contact you.",
+          "highlights": [
+            "Demo reels and performance highlights",
+            "Behind-the-scenes manufacturing credibility",
+            "Consistent templates for brand recall"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-011",
+      "key": "ball-bearing",
+      "name": "Ball Bearing Importer & Supplier",
+      "description": "We support Ball Bearing Importer & Supplier with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/ball-bearing-importer-supplier.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Bearing Supplier Website Development",
+          "heroSubtitle": "Catalog + Compatibility + Enquiries",
+          "heroDescription": "We build bearing supplier websites that organize products by type/spec and convert visitors into RFQs with fast quote CTAs.",
+          "highlights": [
+            "Spec-first catalog pages",
+            "RFQ forms + WhatsApp quick quotes",
+            "Trust content: brands, QC, warranty"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Bearing SEO",
+          "heroSubtitle": "Rank for Types + Specs + Cities",
+          "heroDescription": "We optimize your catalog to rank for bearing types, specifications, and location-based supplier searches to drive organic enquiries.",
+          "highlights": [
+            "SEO for product types and spec keywords",
+            "Technical SEO for catalog structure",
+            "Local visibility for supplier discovery"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "B2B Lead Generation (Bearings)",
+          "heroSubtitle": "More RFQs from Dealers & Plants",
+          "heroDescription": "We run lead funnels that attract dealers and industrial buyers—with qualification to reduce junk leads and improve close rate.",
+          "highlights": [
+            "Landing pages for top bearing categories",
+            "Qualification (type, quantity, location)",
+            "Retargeting for repeat enquiries"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Supplier Social Media",
+          "heroSubtitle": "Credibility + Product Awareness",
+          "heroDescription": "We create consistent content to highlight range, stock strength, and applications—so buyers remember you when they need a quote.",
+          "highlights": [
+            "Product/application explainers",
+            "Warehouse/dispatch proof content",
+            "Consistent design templates"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-012",
+      "key": "pool-table",
+      "name": "Pool Table Manufacturer",
+      "description": "We support Pool Table Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/pool-table-manufacturer.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Pool Table Website Development",
+          "heroSubtitle": "Premium Showcase + Enquiry Ready",
+          "heroDescription": "We build premium product showcase websites that highlight craftsmanship, variants, and customization—driving enquiries for home and commercial buyers.",
+          "highlights": [
+            "Gallery-first product pages with variants",
+            "Customization enquiry funnels",
+            "Speed + SEO-friendly structure"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Pool Table SEO",
+          "heroSubtitle": "Rank for Product + Custom Keywords",
+          "heroDescription": "We target keywords around pool table types, sizes, customization, and city-wise delivery—building steady organic enquiries.",
+          "highlights": [
+            "SEO for variants, materials, and sizes",
+            "Content for buyer FAQs and comparisons",
+            "Local SEO where relevant"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "Lead Generation (Pool Tables)",
+          "heroSubtitle": "More Orders & Dealer Enquiries",
+          "heroDescription": "We run campaigns that generate enquiries from buyers and dealers—using landing pages and qualification for budget and location.",
+          "highlights": [
+            "Landing pages for key variants",
+            "Lead qualification (budget, location, timeline)",
+            "Retargeting to improve conversion"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Social Media for Pool Tables",
+          "heroSubtitle": "Visual Content that Sells",
+          "heroDescription": "We create reels and posts that showcase finishes, gameplay, and craftsmanship—building desire and enquiries.",
+          "highlights": [
+            "Reels showcasing craftsmanship & finishes",
+            "UGC-style customer installs",
+            "Consistent templates and posting cadence"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ind-013",
+      "key": "fire-safety-doors",
+      "name": "Fire Safety Doors Manufacturer",
+      "description": "We support Fire Safety Doors Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/fire-safety-doors-manufacturer.webp",
+      "recommendedServiceIds": ["001", "002", "006", "012", "005", "007"],
+      "serviceOverrides": {
+        "web-development": {
+          "heroTitle": "Fire Safety Doors Website Development",
+          "heroSubtitle": "Compliance-Led, Tender-Friendly",
+          "heroDescription": "We build manufacturer websites that present ratings, certifications, and specs clearly—helping contractors and consultants request quotes faster.",
+          "highlights": [
+            "Product pages with ratings/specs & certificates",
+            "Downloads: brochures, test reports, catalogs",
+            "RFQ funnels for bulk/tender enquiries"
+          ]
+        },
+        "seo": {
+          "heroTitle": "Fire Safety SEO",
+          "heroSubtitle": "Rank for Compliance + Product Searches",
+          "heroDescription": "We target keywords around fire ratings, door types, and applications—building authority and consistent B2B enquiries.",
+          "highlights": [
+            "SEO for door types, ratings, applications",
+            "Content for compliance and procurement FAQs",
+            "Technical SEO for structured pages"
+          ]
+        },
+        "lead-generation": {
+          "heroTitle": "B2B Lead Generation (Fire Safety)",
+          "heroSubtitle": "More RFQs from Projects & Contractors",
+          "heroDescription": "We run lead funnels built for procurement—qualification fields and remarketing to convert long decision cycles.",
+          "highlights": [
+            "RFQ landing pages per door category",
+            "Qualification (project type, quantity, location)",
+            "Retargeting to capture repeat visitors"
+          ]
+        },
+        "social-media-marketing": {
+          "heroTitle": "Fire Safety Social Media",
+          "heroSubtitle": "Authority + Installation Proof",
+          "heroDescription": "We publish credibility content—installations, compliance highlights, product education—to build trust before enquiry.",
+          "highlights": [
+            "Installation and project highlight posts",
+            "Compliance-led educational content",
+            "Consistent templates for brand recall"
+          ]
+        }
+      }
+    }
+  ]
+}

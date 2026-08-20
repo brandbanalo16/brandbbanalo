@@ -1,0 +1,35 @@
+# Apache rules for Next.js static export (next.config: output: 'export', trailingSlash: true)
+# Server needs AllowOverride All (or equivalent) and mod_rewrite enabled.
+# If the site lives in a subfolder (basePath), set RewriteBase to that path, e.g. RewriteBase /brandbanalo/
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # HTTPS redirect — uncomment when SSL is configured on the host
+  # RewriteCond %{HTTPS} !=on
+  # RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # Existing files & directories (includes _next/static assets, images, php, etc.)
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Canonical trailing slash for extension-less paths (matches Next.js trailingSlash)
+  RewriteCond %{REQUEST_URI} !^/_next/
+  RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]{2,8}$
+  RewriteCond %{REQUEST_URI} !/$
+  RewriteRule ^(.*)$ $1/ [R=301,L]
+</IfModule>
+
+DirectoryIndex index.html
+Options -Indexes -MultiViews
+
+# Absolute URL from domain root. For subfolder deploy use e.g. ErrorDocument 404 /brandbanalo/404.html
+ErrorDocument 404 /404.html
+
+# Reasonable defaults for text & fonts (many hosts already set these)
+<IfModule mod_mime.c>
+  AddType font/woff2 .woff2
+  AddType font/woff .woff
+</IfModule>

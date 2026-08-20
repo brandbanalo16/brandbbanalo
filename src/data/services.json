@@ -1,0 +1,309 @@
+{
+  "services": [
+    {
+      "id": "001",
+      "key": "web-development",
+      "name": "Web Development",
+      "sidebarLabel": "Web Development",
+      "listTitle": "Website Development",
+      "heroTitle": "Web Development",
+      "heroSubtitle": "Fast, Secure, and Scalable Builds",
+      "heroDescription": "We develop fast, SEO-friendly, and secure websites on modern stacks so your business can scale confidently without breaking performance.",
+      "image": "/assets/img/Service-main/Website-Ad.webp",
+      "sections": [
+        {
+          "heading": "Robust, Scalable Websites",
+          "body": "We build fast, secure, and SEO-friendly websites using modern technologies. Our development approach focuses on clean architecture, reusable components, and easy content management so your team can scale without friction."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "We implement custom frontends, backends, and integrations with CRMs, payment gateways, and marketing tools. Whether you need a corporate website or a high-traffic landing page, we deliver code that is reliable and easy to maintain."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "002",
+      "key": "seo",
+      "name": "SEO (Search Engine Optimization)",
+      "sidebarLabel": "SEO (Search Engine Optimization)",
+      "listTitle": "SEO (Search Engine Optimization)",
+      "heroTitle": "SEO (Search Engine Optimization)",
+      "heroSubtitle": "Long-Term Organic Growth",
+      "heroDescription": "We improve your rankings and organic traffic with clean, sustainable SEO strategies—technical, on-page, and content-focused.",
+      "image": "/assets/img/Service-main/SEO-add.webp",
+      "sections": [
+        {
+          "heading": "Grow Organic Visibility",
+          "body": "We improve your search engine visibility so your ideal customers can find you when they need you. Our SEO strategies are focused on long-term, sustainable growth instead of short-term tricks."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "We perform technical audits, keyword research, on-page optimisation, content strategy, and authority building. You receive regular reports that show ranking improvements, traffic growth, and opportunity areas."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "003",
+      "key": "ads-management",
+      "name": "Ads Management",
+      "sidebarLabel": "Ads Management",
+      "listTitle": "Ads Management",
+      "heroTitle": "Ads Management",
+      "heroSubtitle": "Performance-Driven Paid Campaigns",
+      "heroDescription": "We run and optimize paid campaigns focused on leads, sales, and measurable ROI so every rupee of ad spend works harder.",
+      "image": "/assets/img/Service-main/Google-About.webp",
+      "sections": [
+        {
+          "heading": "Performance-Driven Campaigns",
+          "body": "We create and optimise paid campaigns that focus on real business outcomes—leads, sales, and brand visibility. Every campaign is tested, measured, and refined to make sure your ad spend works harder for you."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "We manage Google Ads, Meta Ads, and other performance channels end to end: audience research, creatives, landing page alignment, tracking setup, and weekly optimisation to improve cost per result."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "004",
+      "key": "lead-generation",
+      "name": "Lead Generation",
+      "sidebarLabel": "Lead Generation",
+      "listTitle": "Lead Generation",
+      "heroTitle": "Lead Generation",
+      "heroSubtitle": "Systems for Consistent Enquiries",
+      "heroDescription": "We design lead funnels, landing pages, and nurturing journeys that consistently bring in qualified prospects for your business.",
+      "image": "/assets/img/Service-main/Lead-Gene.webp",
+      "sections": [
+        {
+          "heading": "Consistent, Qualified Leads",
+          "body": "We design lead generation funnels that attract the right audience and move them from awareness to enquiry. Our strategies combine content, ads, and landing pages that are aligned around a single conversion goal."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "We set up high-converting forms, lead magnets, and nurturing flows. You get transparent reporting on lead volume, quality, and cost per lead so you can clearly see the value of your marketing."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "005",
+      "key": "branding-designing",
+      "name": "Branding Designing & Development",
+      "sidebarLabel": "Branding Designing & Development",
+      "listTitle": "Branding Designing",
+      "heroTitle": "Branding Designing & Development",
+      "heroSubtitle": "Visual Identity That Stands Out",
+      "heroDescription": "We create cohesive brand identities—logo, colors, typography, and design language—that make your business instantly recognisable and memorable.",
+      "image": "/assets/img/Service-main/Brand-Kit.webp",
+      "sections": [
+        {
+          "heading": "Creating Memorable Brands",
+          "body": "We help you define how your brand looks, sounds, and feels across every touchpoint. From logos and color palettes to typography and visual systems, we ensure your brand is instantly recognisable and consistent."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "We deliver complete brand identity systems: logo design, brand guidelines, stationery, marketing collateral, and digital assets so your business can present a professional, cohesive image everywhere."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    },
+    {
+      "id": "006",
+      "key": "social-media-management",
+      "name": "Social Media Management",
+      "sidebarLabel": "Social Media Management",
+      "listTitle": "Social Media Management",
+      "heroTitle": "Social Media Management",
+      "heroSubtitle": "Content That Engages and Converts",
+      "heroDescription": "We plan, create, and manage social content that keeps your brand visible, interactive, and trusted across the right platforms.",
+      "image": "/assets/img/Service-main/Social-Media.webp",
+      "sections": [
+        {
+          "heading": "Building Brands on Social",
+          "body": "We plan and manage your social media presence so you can stay consistent without the daily stress. Our team focuses on content that educates, entertains, and converts your audience across the right platforms."
+        },
+        {
+          "heading": "What We Provide",
+          "body": "From content calendars and creative design to posting, community management, and reporting, we handle the full cycle of social media marketing. You get clear insights on growth, engagement, and ROI every month."
+        }
+      ],
+      "agencySummary": "Brandbanalo is a results-driven digital marketing agency that helps businesses grow, scale, and build a strong online presence in the digital age. With a focus on creativity, strategy, and performance, we empower brands to reach the right audience and achieve measurable success. We offer a complete range of digital services, including website development, search engine optimization (SEO), Google & Meta ads management, lead generation, social media management, and branding & design solutions. From startups to established enterprises, Brandbanalo provides customized strategies that drive traffic, increase conversions, and enhance brand visibility. Our expertise spans across multiple industries, delivering innovative marketing solutions backed by data, insights, and continuous optimization. With a structured approach—from research and strategy to execution and performance monitoring—we ensure consistent growth and long-term success for our clients."
+    }
+  ],
+  "industries": [
+    {
+      "id": "ind-001",
+      "name": "PCD Pharma Industries",
+      "description": "We help pharma companies build trust and generate high-intent enquiries through compliant, informative websites and targeted digital campaigns.",
+      "image": "/assets/img/industries-specific-main/pcd-pharma-industries.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ],
+      "key": "pcd-pharma"
+    },
+    {
+      "id": "ind-002",
+      "name": "Car Parts Importer & Suppliers",
+      "description": "For automotive importers and suppliers, we focus on product visibility, dealer enquiries, and local search optimisation to drive more orders.",
+      "image": "/assets/img/industries-specific-main/car-parts-importer-suppliers.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "004",
+        "007"
+      ],
+      "key": "car-parts"
+    },
+    {
+      "id": "ind-003",
+      "name": "Road Safety Product Manufacturer",
+      "description": "We position safety product brands as reliable partners for government and infrastructure companies with clear messaging and targeted campaigns.",
+      "image": "/assets/img/industries-specific-main/road-safety-product-manufacturer.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ],
+      "key": "road-safety"
+    },
+    {
+      "id": "ind-004",
+      "name": "Electronics Devices Supplier",
+      "description": "We help electronics suppliers showcase product lines, highlight specifications, and capture B2B enquiries through conversion-focused experiences.",
+      "image": "/assets/img/industries-specific-main/electronics-devices-supplier.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "004",
+        "005",
+        "007"
+      ],
+      "key": "electronics"
+    },
+    {
+      "id": "ind-005",
+      "name": "Industrial Automation Solutions",
+      "description": "For industrial automation brands, we simplify complex offerings into clear value propositions that resonate with decision makers and engineers.",
+      "image": "/assets/img/industries-specific-main/industrial-automation-solutions.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "003",
+        "005",
+        "007"
+      ],
+      "key": "industrial-automation"
+    },
+    {
+      "id": "ind-006",
+      "name": "Healthcare - Setup",
+      "description": "We support hospitals, clinics, and healthcare setups with patient-centric websites, appointment funnels, and local visibility strategies.",
+      "image": "/assets/img/industries-specific-main/healthcare-setup.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ],
+      "key": "healthcare"
+    },
+    {
+      "id": "ind-007",
+      "key": "smc-grp-tanks",
+      "name": "SMC & GRP Tanks Manufacturer",
+      "description": "We support SMC & GRP Tanks Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/smc-grp-tanks-manufacturer.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ]
+    },
+    {
+      "id": "ind-008",
+      "key": "offline-brand-ads",
+      "name": "Offline Brand Advertisement",
+      "description": "We support Offline Brand Advertisement with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/offline-brand-advertisement.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ]
+    },
+    {
+      "id": "ind-009",
+      "key": "bag-manufacturer",
+      "name": "Bag Manufacturer",
+      "description": "We support Bag Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/bag-manufacturer.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ]
+    },
+    {
+      "id": "ind-010",
+      "key": "machinery-manufacturer",
+      "name": "Machinery Manufacturer",
+      "description": "We support Machinery Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/machinery-manufacturer.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ]
+    },
+    {
+      "id": "ind-011",
+      "key": "ball-bearing",
+      "name": "Ball Bearing Importer & Supplier",
+      "description": "We support Ball Bearing Importer & Supplier with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/ball-bearing-importer-supplier.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ]
+    },
+    {
+      "id": "ind-012",
+      "key": "pool-table",
+      "name": "Pool Table Manufacturer",
+      "description": "We support Pool Table Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/pool-table-manufacturer.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ]
+    },
+    {
+      "id": "ind-013",
+      "key": "fire-safety-doors",
+      "name": "Fire Safety Doors Manufacturer",
+      "description": "We support Fire Safety Doors Manufacturer with bespoke digital marketing, websites, and lead generation funnels designed to increase direct enquiries and B2B sales.",
+      "image": "/assets/img/industries-specific-main/fire-safety-doors-manufacturer.webp",
+      "recommendedServiceIds": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ]
+    }
+  ]
+}

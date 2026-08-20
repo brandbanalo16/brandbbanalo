@@ -1,0 +1,2368 @@
+{
+  "services": [
+    {
+      "id": "001",
+      "key": "web-development",
+      "name": "Website Development",
+      "sidebarLabel": "Website Development",
+      "listTitle": "Website Development",
+      "hero": {
+        "subtitle": "Smart, Scalable, Conversion-Focused",
+        "title": "Website Development That Drives Real Business Growth",
+        "description": "At Brandbanalo, we design and develop high-performance websites that don’t just look great—but generate leads, improve conversions, and strengthen your brand presence.",
+        "image": "/assets/img/Service-main/Website-Ad.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for startups, SMEs & enterprises",
+        "ctaButtons": [
+          {
+            "label": "Get Free Consultation",
+            "url": "/contact"
+          },
+          {
+            "label": "View Our Work",
+            "url": "/case-study"
+          }
+        ]
+      },
+      "about": {
+        "label": "Behind the Build",
+        "title": "Your website is more than just an online presence—it’s your most powerful sales tool.",
+        "description": "At Brandbanalo, we create websites that are strategically designed to convert visitors into customers. We combine modern UI/UX design, fast performance, and SEO-ready architecture to ensure your website works 24/7 for your business. Whether you're a startup or an established brand, we build solutions tailored to your goals. Our approach focuses on clarity, speed, and measurable results—so every click brings you closer to growth.",
+        "image": "/assets/img/Service-main/Web-About.webp",
+        "links": [
+          {
+            "label": "Get Free Consultation",
+            "url": "/contact"
+          },
+          {
+            "label": "View Our Work",
+            "url": "/case-study"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "Performance-Driven Design",
+          "description": "Delivering scalable and high-performing websites across multiple industries.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Full-Funnel Strategy",
+          "description": "Every website is built with a clear focus on user journey and conversions.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Tailored Solutions",
+          "description": "Custom designs and development aligned with your business goals.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Innovation-Driven",
+          "description": "We use modern technologies to create fast, secure, and future-ready websites.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Conversion-Focused Design",
+          "description": "Strategic layouts and CTAs designed to generate leads and sales.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "SEO-Ready Structure",
+          "description": "Built with best practices to support long-term organic growth.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Frontend Development",
+          "desc1": "Responsive and engaging UI built for seamless user experience across all devices.",
+          "desc2": "Designing interfaces that feel polished, fast, and easy to use.",
+          "image": "/assets/img/Service-main/Web-2.webp"
+        },
+        {
+          "title": "Backend Development",
+          "desc1": "Robust and secure backend systems to ensure smooth performance and scalability.",
+          "desc2": "Reliable architecture that supports growth and integrations.",
+          "image": "/assets/img/Service-main/Web-3.webp"
+        },
+        {
+          "title": "E-commerce Development",
+          "desc1": "Conversion-focused online stores designed to maximize sales and user engagement.",
+          "desc2": "Checkout flows, catalog layouts, and product pages optimized for revenue.",
+          "image": "/assets/img/Service-main/Web-4.webp"
+        },
+        {
+          "title": "CMS Development",
+          "desc1": "Easy-to-manage websites using flexible content management systems.",
+          "desc2": "Empowering your team to update content without developer dependency.",
+          "image": "/assets/img/Service-main/Web-7.webp"
+        },
+        {
+          "title": "SEO Optimization",
+          "desc1": "Technical SEO implementation to improve visibility and rankings.",
+          "desc2": "Optimized page structure, metadata, and performance for search engines.",
+          "image": "/assets/img/Service-main/Web-5.webp"
+        },
+        {
+          "title": "Performance Marketing Integration",
+          "desc1": "Landing pages and tracking systems optimized for lead generation campaigns.",
+          "desc2": "Aligning website journeys with ad campaigns for better conversion performance.",
+          "image": "/assets/img/Service-main/Web-8.webp"
+        },
+        {
+          "title": "Branding Integration",
+          "desc1": "Consistent design elements that align with your brand identity.",
+          "desc2": "Building trust through coherent visuals, messaging, and experience.",
+          "image": "/assets/img/Service-main/Web-1.webp"
+        },
+        {
+          "title": "Business Growth Focus",
+          "desc1": "Solutions built to generate leads, improve conversions, and strengthen your digital presence.",
+          "desc2": "Every website is designed with measurable business goals in mind.",
+          "image": "/assets/img/Service-main/Web-6.webp"
+        },
+        {
+          "title": "API & Third‑Party Integrations",
+          "desc1": "Connect your website with CRMs, payment gateways, analytics, and automation tools.",
+          "desc2": "Reliable integrations that streamline operations and improve user experience.",
+          "image": "/assets/img/Service-main/Web-8.webp"
+        },
+        {
+          "title": "Maintenance & Support",
+          "desc1": "Ongoing updates, security patches, and performance monitoring after launch.",
+          "desc2": "Keep your website stable, fast, and ready for future growth.",
+          "image": "/assets/img/Service-main/Web-FAQ.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "CORE FEATURES",
+        "title": "What Makes Our Websites Work",
+        "features": [
+          {
+            "title": "Mobile First",
+            "desc": "Optimized for mobile users to ensure maximum reach and usability."
+          },
+          {
+            "title": "SEO Optimized",
+            "desc": "Structured to rank better on search engines and drive organic traffic."
+          },
+          {
+            "title": "Secure Architecture",
+            "desc": "Built with strong security protocols to protect your data."
+          },
+          {
+            "title": "Custom Integrations",
+            "desc": "Seamless integration with tools, CRMs, and third-party platforms."
+          },
+          {
+            "title": "Fast Loading Speed",
+            "desc": "Optimized performance for better user experience and lower bounce rates."
+          },
+          {
+            "title": "Scalable Technology",
+            "desc": "Designed to grow with your business needs."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/Web-FAQ.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "What makes a high-converting website?",
+            "answer": "A combination of strong design, fast performance, clear messaging, and strategic CTAs that guide users to take action."
+          },
+          {
+            "question": "How long does website development take?",
+            "answer": "Depending on complexity, most websites are completed within 2–6 weeks."
+          },
+          {
+            "question": "Will my website be mobile-friendly?",
+            "answer": "Yes, all our websites are fully responsive and optimized for all devices."
+          },
+          {
+            "question": "Can you redesign my existing website?",
+            "answer": "Absolutely. We can upgrade your current website to improve design, speed, and conversions."
+          },
+          {
+            "question": "Do you provide SEO with website development?",
+            "answer": "Yes, we build SEO-ready websites and also offer advanced SEO services for better rankings."
+          }
+        ]
+      }
+    },
+    {
+      "id": "002",
+      "key": "seo",
+      "name": "SEO",
+      "sidebarLabel": "Search Engine Optimization",
+      "listTitle": "Search Engine Optimization (SEO)",
+      "hero": {
+        "subtitle": "Rank Higher. Grow Faster.",
+        "title": "SEO Services That Drive Traffic & Generate Leads",
+        "description": "At Brandbanalo, we help your business rank higher on search engines, attract the right audience, and convert organic traffic into real customers with data-driven SEO strategies.",
+        "image": "/assets/img/service/SEO-add.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for result-oriented SEO solutions",
+        "ctaButtons": [
+          {
+            "label": "Get Free SEO Audit",
+            "url": "/contact"
+          },
+          {
+            "label": "Start Ranking Today",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Search Visibility That Converts",
+        "title": "In today’s competitive digital space, ranking on Google is not optional—it’s essential.",
+        "description": "At Brandbanalo, we create SEO strategies that go beyond rankings and focus on real business growth. We combine technical SEO, content strategy, and performance tracking to ensure your website attracts high-intent users who are ready to take action. Whether you are a startup or an established brand, our SEO approach is designed to deliver long-term visibility and consistent lead generation.",
+        "image": "/assets/img/Service-main/SEO-About.webp",
+        "links": [
+          {
+            "label": "Get Free SEO Audit",
+            "url": "/contact"
+          },
+          {
+            "label": "Start Ranking Today",
+            "url": "/contact"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "Search Intent Targeting",
+          "description": "We target high-intent keywords that bring users ready to convert.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "On-Page Optimization",
+          "description": "Optimizing content, structure, and elements for better search visibility.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Technical SEO Expertise",
+          "description": "Improving site performance, indexing, and crawlability for better rankings.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Content-Driven Strategy",
+          "description": "Creating SEO-friendly content that attracts and engages your audience.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Conversion-Focused SEO",
+          "description": "Driving traffic that leads to actual business results, not just visits.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "Data & Analytics Driven",
+          "description": "Continuous tracking and optimization based on real performance data.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "On-Page SEO Optimization",
+          "desc1": "Improving website structure, meta tags, and content for better rankings.",
+          "desc2": "Ensuring every page is optimized for search and user experience.",
+          "image": "/assets/img/Service-main/SEO-4.svg"
+        },
+        {
+          "title": "Technical SEO",
+          "desc1": "Fixing backend issues to enhance site speed, indexing, and performance.",
+          "desc2": "Improving crawlability and search engine accessibility.",
+          "image": "/assets/img/Service-main/SEO-3.svg"
+        },
+        {
+          "title": "Keyword Research & Strategy",
+          "desc1": "Identifying high-impact keywords aligned with your business goals.",
+          "desc2": "Targeting intent-driven queries that attract qualified traffic.",
+          "image": "/assets/img/Service-main/SEO-2.svg"
+        },
+        {
+          "title": "Content Optimization",
+          "desc1": "Creating and refining content to improve visibility and engagement.",
+          "desc2": "Aligning copy with SEO best practices and audience needs.",
+          "image": "/assets/img/Service-main/SEO-6.svg"
+        },
+        {
+          "title": "Local SEO",
+          "desc1": "Optimizing your presence for location-based searches and Google listings.",
+          "desc2": "Helping local customers find your business more easily.",
+          "image": "/assets/img/Service-main/SEO-10.svg"
+        },
+        {
+          "title": "Link Building",
+          "desc1": "Building high-quality backlinks to improve domain authority.",
+          "desc2": "Growing your website’s credibility with relevant external partners.",
+          "image": "/assets/img/Service-main/SEO-5.svg"
+        },
+        {
+          "title": "Performance Tracking & Reporting",
+          "desc1": "Monitoring SEO performance with clear and actionable reports.",
+          "desc2": "Using data to refine strategy and prove ROI.",
+          "image": "/assets/img/Service-main/SEO-1.svg"
+        },
+        {
+          "title": "SEO Content Strategy",
+          "desc1": "Content planning designed to match search intent and improve topical authority.",
+          "desc2": "Build a consistent publishing roadmap that supports long-term growth.",
+          "image": "/assets/img/Service-main/SEO-6.svg"
+        },
+        {
+          "title": "Core Web Vitals & Speed",
+          "desc1": "Improving page speed, stability, and interactivity for better rankings.",
+          "desc2": "Performance upgrades that reduce bounce rate and boost conversions.",
+          "image": "/assets/img/Service-main/SEO-3.svg"
+        },
+        {
+          "title": "SEO Fixes & Implementation",
+          "desc1": "Hands-on implementation of technical and on-page improvements.",
+          "desc2": "From schema to redirects—everything executed with best practices.",
+          "image": "/assets/img/Service-main/SEO-4.svg"
+        }
+      ],
+      "keyFeatures": {
+        "label": "CORE FEATURES",
+        "title": "What Makes Our SEO Work",
+        "features": [
+          {
+            "title": "SEO Optimized Structure",
+            "desc": "Built to meet search engine guidelines for better rankings."
+          },
+          {
+            "title": "Mobile First Approach",
+            "desc": "Optimized for mobile users to improve search visibility and engagement."
+          },
+          {
+            "title": "Fast Loading Speed",
+            "desc": "Improved site speed for better user experience and SEO performance."
+          },
+          {
+            "title": "Secure Website (HTTPS)",
+            "desc": "Ensuring website security as a ranking and trust factor."
+          },
+          {
+            "title": "Content Optimization Ready",
+            "desc": "Structured for easy content updates and SEO improvements."
+          },
+          {
+            "title": "Scalable SEO Strategy",
+            "desc": "Designed to grow with your business and market competition."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/SEO-FAQ.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "How long does SEO take to show results?",
+            "answer": "SEO is a long-term strategy, and most results start becoming visible within 3–6 months depending on competition."
+          },
+          {
+            "question": "Do you guarantee first-page rankings?",
+            "answer": "We focus on sustainable growth and improved rankings, but no agency can guarantee exact positions due to algorithm changes."
+          },
+          {
+            "question": "What is included in your SEO service?",
+            "answer": "Our SEO includes keyword research, on-page optimization, technical SEO, content strategy, and performance tracking."
+          },
+          {
+            "question": "Is SEO better than paid ads?",
+            "answer": "SEO provides long-term traffic and leads, while paid ads deliver immediate results. Both work best together."
+          },
+          {
+            "question": "Will SEO help generate leads for my business?",
+            "answer": "Yes, our SEO strategies are designed to attract high-intent users and convert them into leads and customers."
+          }
+        ]
+      }
+    },
+    {
+      "id": "003",
+      "key": "google-ads",
+      "name": "Google Ads",
+      "sidebarLabel": "Google Ads",
+      "listTitle": "Google Ads",
+      "hero": {
+        "subtitle": "Instant Traffic. Measurable Results.",
+        "title": "Google Ads That Drive Leads & Maximize ROI",
+        "description": "At Brandbanalo, we create high-performing Google Ads campaigns that bring instant visibility, qualified traffic, and real business results—focused on leads, sales, and growth.",
+        "image": "/assets/img/Service-main/Google-ads.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for performance-driven advertising",
+        "ctaButtons": [
+          {
+            "label": "Get Free Ads Audit",
+            "url": "/contact"
+          },
+          {
+            "label": "Start Your Campaign",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Performance Marketing That Works",
+        "title": "Strategic Google Ads Solutions for Business Growth",
+        "description": "Google Ads is one of the fastest ways to generate leads—but only when done right. At Brandbanalo, we build data-driven ad campaigns that target the right audience at the right time. Our team focuses on strategy, optimization, and continuous testing to ensure every rupee you spend delivers measurable returns. Whether your goal is lead generation, sales, or brand visibility, we create campaigns that perform and scale with your business. We run campaigns that turn clicks into customers and traffic into revenue. You can trust us. As a results-focused Digital Marketing Agency in India, Brandbanalo ensures your Google Ads campaigns deliver real value. We focus on transparency, performance, and continuous optimization—so you get maximum returns from your advertising investment.",
+        "image": "/assets/img/service/Lead-Gene.webp",
+        "links": [
+          {
+            "label": "Find Out More",
+            "url": "/about"
+          },
+          {
+            "label": "Get in Touch",
+            "url": "/contact"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "Targeted Campaign Precision",
+          "description": "Reach high-intent users with carefully planned targeting strategies.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Optimized Ad Spend",
+          "description": "Maximize performance while reducing unnecessary ad costs.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Multi-Channel Campaigns",
+          "description": "Run ads across search, display, shopping, and YouTube for wider reach.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Conversion-Driven Creatives",
+          "description": "Ad copies and creatives designed to increase clicks and conversions.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Advanced Audience Targeting",
+          "description": "Segmented audiences for better engagement and higher ROI.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "Continuous Optimization",
+          "description": "Regular monitoring and improvements to enhance campaign performance.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Search Ads Management",
+          "desc1": "High-intent keyword targeting to capture users actively searching for your services.",
+          "desc2": "Campaigns built around the right search terms to deliver qualified leads.",
+          "image": "/assets/img/Service-main/Lead-1.webp"
+        },
+        {
+          "title": "Display Advertising",
+          "desc1": "Visually engaging ads to build awareness and retarget potential customers.",
+          "desc2": "Creative display campaigns that stay top of mind and bring visitors back.",
+          "image": "/assets/img/Service-main/Lead-2.webp"
+        },
+        {
+          "title": "Shopping Ads",
+          "desc1": "Optimized product listings to drive e-commerce sales and visibility.",
+          "desc2": "Better product feed management for higher click-throughs and conversions.",
+          "image": "/assets/img/Service-main/Lead-3.webp"
+        },
+        {
+          "title": "YouTube Ads",
+          "desc1": "Video campaigns designed to engage and convert your audience.",
+          "desc2": "Story-driven video ads that capture attention and drive action.",
+          "image": "/assets/img/Service-main/Lead-4.webp"
+        },
+        {
+          "title": "Remarketing Campaigns",
+          "desc1": "Reconnect with users who have previously interacted with your business.",
+          "desc2": "Bring warm audiences back with personalized remarketing strategies.",
+          "image": "/assets/img/Service-main/Lead-5.webp"
+        },
+        {
+          "title": "Landing Page Optimization",
+          "desc1": "Conversion-focused landing pages to improve ad performance.",
+          "desc2": "Pages designed to turn ad traffic into leads, sales, and measurable outcomes.",
+          "image": "/assets/img/Service-main/Lead-6.webp"
+        },
+        {
+          "title": "Performance Tracking & Analytics",
+          "desc1": "Detailed reporting and insights to measure and improve ROI.",
+          "desc2": "Transparent dashboards and analytics for smarter decision-making.",
+          "image": "/assets/img/Service-main/Lead-7.webp"
+        },
+        {
+          "title": "Account & Conversion Setup",
+          "desc1": "Proper campaign structure, conversion actions, and goal tracking from day one.",
+          "desc2": "Clean setup that improves learning, optimization, and reporting accuracy.",
+          "image": "/assets/img/Service-main/Google-FAQ.webp"
+        },
+        {
+          "title": "Audience & Keyword Strategy",
+          "desc1": "Intent-based keyword mapping and audience building for better lead quality.",
+          "desc2": "Smarter targeting that reduces waste and increases ROI.",
+          "image": "/assets/img/Service-main/Meta-1.webp"
+        },
+        {
+          "title": "Optimization & Scaling",
+          "desc1": "Bid strategy, budget pacing, negative keywords, and creative iteration.",
+          "desc2": "Continuous improvements to scale performance while controlling costs.",
+          "image": "/assets/img/Service-main/Meta-6.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "GOOGLE ADS GROWTH",
+        "title": "Key Features",
+        "features": [
+          {
+            "title": "Search Intent Targeting",
+            "desc": "Focus on keywords that bring users ready to take action."
+          },
+          {
+            "title": "Conversion Tracking Setup",
+            "desc": "Accurate tracking to measure leads, sales, and campaign performance."
+          },
+          {
+            "title": "ROI Optimization",
+            "desc": "Continuous improvements to maximize returns on ad spend."
+          },
+          {
+            "title": "A/B Testing Ready",
+            "desc": "Testing ad copies, creatives, and landing pages for better results."
+          },
+          {
+            "title": "Fast Campaign Setup",
+            "desc": "Quick deployment to start generating results without delays."
+          },
+          {
+            "title": "Scalable Campaign Strategy",
+            "desc": "Easily scale campaigns as your business grows."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/Google-FAQ.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "Which Google Ads services do you offer?",
+            "answer": "We manage search, display, shopping, YouTube, and remarketing campaigns tailored to your goals."
+          },
+          {
+            "question": "What budget do I need to start Google Ads?",
+            "answer": "Budgets vary based on industry and competition, but we help you start with an optimized and scalable plan."
+          },
+          {
+            "question": "How soon can I see results from Google Ads?",
+            "answer": "Google Ads can start generating traffic and leads almost immediately after campaign launch."
+          },
+          {
+            "question": "Do you provide landing page support?",
+            "answer": "Yes, we design and optimize landing pages to improve conversions and campaign performance."
+          },
+          {
+            "question": "How do you track ROI from ads?",
+            "answer": "We set up conversion tracking and provide detailed reports to measure performance and returns."
+          }
+        ]
+      }
+    },
+    {
+      "id": "004",
+      "key": "meta-ads",
+      "name": "Meta Ads",
+      "sidebarLabel": "Meta Ads",
+      "listTitle": "Meta Ads",
+      "hero": {
+        "subtitle": "Engage. Convert. Scale.",
+        "title": "Meta Ads That Drive Engagement & High-Quality Leads",
+        "description": "At Brandbanalo, we create powerful Meta Ads campaigns across Facebook and Instagram that attract the right audience, boost engagement, and generate consistent leads for your business.",
+        "image": "/assets/img/service/Meta-add.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for high-performing social media ads",
+        "ctaButtons": [
+          {
+            "label": "Get Free Ads Strategy",
+            "url": "/contact"
+          },
+          {
+            "label": "Launch Campaign",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Social Advertising That Converts",
+        "title": "Result-Oriented Meta Ads Solutions",
+        "description": "Meta Ads are one of the most effective ways to reach and engage your target audience. At Brandbanalo, we design campaigns that not only grab attention but also drive real business outcomes. We combine creative storytelling, audience targeting, and performance tracking to ensure your ads reach the right people at the right time. From brand awareness to lead generation, our strategies are built to deliver consistent and scalable growth. We turn social media attention into real leads and business growth. As a leading Digital Marketing Agency in India, Brandbanalo delivers Meta Ads campaigns that are built for performance. We focus on transparency, creative excellence, and continuous optimization to ensure your advertising investment delivers real business growth.",
+        "image": "/assets/img/Service-main/meta-about.webp",
+        "links": [
+          {
+            "label": "Find Out More",
+            "url": "/about"
+          },
+          {
+            "label": "Get in Touch",
+            "url": "/contact"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "High-Quality Prospecting",
+          "description": "Reach new audiences with precise targeting and creative strategies.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Optimized Conversion Funnels",
+          "description": "Structured campaigns designed to guide users from interest to action.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Predictable Pipeline Growth",
+          "description": "Consistent lead flow with scalable campaign strategies.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "ROI-Focused Campaigns",
+          "description": "Maximize returns with performance-driven ad management.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Creative-Driven Approach",
+          "description": "Engaging visuals and ad copies that capture attention instantly.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "Advanced Audience Targeting",
+          "description": "Custom and lookalike audiences for better reach and conversions.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Facebook & Instagram Ads Management",
+          "desc1": "Strategic campaigns designed to maximize reach, engagement, and conversions.",
+          "desc2": "Campaigns built for the platforms where your audience spends time.",
+          "image": "/assets/img/Service-main/Meta-1.webp"
+        },
+        {
+          "title": "Lead Generation Campaigns",
+          "desc1": "Optimized forms and funnels to capture high-quality leads efficiently.",
+          "desc2": "Campaigns focused on lead capture and qualified prospect growth.",
+          "image": "/assets/img/Service-main/Meta-2.webp"
+        },
+        {
+          "title": "E-commerce Ads",
+          "desc1": "Product-focused campaigns to drive traffic and increase sales.",
+          "desc2": "Ad strategies that convert shoppers into buyers.",
+          "image": "/assets/img/Service-main/Meta-3.webp"
+        },
+        {
+          "title": "Retargeting Campaigns",
+          "desc1": "Reconnect with users who have already interacted with your brand.",
+          "desc2": "Bring warm audiences back with personalized remarketing efforts.",
+          "image": "/assets/img/Service-main/Meta-4.webp"
+        },
+        {
+          "title": "Creative Ad Design",
+          "desc1": "High-performing visuals and ad creatives tailored for your audience.",
+          "desc2": "Designs that capture attention and support stronger engagement.",
+          "image": "/assets/img/Service-main/Meta-5.webp"
+        },
+        {
+          "title": "Landing Page Optimization",
+          "desc1": "Conversion-focused landing pages to improve campaign results.",
+          "desc2": "Pages designed to turn ad traffic into leads and sales.",
+          "image": "/assets/img/Service-main/Meta-6.webp"
+        },
+        {
+          "title": "Performance Tracking & Reporting",
+          "desc1": "Detailed insights to measure performance and optimize campaigns.",
+          "desc2": "Transparent reporting for smarter decision-making.",
+          "image": "/assets/img/Service-main/Meta-7.webp"
+        },
+        {
+          "title": "Pixel & Event Tracking Setup",
+          "desc1": "Accurate tracking for leads, purchases, and key actions across your funnel.",
+          "desc2": "Better data means better optimization and lower cost per result.",
+          "image": "/assets/img/Service-main/Lead-6.webp"
+        },
+        {
+          "title": "Creative Testing & Iteration",
+          "desc1": "Multiple creative angles tested to find what drives the best performance.",
+          "desc2": "Continuous refresh to avoid ad fatigue and maintain stable results.",
+          "image": "/assets/img/Service-main/Lead-5.webp"
+        },
+        {
+          "title": "Funnel & Landing Page Alignment",
+          "desc1": "Ad messaging aligned with landing pages for stronger conversion rates.",
+          "desc2": "Improved user journey from click to lead to customer.",
+          "image": "/assets/img/Service-main/Lead-2.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "META ADS GROWTH",
+        "title": "Key Features",
+        "features": [
+          {
+            "title": "Creative Testing Engine",
+            "desc": "Continuous testing of creatives to find what works best."
+          },
+          {
+            "title": "B2B & B2C Targeting",
+            "desc": "Customized strategies for different business models and audiences."
+          },
+          {
+            "title": "Conversion-Ready Landing Pages",
+            "desc": "Optimized pages designed to convert traffic into leads."
+          },
+          {
+            "title": "Retargeting Strategy",
+            "desc": "Re-engage potential customers to increase conversion rates."
+          },
+          {
+            "title": "Pixel & Event Tracking",
+            "desc": "Accurate tracking for better campaign optimization and insights."
+          },
+          {
+            "title": "ROAS & Analytics Reporting",
+            "desc": "Clear reporting focused on return on ad spend and performance."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/Meta-FAQ.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "Which Meta Ads platforms do you manage?",
+            "answer": "We manage Facebook and Instagram Ads, including feed, stories, reels, and more."
+          },
+          {
+            "question": "Can Meta Ads generate leads for my business?",
+            "answer": "Yes, Meta Ads are highly effective for lead generation when combined with the right strategy and creatives."
+          },
+          {
+            "question": "What budget is required to start Meta Ads?",
+            "answer": "Budgets vary based on goals and competition, but we help you start with an optimized and scalable plan."
+          },
+          {
+            "question": "Do you create ad creatives as well?",
+            "answer": "Yes, we design high-performing creatives tailored to your audience and campaign goals."
+          },
+          {
+            "question": "How do you track ad performance?",
+            "answer": "We use advanced tracking tools like Meta Pixel and analytics to measure and optimize performance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "005",
+      "key": "branding-kit",
+      "name": "Branding Kit",
+      "sidebarLabel": "Branding Kit",
+      "listTitle": "Branding Kit",
+      "hero": {
+        "subtitle": "Build Identity. Create Impact.",
+        "title": "Branding Kit That Defines Your Business Identity",
+        "description": "At Brandbanalo, we create powerful branding kits that establish a strong, consistent, and memorable identity—helping your business stand out and connect with your audience.",
+        "image": "/assets/img/Service-main/Brand-Kit.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for strategic branding solutions",
+        "ctaButtons": [
+          {
+            "label": "Get Free Branding Consultation",
+            "url": "/contact"
+          },
+          {
+            "label": "Build Your Brand Identity",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Brand Identity That Lasts",
+        "title": "Complete Branding Kit Solutions for Modern Businesses",
+        "description": "Your brand is more than just a logo—it’s the perception people have about your business. At Brandbanalo, we build complete branding kits that reflect your vision, values, and market positioning. We focus on creating a unified identity across all platforms so your brand looks consistent, professional, and trustworthy everywhere. From startups to established businesses, we help you build a brand that not only looks great but also drives recognition and growth. We create brands that people remember, trust, and choose.",
+        "image": "/assets/img/Service-main/Brand-Kit2.webp",
+        "links": [
+          {
+            "label": "Find Out More",
+            "url": "/about"
+          },
+          {
+            "label": "Get in Touch",
+            "url": "/contact"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "Strategic Identity Development",
+          "description": "Creating a brand identity aligned with your business vision and goals.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Creative Design Excellence",
+          "description": "Visually appealing designs that reflect professionalism and uniqueness.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Consistent Unified Branding",
+          "description": "Ensuring consistency across all platforms and marketing materials.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Impactful Brand Storytelling",
+          "description": "Crafting a brand voice and message that connects with your audience.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Market-Focused Branding",
+          "description": "Positioning your brand effectively within your industry.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "Scalable Brand Systems",
+          "description": "Design systems that grow with your business over time.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Logo Design & Identity",
+          "desc1": "Unique and memorable logo designs that represent your brand effectively.",
+          "desc2": "Symbols and marks crafted to reflect your core values and personality.",
+          "image": "/assets/img/Service-main/Branding-1.webp"
+        },
+        {
+          "title": "Brand Guidelines Creation",
+          "desc1": "Clear rules for colors, fonts, and usage to maintain consistency.",
+          "desc2": "A practical guide that keeps your brand identity consistent everywhere.",
+          "image": "/assets/img/Service-main/Branding-2.webp"
+        },
+        {
+          "title": "Visual Identity Design",
+          "desc1": "Design elements including typography, color palette, and imagery style.",
+          "desc2": "A cohesive visual language for digital and offline brand experiences.",
+          "image": "/assets/img/Service-main/Branding-3.webp"
+        },
+        {
+          "title": "Stationery Design",
+          "desc1": "Business cards, letterheads, and professional brand materials.",
+          "desc2": "Branded collateral that makes every touchpoint feel premium.",
+          "image": "/assets/img/Service-main/Branding-4.webp"
+        },
+        {
+          "title": "Social Media Branding",
+          "desc1": "Consistent visuals and templates for all social platforms.",
+          "desc2": "A unified brand presence across Instagram, Facebook, LinkedIn, and more.",
+          "image": "/assets/img/Service-main/Branding-5.webp"
+        },
+        {
+          "title": "Brand Messaging & Voice",
+          "desc1": "Defining tone, messaging, and communication style for your brand.",
+          "desc2": "A strong voice that supports every campaign and customer interaction.",
+          "image": "/assets/img/Service-main/Branding-6.webp"
+        },
+        {
+          "title": "Rebranding Solutions",
+          "desc1": "Refreshing and upgrading your existing brand identity.",
+          "desc2": "Modernizing your brand while preserving recognition and trust.",
+          "image": "/assets/img/Service-main/Branding-7.webp"
+        },
+        {
+          "title": "Packaging & Label Design",
+          "desc1": "Designs that stand out on shelves and marketplaces while staying on-brand.",
+          "desc2": "Clear hierarchy, premium look, and compliance-ready layouts.",
+          "image": "/assets/img/Service-main/Branding-8.webp"
+        },
+        {
+          "title": "Brand Collateral Design",
+          "desc1": "Brochures, pitch decks, posters, and marketing creatives for every touchpoint.",
+          "desc2": "Consistent visuals that strengthen recall and trust.",
+          "image": "/assets/img/Service-main/Branding-9.webp"
+        },
+        {
+          "title": "Brand Audit & Refresh",
+          "desc1": "Identify gaps in your current brand identity and positioning.",
+          "desc2": "A clear plan to modernize your look and messaging without losing equity.",
+          "image": "/assets/img/Service-main/Branding-10.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "BRANDING IMPACT",
+        "title": "Key Features",
+        "features": [
+          {
+            "title": "Unique Brand Identity",
+            "desc": "Distinct visual identity that sets you apart from competitors."
+          },
+          {
+            "title": "Strategic Foundation",
+            "desc": "Built on research and market understanding for long-term success."
+          },
+          {
+            "title": "Multi-Platform Ready",
+            "desc": "Designed for use across digital and offline platforms."
+          },
+          {
+            "title": "Cohesive Brand Voice",
+            "desc": "Consistent tone and messaging across all communications."
+          },
+          {
+            "title": "Inclusive Design Approach",
+            "desc": "Designs that appeal to diverse audiences and markets."
+          },
+          {
+            "title": "Scalable Brand System",
+            "desc": "Flexible branding that evolves as your business grows."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/Brand-Kit-SAQ.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "What is included in a branding kit?",
+            "answer": "A branding kit includes logo design, color palette, typography, brand guidelines, and visual assets for consistent branding."
+          },
+          {
+            "question": "How long does branding take?",
+            "answer": "Typically, branding projects take 1–3 weeks depending on complexity and requirements."
+          },
+          {
+            "question": "Can you redesign my existing brand?",
+            "answer": "Yes, we offer rebranding services to improve and modernize your current identity."
+          },
+          {
+            "question": "Do you provide brand guidelines?",
+            "answer": "Yes, we create detailed brand guidelines to ensure consistency across all platforms."
+          },
+          {
+            "question": "Is branding important for small businesses?",
+            "answer": "Yes, strong branding helps build trust, recognition, and long-term growth for businesses of all sizes."
+          }
+        ]
+      }
+    },
+    {
+      "id": "006",
+      "key": "social-media-marketing",
+      "name": "Social Media Marketing",
+      "sidebarLabel": "Social Media Marketing",
+      "listTitle": "Social Media Marketing",
+      "hero": {
+        "subtitle": "Engage. Grow. Influence.",
+        "title": "Social Media Marketing That Builds Brands & Drives Engagement",
+        "description": "At Brandbanalo, we create powerful social media strategies that increase engagement, build brand awareness, and turn followers into loyal customers.",
+        "image": "/assets/img/Service-main/SMO.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for result-driven social media marketing",
+        "ctaButtons": [
+          {
+            "label": "Get Free Social Audit",
+            "url": "/contact"
+          },
+          {
+            "label": "Grow Your Social Presence",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Social Growth That Matters",
+        "title": "Strategic Social Media Marketing Solutions",
+        "description": "Social media is where your audience spends most of their time—and your brand needs to stand out. At Brandbanalo, we help you create a strong, engaging presence across platforms like Instagram, Facebook, and LinkedIn. Our approach combines creative content, audience engagement, and data-driven strategies to ensure consistent growth and visibility. Whether your goal is brand awareness or lead generation, we build social media strategies that deliver measurable results. We turn your social media into a powerful tool for branding and lead generation. As a leading Digital Marketing Agency in India, Brandbanalo helps brands grow on social media with strategy, creativity, and consistency. We focus on real engagement and measurable growth—ensuring your social media efforts translate into business success.",
+        "image": "/assets/img/Service-main/SMO-About2.webp",
+        "links": [
+          {
+            "label": "Find Out More",
+            "url": "/about"
+          },
+          {
+            "label": "Get in Touch",
+            "url": "/contact"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "Strategic Content Curation",
+          "description": "Engaging content planned to connect with your audience and build trust.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Active Community Engagement",
+          "description": "Responding, interacting, and building relationships with your audience.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Data-Driven Growth",
+          "description": "Using insights and analytics to improve performance continuously.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Dynamic Visual Storytelling",
+          "description": "Creative visuals and designs that capture attention instantly.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Platform-Specific Strategy",
+          "description": "Customized approach for each platform to maximize impact.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "Consistency & Branding",
+          "description": "Maintaining a strong and consistent brand voice across all channels.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Content Creation",
+          "desc1": "High-quality posts, creatives, and captions designed for engagement.",
+          "desc2": "Content built to capture attention and drive interactions.",
+          "image": "/assets/img/Service-main/SMO-2.webp"
+        },
+        {
+          "title": "Social Media Management",
+          "desc1": "Complete handling of your social accounts for consistent growth.",
+          "desc2": "Daily publishing, community management, and profile optimization.",
+          "image": "/assets/img/Service-main/SMO-1.webp"
+        },
+        {
+          "title": "Paid Social Campaigns",
+          "desc1": "Targeted ad campaigns to boost reach and generate leads.",
+          "desc2": "Performance-focused advertising across Facebook and Instagram.",
+          "image": "/assets/img/Service-main/SMO-4.webp"
+        },
+        {
+          "title": "Influencer Collaboration",
+          "desc1": "Partnering with influencers to expand your brand reach.",
+          "desc2": "Authentic creator partnerships that build trust and visibility.",
+          "image": "/assets/img/Service-main/SMO-6.webp"
+        },
+        {
+          "title": "Analytics & Reporting",
+          "desc1": "Tracking performance with detailed insights and reports.",
+          "desc2": "Data that helps you understand growth and improve campaigns.",
+          "image": "/assets/img/Service-main/SMO-5.webp"
+        },
+        {
+          "title": "Brand Strategy Integration",
+          "desc1": "Aligning social media with your overall branding and marketing goals.",
+          "desc2": "Creating a consistent story across all customer touchpoints.",
+          "image": "/assets/img/Service-main/SMO-3.webp"
+        },
+        {
+          "title": "Campaign Planning",
+          "desc1": "Strategic planning for launches, offers, and seasonal campaigns.",
+          "desc2": "Roadmaps that keep your social media activity purposeful and effective.",
+          "image": "/assets/img/Service-main/SMO-7.webp"
+        },
+        {
+          "title": "Reels & Short-Form Content",
+          "desc1": "High-impact reels and short videos designed for reach and engagement.",
+          "desc2": "Trendy formats that keep your brand visible and relevant.",
+          "image": "/assets/img/Service-main/SMO-6.webp"
+        },
+        {
+          "title": "Community Management",
+          "desc1": "Replying to comments and DMs to build trust and strengthen relationships.",
+          "desc2": "Consistent brand voice and faster response times for better loyalty.",
+          "image": "/assets/img/Service-main/SMO-1.webp"
+        },
+        {
+          "title": "Profile & Bio Optimization",
+          "desc1": "Optimizing your profile, highlights, and CTAs to improve conversions.",
+          "desc2": "Turn visitors into followers, leads, and customers.",
+          "image": "/assets/img/Service-main/SMO-3.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "SOCIAL EXCELLENCE",
+        "title": "Key Features",
+        "features": [
+          {
+            "title": "Multi-Platform Strategy",
+            "desc": "Optimized approach for Instagram, Facebook, LinkedIn, and more."
+          },
+          {
+            "title": "Engagement Tracking",
+            "desc": "Monitoring likes, shares, comments, and audience behavior."
+          },
+          {
+            "title": "Content Calendar Planning",
+            "desc": "Organized posting schedule for consistent brand presence."
+          },
+          {
+            "title": "Creative Design Support",
+            "desc": "Visually appealing designs tailored for social platforms."
+          },
+          {
+            "title": "Audience Targeting",
+            "desc": "Reaching the right users based on interests and behavior."
+          },
+          {
+            "title": "Performance Optimization",
+            "desc": "Continuous improvement based on analytics and trends."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/SMO-FAQ.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "Which social media platforms do you manage?",
+            "answer": "We manage Instagram, Facebook, LinkedIn, and other platforms based on your business needs."
+          },
+          {
+            "question": "How often will you post content?",
+            "answer": "Posting frequency depends on your strategy, but we maintain a consistent and optimized schedule."
+          },
+          {
+            "question": "Do you create content or do we provide it?",
+            "answer": "We handle complete content creation including design, captions, and strategy."
+          },
+          {
+            "question": "Can social media generate leads?",
+            "answer": "Yes, with the right strategy and campaigns, social media can be a powerful lead generation channel."
+          },
+          {
+            "question": "How do you measure success on social media?",
+            "answer": "We track engagement, reach, growth, and conversions to measure performance and improve results."
+          }
+        ]
+      }
+    },
+    {
+      "id": "007",
+      "key": "website-design",
+      "name": "Website Design",
+      "sidebarLabel": "Website Design",
+      "listTitle": "Website Design",
+      "hero": {
+        "subtitle": "Creative. Strategic. Conversion-Focused",
+        "title": "Website Design That Captures Attention & Converts",
+        "description": "At Brandbanalo, we craft modern, user-focused website designs that not only look stunning but guide visitors towards action—boosting engagement, trust, and conversions.",
+        "image": "/assets/img/Service-main/WebDesign.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for high-converting website design solutions",
+        "ctaButtons": [
+          {
+            "label": "Get Free Design Consultation",
+            "url": "/contact"
+          },
+          {
+            "label": "View Design Portfolio",
+            "url": "/case-study"
+          }
+        ]
+      },
+      "about": {
+        "label": "Design That Performs",
+        "title": "Your website design is the first impression of your brand—and it matters more than ever.",
+        "description": "At Brandbanalo, we design interfaces that are visually appealing, easy to navigate, and built with a clear conversion strategy. We don’t just focus on aesthetics. Every design decision is backed by user behavior, ensuring your visitors stay longer, explore more, and take action. From startups to enterprises, we create designs that reflect your brand identity while delivering measurable business results.",
+        "image": "/assets/img/Service-main/WebDesign2.webp",
+        "links": [
+          {
+            "label": "Get Free Design Consultation",
+            "url": "/contact"
+          },
+          {
+            "label": "View Design Portfolio",
+            "url": "/case-study"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "UI/UX That Converts",
+          "description": "Designs focused on user behavior to increase engagement and conversions.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Responsive by Default",
+          "description": "Fully optimized designs that work flawlessly across all devices.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Design System Ready",
+          "description": "Consistent visual systems that scale with your brand growth.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Landing Pages That Convert",
+          "description": "High-impact landing page designs built for campaigns and lead generation.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Brand-Focused Design",
+          "description": "Every element reflects your brand identity and messaging.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "User-Centric Approach",
+          "description": "Design decisions driven by real user needs and interactions.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Frontend Design Implementation",
+          "desc1": "Pixel-perfect UI designs transformed into responsive and interactive interfaces.",
+          "desc2": "Ensuring design intent is preserved across devices and screens.",
+          "image": "/assets/img/Service-main/web-design-1.webp"
+        },
+        {
+          "title": "UX Strategy & Wireframing",
+          "desc1": "Structured layouts and user flows designed for better usability and conversions.",
+          "desc2": "Mapping journeys that reduce friction and guide visitors to action.",
+          "image": "/assets/img/Service-main/web-design-2.webp"
+        },
+        {
+          "title": "E-commerce Design",
+          "desc1": "Engaging product and checkout experiences that increase sales.",
+          "desc2": "Designing pages that make shopping easy and persuasive.",
+          "image": "/assets/img/Service-main/web-design-3.webp"
+        },
+        {
+          "title": "CMS-Based Design",
+          "desc1": "Flexible and scalable design systems for easy content management.",
+          "desc2": "Giving your team the tools to update the website without extra development.",
+          "image": "/assets/img/Service-main/web-design-4.webp"
+        },
+        {
+          "title": "SEO-Friendly Design",
+          "desc1": "Design structure aligned with SEO best practices for better visibility.",
+          "desc2": "Optimizing layouts and content hierarchy for search and user experience.",
+          "image": "/assets/img/Service-main/web-design-5.webp"
+        },
+        {
+          "title": "Landing Page Design",
+          "desc1": "Conversion-focused layouts for ads, campaigns, and lead generation.",
+          "desc2": "Designing attention-grabbing pages that drive action.",
+          "image": "/assets/img/Service-main/web-design-6.webp"
+        },
+        {
+          "title": "Branding Integration",
+          "desc1": "Design elements aligned with your overall branding and communication.",
+          "desc2": "Creating a unified visual language across your website.",
+          "image": "/assets/img/Service-main/web-design-7.webp"
+        },
+        {
+          "title": "Performance-Driven Design",
+          "desc1": "Designs that look premium while remaining lightweight and efficient.",
+          "desc2": "Balancing aesthetics with speed and usability for better results.",
+          "image": "/assets/img/Service-main/web-design-8.webp"
+        },
+        {
+          "title": "Design System & Components",
+          "desc1": "Reusable UI components and consistent styling for scalable design.",
+          "desc2": "Maintain brand consistency across pages and future updates.",
+          "image": "/assets/img/Service-main/web-design-9.webp"
+        },
+        {
+          "title": "Accessibility & Best Practices",
+          "desc1": "Readable typography, contrast, and interaction patterns that work for everyone.",
+          "desc2": "Inclusive design that improves usability and supports better conversions.",
+          "image": "/assets/img/Service-main/web-design-10.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "CORE FEATURES",
+        "title": "What Makes Our Website Design Work",
+        "features": [
+          {
+            "title": "Conversion-First Layouts",
+            "desc": "Strategically designed layouts that guide users toward action."
+          },
+          {
+            "title": "Mobile-Ready UX",
+            "desc": "Optimized experiences for mobile users to maximize engagement."
+          },
+          {
+            "title": "Speed Optimized Design",
+            "desc": "Lightweight design structure for faster loading performance."
+          },
+          {
+            "title": "Component-Based Design",
+            "desc": "Reusable design systems for consistency and scalability."
+          },
+          {
+            "title": "Accessible & User-Friendly",
+            "desc": "Designs that are easy to use for all types of users."
+          },
+          {
+            "title": "A/B Testing Ready",
+            "desc": "Flexible layouts that support continuous improvement and testing."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/WebDesign-FAQ.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "What does website design include?",
+            "answer": "It includes UI design, UX strategy, layout planning, wireframing, and visual elements aligned with your brand."
+          },
+          {
+            "question": "Can you design for both B2B and B2C businesses?",
+            "answer": "Yes, we create customized designs tailored to different industries and target audiences."
+          },
+          {
+            "question": "Will the design be mobile-friendly?",
+            "answer": "Yes, all our designs are fully responsive and optimized for mobile devices."
+          },
+          {
+            "question": "Can you redesign my existing website?",
+            "answer": "Yes, we can improve your current design to enhance usability and conversions."
+          },
+          {
+            "question": "Do you also provide development services?",
+            "answer": "Yes, we offer complete Website Development along with design to deliver a full solution."
+          }
+        ]
+      }
+    },
+    {
+      "id": "008",
+      "key": "ugc-marketing",
+      "name": "UGC Marketing",
+      "sidebarLabel": "UGC Marketing",
+      "listTitle": "UGC Marketing",
+      "hero": {
+        "subtitle": "Real Content. Real Impact.",
+        "title": "UGC Marketing That Builds Trust & Drives Conversions",
+        "description": "At Brandbanalo, we create high-performing User Generated Content (UGC) that connects with your audience, builds authenticity, and boosts engagement across digital platforms.",
+        "image": "/assets/img/Service-main/ugc.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for authentic content-driven growth",
+        "ctaButtons": [
+          {
+            "label": "Get UGC Strategy",
+            "url": "/contact"
+          },
+          {
+            "label": "Start Your Campaign",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Content That Feels Real",
+        "title": "End-to-End UGC Marketing Solutions",
+        "description": "In today’s digital world, people trust people—not ads. UGC marketing helps your brand connect with audiences through authentic, relatable content created by real users and creators. At Brandbanalo, we help you leverage UGC to build trust, increase engagement, and improve conversion rates across platforms like Instagram, Facebook, and ads. From sourcing creators to delivering ad-ready content, we manage the complete process to ensure consistent results. We turn real experiences into powerful marketing content that converts. As a results-driven Digital Marketing Agency in India, Brandbanalo helps brands leverage UGC marketing to create authentic connections and measurable growth. We focus on strategy, creativity, and performance to ensure your content delivers real business results.",
+        "image": "/assets/img/Service-main/UGC3.webp",
+        "links": [
+          {
+            "label": "Find Out More",
+            "url": "/about"
+          },
+          {
+            "label": "Get in Touch",
+            "url": "/contact"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "UGC Across Platforms",
+          "description": "Content optimized for Instagram, Facebook, ads, and more.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Creator Sourcing",
+          "description": "Connecting your brand with the right creators for authentic content.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Ad-Ready Editing",
+          "description": "Professionally edited videos and visuals optimized for performance.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Scalable Content Production",
+          "description": "Consistent delivery of high-quality content for ongoing campaigns.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Creator / Customer Sourcing",
+          "desc1": "Finding the right creators and users to represent your brand authentically.",
+          "desc2": "Building authentic content with real audience appeal.",
+          "image": "/assets/img/Service-main/UGC-1.webp"
+        },
+        {
+          "title": "UGC Video Production",
+          "desc1": "High-quality video content designed for engagement and ads.",
+          "desc2": "Optimized formats that work across social and paid channels.",
+          "image": "/assets/img/Service-main/UGC-2.webp"
+        },
+        {
+          "title": "Content Strategy & Planning",
+          "desc1": "Planning UGC campaigns aligned with your marketing goals.",
+          "desc2": "A strategic approach for consistent and measurable content performance.",
+          "image": "/assets/img/Service-main/UGC-3.webp"
+        },
+        {
+          "title": "Ad Creative Development",
+          "desc1": "Optimizing UGC for paid campaigns and better performance.",
+          "desc2": "Making authentic content work harder in ads.",
+          "image": "/assets/img/Service-main/UGC-4.webp"
+        },
+        {
+          "title": "Platform Optimization",
+          "desc1": "Tailoring content for different social media platforms.",
+          "desc2": "Ensuring each asset performs well on the right channel.",
+          "image": "/assets/img/Service-main/UGC-5.webp"
+        },
+        {
+          "title": "Performance Tracking",
+          "desc1": "Analyzing content performance to improve results continuously.",
+          "desc2": "Data-driven optimization to increase engagement and conversions.",
+          "image": "/assets/img/Service-main/UGC-6.webp"
+        },
+        {
+          "title": "Brand Integration",
+          "desc1": "Ensuring UGC aligns with your brand messaging and identity.",
+          "desc2": "Keeping every piece of content on-brand and consistent.",
+          "image": "/assets/img/Service-main/UGC-7.webp"
+        },
+        {
+          "title": "UGC Script & Hook Writing",
+          "desc1": "Strong hooks and clear scripts that hold attention in the first 3 seconds.",
+          "desc2": "Messaging built to drive clicks, leads, and conversions.",
+          "image": "/assets/img/Service-main/UGC2.webp"
+        },
+        {
+          "title": "Editing, Captions & Subtitles",
+          "desc1": "Fast-paced edits with subtitles to increase watch time and retention.",
+          "desc2": "Ad-ready exports optimized for each platform.",
+          "image": "/assets/img/Service-main/UGC3.webp"
+        },
+        {
+          "title": "Usage Rights & Content Library",
+          "desc1": "Organized content library with clear usage rights for ads and organic posts.",
+          "desc2": "Scale campaigns faster with ready-to-use assets.",
+          "image": "/assets/img/Service-main/why-choose-card-image.svg"
+        }
+      ],
+      "keyFeatures": {
+        "label": "UGC ENGINE",
+        "title": "Key Features",
+        "features": [
+          {
+            "title": "Authentic Creative Insights",
+            "desc": "Content based on real user experiences and audience behavior."
+          },
+          {
+            "title": "Performance-Driven Formats",
+            "desc": "UGC formats designed for maximum engagement and conversions."
+          },
+          {
+            "title": "Short-Form Video Focus",
+            "desc": "Optimized for reels, shorts, and quick-consumption content."
+          },
+          {
+            "title": "Funnel-Based Content Strategy",
+            "desc": "Content aligned with awareness, consideration, and conversion stages."
+          },
+          {
+            "title": "Conversion Proof Content",
+            "desc": "Showcasing real results and experiences to build trust."
+          },
+          {
+            "title": "Scalable Asset Delivery",
+            "desc": "Consistent supply of content for ongoing campaigns."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/UGC2.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "What is UGC marketing?",
+            "answer": "UGC (User Generated Content) is content created by real users or creators that promotes your brand in an authentic and relatable way."
+          },
+          {
+            "question": "Is UGC effective for all businesses?",
+            "answer": "Yes, UGC works for both B2B and B2C businesses by building trust and improving engagement."
+          },
+          {
+            "question": "Do you provide creators for UGC content?",
+            "answer": "Yes, we source and manage creators who align with your brand and audience."
+          },
+          {
+            "question": "Can UGC be used in paid ads?",
+            "answer": "Absolutely, UGC performs exceptionally well in ads due to its authenticity and relatability."
+          },
+          {
+            "question": "How do you measure UGC performance?",
+            "answer": "We track engagement, conversions, and ROI to continuously optimize content performance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "009",
+      "key": "influancer-marketing",
+      "name": "Influencer Marketing",
+      "sidebarLabel": "Influencer Marketing",
+      "listTitle": "Influencer Marketing",
+      "hero": {
+        "subtitle": "Influence. Engage. Convert.",
+        "title": "Influencer Marketing That Builds Trust & Drives Results",
+        "description": "At Brandbanalo, we connect your brand with the right influencers to create authentic campaigns that boost visibility, engagement, and conversions.",
+        "image": "/assets/img/Service-main/Influancer2.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for performance-driven influencer marketing",
+        "ctaButtons": [
+          {
+            "label": "Get Influencer Strategy",
+            "url": "/contact"
+          },
+          {
+            "label": "Start Your Campaign",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Influence That Matters",
+        "title": "Strategic Influencer Marketing Solutions",
+        "description": "Influencer marketing is more than promotion—it’s about trust and connection. At Brandbanalo, we help your brand collaborate with influencers who align with your audience and values. We focus on creating campaigns that feel natural, engaging, and result-oriented—ensuring your brand message reaches the right people effectively. From micro-influencers to large creators, we build strategies that deliver measurable growth and strong brand recall. We turn influencer collaborations into measurable business growth. As a trusted Digital Marketing Agency in India, Brandbanalo delivers influencer marketing campaigns that are authentic, strategic, and performance-driven. We ensure every collaboration adds value to your brand and contributes to measurable business growth.",
+        "image": "/assets/img/Service-main/Influancer.webp",
+        "links": [
+          {
+            "label": "Find Out More",
+            "url": "/about"
+          },
+          {
+            "label": "Get in Touch",
+            "url": "/contact"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "Right Influencer Selection",
+          "description": "Carefully choosing influencers that match your brand, niche, and audience.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Campaign Planning & Execution",
+          "description": "End-to-end campaign management for seamless collaboration and results.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "UGC-Style Content Creation",
+          "description": "Authentic and engaging content that resonates with audiences.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Measured Outcomes",
+          "description": "Performance tracking to ensure campaigns deliver real value.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Audience Matching Strategy",
+          "description": "Targeting the right audience segments for maximum impact.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "Creative Collaboration",
+          "description": "Working closely with influencers to create high-quality content.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Influencer Research & Outreach",
+          "desc1": "Identifying and connecting with influencers aligned with your brand.",
+          "desc2": "Building relationships with creators who fit your audience and values.",
+          "image": "/assets/img/Service-main/Infulancer-1.webp"
+        },
+        {
+          "title": "Campaign Strategy & Planning",
+          "desc1": "Designing campaigns tailored to your business goals and audience.",
+          "desc2": "A strategic roadmap that turns influence into measurable results.",
+          "image": "/assets/img/Service-main/Infulancer-2.webp"
+        },
+        {
+          "title": "Content Brief & Creative Direction",
+          "desc1": "Providing clear guidelines to ensure consistent and impactful content.",
+          "desc2": "Aligning influencer output to your brand story and campaign goals.",
+          "image": "/assets/img/Service-main/Infulancer-3.webp"
+        },
+        {
+          "title": "Platform-Specific Campaigns",
+          "desc1": "Executing campaigns across Instagram, YouTube, and other platforms.",
+          "desc2": "Optimizing each channel for the best visibility and engagement.",
+          "image": "/assets/img/Service-main/Infulancer-4.webp"
+        },
+        {
+          "title": "Performance Tracking & Reporting",
+          "desc1": "Monitoring campaign results with detailed analytics and insights.",
+          "desc2": "Measuring engagement, reach, conversions, and ROI.",
+          "image": "/assets/img/Service-main/Infulancer-5.webp"
+        },
+        {
+          "title": "UGC Integration",
+          "desc1": "Repurposing influencer content for ads and marketing campaigns.",
+          "desc2": "Using authentic content across paid and organic channels.",
+          "image": "/assets/img/Service-main/Infulancer-6.webp"
+        },
+        {
+          "title": "Brand Collaboration Management",
+          "desc1": "Handling communication and coordination with influencers.",
+          "desc2": "Keeping every campaign organized and aligned with your brand.",
+          "image": "/assets/img/Service-main/Infulancer-7.webp"
+        },
+        {
+          "title": "Creator Contracting & Briefing",
+          "desc1": "Clear deliverables, timelines, and creative briefs for smooth execution.",
+          "desc2": "Reduce revisions and ensure consistent brand messaging.",
+          "image": "/assets/img/Service-main/Infulancer-8.webp"
+        },
+        {
+          "title": "Content Review & Quality Control",
+          "desc1": "Reviewing content for brand safety, compliance, and performance intent.",
+          "desc2": "Polished outputs that look authentic and convert better.",
+          "image": "/assets/img/Service-main/Infulancer-9.webp"
+        },
+        {
+          "title": "Influencer Reporting & Insights",
+          "desc1": "Track reach, engagement, clicks, and conversions across campaigns.",
+          "desc2": "Learn what works and scale the best-performing creators.",
+          "image": "/assets/img/Service-main/Infulancer-10.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "INFLUENCER IMPACT",
+        "title": "Key Features",
+        "features": [
+          {
+            "title": "Audience-Centric Approach",
+            "desc": "Targeting audiences based on interests, behavior, and demographics."
+          },
+          {
+            "title": "Brand-Safe Creatives",
+            "desc": "Ensuring all content aligns with your brand guidelines."
+          },
+          {
+            "title": "Conversion-Ready Content",
+            "desc": "Influencer content designed to drive engagement and action."
+          },
+          {
+            "title": "Full Campaign Management",
+            "desc": "End-to-end handling from influencer selection to reporting."
+          },
+          {
+            "title": "Content Repurposing Strategy",
+            "desc": "Using influencer content across ads and marketing channels."
+          },
+          {
+            "title": "Performance Reporting",
+            "desc": "Clear insights on engagement, reach, and ROI."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/Influancer-FAQ.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "How do you choose the right influencers?",
+            "answer": "We select influencers based on audience relevance, engagement rate, and alignment with your brand."
+          },
+          {
+            "question": "Can influencer marketing work for B2B businesses?",
+            "answer": "Yes, influencer marketing works for both B2B and B2C with the right strategy and niche creators."
+          },
+          {
+            "question": "Do you manage the entire campaign?",
+            "answer": "Yes, we handle everything from planning and outreach to execution and reporting."
+          },
+          {
+            "question": "Can influencer content be used in ads?",
+            "answer": "Yes, influencer content can be repurposed for ads to improve performance."
+          },
+          {
+            "question": "How do you measure campaign success?",
+            "answer": "We track engagement, reach, conversions, and ROI to evaluate campaign performance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "010",
+      "key": "video-creation",
+      "name": "Video Creation",
+      "sidebarLabel": "Video Creation",
+      "listTitle": "Video Creation",
+      "hero": {
+        "subtitle": "Create. Engage. Convert.",
+        "title": "Video Creation That Captures Attention & Drives Results",
+        "description": "At Brandbanalo, we produce high-quality, performance-driven videos that tell your story, engage your audience, and boost conversions across digital platforms.",
+        "image": "/assets/img/Service-main/Video.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for high-impact video marketing",
+        "ctaButtons": [
+          {
+            "label": "Start Your Video Project",
+            "url": "/contact"
+          },
+          {
+            "label": "Get Free Consultation",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Visual Content That Performs",
+        "title": "End-to-End Video Creation Solutions",
+        "description": "Video is one of the most powerful ways to communicate your message. At Brandbanalo, we create videos that are not just visually appealing but strategically designed to deliver results. From brand storytelling to ad creatives, we focus on clarity, engagement, and conversion—ensuring every video serves a purpose. Whether for social media, ads, or websites, our video solutions help your brand stand out and connect effectively with your audience. We create videos that not only look great but also deliver measurable results.",
+        "image": "/assets/img/Service-main/videomain.webp",
+        "links": [
+          {
+            "label": "Find Out More",
+            "url": "/about"
+          },
+          {
+            "label": "Get in Touch",
+            "url": "/contact"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "Short-Form Performance Videos",
+          "description": "Engaging videos optimized for reels, ads, and social media platforms.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Product Demo Videos",
+          "description": "Showcase your products clearly to improve understanding and conversions.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Editing & Subtitles",
+          "description": "Professional editing with captions to enhance reach and engagement.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Ad-Ready Formats",
+          "description": "Videos designed specifically for paid campaigns and better performance.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Creative Storytelling",
+          "description": "Compelling narratives that connect emotionally with your audience.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "Platform Optimization",
+          "description": "Videos tailored for different platforms and audience behavior.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Production for Product & Brand",
+          "desc1": "High-quality video shoots designed to showcase your brand and offerings.",
+          "desc2": "Professional production that highlights your value clearly.",
+          "image": "/assets/img/Service-main/video-gen-1.webp"
+        },
+        {
+          "title": "Short Video Content Creation",
+          "desc1": "Quick, engaging videos optimized for social media platforms.",
+          "desc2": "Content that captures attention and encourages shares.",
+          "image": "/assets/img/Service-main/video-gen-2.webp"
+        },
+        {
+          "title": "Ad Creative Development",
+          "desc1": "Performance-focused video ads designed to generate leads and sales.",
+          "desc2": "Videos crafted to drive action across ad campaigns.",
+          "image": "/assets/img/Service-main/video-gen-3.webp"
+        },
+        {
+          "title": "Corporate & Brand Videos",
+          "desc1": "Professional videos to build brand identity and credibility.",
+          "desc2": "High-quality storytelling that supports your brand image.",
+          "image": "/assets/img/Service-main/video-gen-4.webp"
+        },
+        {
+          "title": "Video Editing & Post Production",
+          "desc1": "Enhancing visuals with professional editing, effects, and sound.",
+          "desc2": "Polished final videos that look premium and perform well.",
+          "image": "/assets/img/Service-main/video-gen-5.webp"
+        },
+        {
+          "title": "Script & Concept Development",
+          "desc1": "Creative planning to ensure impactful storytelling and messaging.",
+          "desc2": "Concepts that keep your videos clear, engaging, and on-brand.",
+          "image": "/assets/img/Service-main/video-gen-6.webp"
+        },
+        {
+          "title": "Multi-Platform Video Strategy",
+          "desc1": "Planning and optimizing videos for different marketing channels.",
+          "desc2": "Ensuring each format works best where your audience watches it.",
+          "image": "/assets/img/Service-main/video-gen-7.webp"
+        },
+        {
+          "title": "Creative Direction & Storyboarding",
+          "desc1": "Clear creative direction to keep each video aligned with your brand and goal.",
+          "desc2": "Storyboards that reduce reshoots and speed up production.",
+          "image": "/assets/img/Service-main/video-gen-8.webp"
+        },
+        {
+          "title": "Reels, Shorts & Social Cuts",
+          "desc1": "Vertical-first edits designed for high retention on social platforms.",
+          "desc2": "Multiple cut-down versions for better performance and testing.",
+          "image": "/assets/img/Service-main/video-gen-9.webp"
+        },
+        {
+          "title": "Ad Performance Optimization",
+          "desc1": "Variants, hooks, and pacing optimized for paid campaigns and conversions.",
+          "desc2": "Content designed to win attention and drive action.",
+          "image": "/assets/img/Service-main/video-gen-10.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "VIDEO CAPABILITIES",
+        "title": "Key Features",
+        "features": [
+          {
+            "title": "Attention-Grabbing Hooks",
+            "desc": "Strong openings designed to capture user attention instantly."
+          },
+          {
+            "title": "Clear Messaging",
+            "desc": "Focused communication that delivers your message effectively."
+          },
+          {
+            "title": "Platform-Optimized Exports",
+            "desc": "Videos formatted for different platforms and devices."
+          },
+          {
+            "title": "Subtitles for Reach",
+            "desc": "Captions added to increase accessibility and engagement."
+          },
+          {
+            "title": "A/B Creative Variations",
+            "desc": "Multiple versions for testing and improving performance."
+          },
+          {
+            "title": "Funnel-Friendly Storytelling",
+            "desc": "Videos aligned with different stages of the customer journey."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/video2.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "What types of videos do you create?",
+            "answer": "We create social media videos, ad creatives, product demos, corporate videos, and more."
+          },
+          {
+            "question": "Are videos optimized for ads?",
+            "answer": "Yes, we design videos specifically for ad performance and conversions."
+          },
+          {
+            "question": "Do you handle scripting and concept?",
+            "answer": "Yes, we provide complete support from concept and script to final production."
+          },
+          {
+            "question": "How long does video production take?",
+            "answer": "Timelines vary based on complexity, but most projects are completed within 1–3 weeks."
+          },
+          {
+            "question": "Can videos be used across multiple platforms?",
+            "answer": "Yes, we optimize videos for different platforms like Instagram, YouTube, and websites."
+          }
+        ]
+      }
+    },
+    {
+      "id": "011",
+      "key": "product-photography",
+      "name": "Product Photography",
+      "sidebarLabel": "Product Photography",
+      "listTitle": "Product Photography",
+      "hero": {
+        "subtitle": "Capture. Showcase. Convert.",
+        "title": "Product Photography That Elevates Your Brand & Drives Sales",
+        "description": "At Brandbanalo, we create high-quality product photography that highlights your products, builds trust, and increases conversions across e-commerce, ads, and marketing platforms.",
+        "image": "/assets/img/Service-main/photo.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for premium product photography solutions",
+        "ctaButtons": [
+          {
+            "label": "Book a Shoot",
+            "url": "/contact"
+          },
+          {
+            "label": "Get Free Consultation",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Visuals That Sell Products",
+        "title": "Professional Product Photography Solutions",
+        "description": "In today’s digital marketplace, your product images play a crucial role in influencing buying decisions. At Brandbanalo, we create professional product photography that showcases your products in the best possible way. We focus on lighting, composition, and brand consistency to ensure your visuals stand out across platforms like websites, marketplaces, and social media. From catalog shoots to creative campaigns, our photography is designed to enhance product appeal and drive sales. We create visuals that make your products look premium and irresistible.",
+        "image": "/assets/img/Service-main/photo2.webp",
+        "links": [
+          {
+            "label": "Find Out More",
+            "url": "/about"
+          },
+          {
+            "label": "Get in Touch",
+            "url": "/contact"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "Catalog-Ready Shots",
+          "description": "Clean and professional images perfect for e-commerce listings and catalogs.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Lighting & Retouching",
+          "description": "Expert lighting setups and editing for sharp, high-quality visuals.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Consistent Backgrounds",
+          "description": "Uniform backgrounds that maintain a clean and professional look.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Ad Crops & Variants",
+          "description": "Multiple formats and variations for ads and marketing use.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Creative Product Styling",
+          "description": "Styled shoots that highlight product features and brand personality.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "Brand-Focused Visuals",
+          "description": "Photography aligned with your brand identity and messaging.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Retouching & Color Accuracy",
+          "desc1": "Precise editing to ensure accurate colors and polished images.",
+          "desc2": "High-end finishing for consistent visual quality.",
+          "image": "/assets/img/Service-main/photo-graphic-1.webp"
+        },
+        {
+          "title": "E-commerce Photography",
+          "desc1": "Product images optimized for online marketplaces and websites.",
+          "desc2": "Images formatted to perform on storefronts and product pages.",
+          "image": "/assets/img/Service-main/photo-graphic-2.webp"
+        },
+        {
+          "title": "Creative Product Shoots",
+          "desc1": "Concept-based shoots designed for branding and campaigns.",
+          "desc2": "Stylized visuals that tell your product story.",
+          "image": "/assets/img/Service-main/photo-graphic-3.webp"
+        },
+        {
+          "title": "Background Removal & Editing",
+          "desc1": "Clean and professional edits for versatile usage.",
+          "desc2": "Ready-to-use assets for ads, catalogs, and listings.",
+          "image": "/assets/img/Service-main/photo-graphic-4.webp"
+        },
+        {
+          "title": "Bulk Product Photography",
+          "desc1": "Efficient shooting for large product catalogs.",
+          "desc2": "Scalable workflows that maintain quality across volumes.",
+          "image": "/assets/img/Service-main/photo-graphic-5.webp"
+        },
+        {
+          "title": "Ad Creative Image Development",
+          "desc1": "Images optimized for performance marketing and campaigns.",
+          "desc2": "Visuals designed to boost clicks and conversions.",
+          "image": "/assets/img/Service-main/photo-graphic-6.webp"
+        },
+        {
+          "title": "Brand Consistency Management",
+          "desc1": "Ensuring all visuals align with your brand identity.",
+          "desc2": "Consistent styling across every product image.",
+          "image": "/assets/img/Service-main/photo-graphic-7.webp"
+        },
+        {
+          "title": "Marketplace Image Optimization",
+          "desc1": "Images optimized for Amazon, Flipkart, and other marketplace guidelines.",
+          "desc2": "Clean, compliant visuals that improve clicks and conversions.",
+          "image": "/assets/img/Service-main/photo-graphic-8.webp"
+        },
+        {
+          "title": "Lifestyle & In-Use Shots",
+          "desc1": "Contextual photography that shows your product in real-life scenarios.",
+          "desc2": "Build trust and help buyers understand the product faster.",
+          "image": "/assets/img/Service-main/photo-graphic-9.webp"
+        },
+        {
+          "title": "Rapid Turnaround & Delivery",
+          "desc1": "Fast delivery timelines with consistent quality checks.",
+          "desc2": "Launch campaigns sooner with ready-to-upload assets.",
+          "image": "/assets/img/Service-main/photo-graphic-10.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "PRODUCT VISUALS",
+        "title": "Key Features",
+        "features": [
+          {
+            "title": "Premium Product Detailing",
+            "desc": "Highlighting features and textures for better product presentation."
+          },
+          {
+            "title": "E-commerce Format Support",
+            "desc": "Images optimized for platforms like Amazon, Flipkart, and websites."
+          },
+          {
+            "title": "Quality Control Process",
+            "desc": "Strict quality checks to maintain high standards in every image."
+          },
+          {
+            "title": "Ad Creative Variants",
+            "desc": "Multiple image formats for ads and marketing campaigns."
+          },
+          {
+            "title": "Brand Consistent Style",
+            "desc": "Maintaining a uniform visual identity across all products."
+          },
+          {
+            "title": "Faster Campaign Launches",
+            "desc": "Quick turnaround to support marketing timelines."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/photo-FAQ.webp"
+      },
+      "faq": {
+        "title": "Asked & Question",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "Do you provide images for e-commerce platforms?",
+            "answer": "Yes, we create images optimized for platforms like Amazon, Flipkart, and your own website."
+          },
+          {
+            "question": "Can you shoot for B2B products as well?",
+            "answer": "Yes, we handle both B2B and B2C product photography requirements."
+          },
+          {
+            "question": "Do you offer retouching services?",
+            "answer": "Yes, we provide professional editing, color correction, and retouching."
+          },
+          {
+            "question": "How do you ensure consistency across products?",
+            "answer": "We follow brand guidelines, lighting setups, and standardized processes for uniform results."
+          },
+          {
+            "question": "What is the turnaround time for product photography?",
+            "answer": "Timelines depend on the project size, but most shoots are completed within a few days to a week."
+          }
+        ]
+      }
+    },
+    {
+      "id": "013",
+      "key": "lead-generation",
+      "name": "Lead Generation",
+      "sidebarLabel": "Lead Generation",
+      "listTitle": "Lead Generation",
+      "hero": {
+        "subtitle": "Consistent Quality. Higher Conversions.",
+        "title": "Lead Generation Systems That Scale Your Business",
+        "description": "At Brandbanalo, we build end-to-end lead generation funnels that attract, qualify, and convert your ideal prospects into predictable business growth.",
+        "image": "/assets/img/Service-main/Lead-Gene.webp",
+        "trustLine": "Trusted Digital Marketing Agency in India for result-driven lead generation",
+        "ctaButtons": [
+          {
+            "label": "Get Free Strategy Call",
+            "url": "/contact"
+          },
+          {
+            "label": "Start Generating Leads",
+            "url": "/contact"
+          }
+        ]
+      },
+      "about": {
+        "label": "Leads That Turn Into Revenue",
+        "title": "Stop chasing leads and start attracting qualified prospects.",
+        "description": "At Brandbanalo, we understand that lead generation is not just about quality—it's about quality. We design custom funnels that combine targeted traffic, persuasive landing pages, and automated nurturing to ensure your sales team spends time on prospects who are ready to buy. Our data-backed approach ensures a lower cost per lead and a higher return on investment for your marketing spend.",
+        "image": "/assets/img/Service-main/Lead-Gene.webp",
+        "links": [
+          {
+            "label": "Get Free Consultation",
+            "url": "/contact"
+          },
+          {
+            "label": "View Case Studies",
+            "url": "/case-study"
+          }
+        ]
+      },
+      "featuresGrid": [
+        {
+          "id": "01",
+          "title": "High-Intent Funnels",
+          "description": "Funnels designed to capture users exactly when they are ready to engage.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "02",
+          "title": "Lead Qualification",
+          "description": "Automated systems to filter and score leads for your sales team.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-choose-card-image.svg"
+        },
+        {
+          "id": "03",
+          "title": "Omni-Channel Approach",
+          "description": "Capturing leads across Search, Social, and Performance networks.",
+          "gradient": "linear-gradient(135deg, #ffffff 50%, #edc6c8 100%)",
+          "illustration": "/assets/img/Service-main/why-xhhose-card-item-b.svg"
+        },
+        {
+          "id": "04",
+          "title": "Landing Page Mastery",
+          "description": "High-converting designs tested for maximum response rates.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        },
+        {
+          "id": "05",
+          "title": "Real-Time Tracking",
+          "description": "Instant notification and CRM integration for immediate follow-up.",
+          "gradient": "linear-gradient(135deg, #ffffff 40%, #edc6c8 100%)"
+        },
+        {
+          "id": "06",
+          "title": "Scale-Ready Strategy",
+          "description": "Proven systems that grow as you increase your marketing investment.",
+          "gradient": "linear-gradient(135deg, #3b286d 0%, #a5615d 100%)"
+        }
+      ],
+      "accordion": [
+        {
+          "title": "Lead Funnel Strategy",
+          "desc1": "Mapping the customer journey from first touch to final enquiry.",
+          "desc2": "Aligning messaging across every stage to improve conversion intent.",
+          "image": "/assets/img/Service-main/Lead-1.webp"
+        },
+        {
+          "title": "Landing Page Development",
+          "desc1": "Custom-built, high-speed landing pages optimized for mobile and desktop.",
+          "desc2": "Clear CTAs and persuasive layouts that drive higher lead volume.",
+          "image": "/assets/img/Service-main/Lead-2.webp"
+        },
+        {
+          "title": "Lead Magnet Creation",
+          "desc1": "Designing irresistible offers that encourage prospects to share their details.",
+          "desc2": "Providing value upfront to build trust and authority with your audience.",
+          "image": "/assets/img/Service-main/Lead-3.webp"
+        },
+        {
+          "title": "Qualification & Scoring",
+          "desc1": "Filtering leads based on budget, intent, and profile to save you time.",
+          "desc2": "Ensuring your sales team focuses only on high-value opportunities.",
+          "image": "/assets/img/Service-main/Lead-4.webp"
+        },
+        {
+          "title": "CRM Integration",
+          "desc1": "Seamlessly pushing leads into your existing sales and marketing tools.",
+          "desc2": "Automated workflows to ensure no lead is ever lost or ignored.",
+          "image": "/assets/img/Service-main/Lead-5.webp"
+        },
+        {
+          "title": "Automated Nurturing",
+          "desc1": "Email and WhatsApp sequences that keep your brand top-of-mind.",
+          "desc2": "Moving cold prospects to warm leads with consistent, relevant follow-ups.",
+          "image": "/assets/img/Service-main/Lead-6.webp"
+        },
+        {
+          "title": "Paid Lead Campaigns",
+          "desc1": "Performance-driven ads on Google and Meta tailored for lead capture.",
+          "desc2": "Targeting high-intent audiences to drive immediate enquiry volume.",
+          "image": "/assets/img/Service-main/Lead-7.webp"
+        },
+        {
+          "title": "A/B Testing & Optimization",
+          "desc1": "Constant testing of headlines, forms, and offers to improve results.",
+          "desc2": "Data-driven refinements that lower your cost per lead over time.",
+          "image": "/assets/img/Service-main/Meta-6.webp"
+        }
+      ],
+      "keyFeatures": {
+        "label": "LEAD GEN CORE",
+        "title": "What Sets Us Apart",
+        "features": [
+          {
+            "title": "Quality Over Quantity",
+            "desc": "We focus on bringing you prospects who are actually ready to do business."
+          },
+          {
+            "title": "End-to-End Tracking",
+            "desc": "See exactly which ad or page brought you each lead and customer."
+          },
+          {
+            "title": "Rapid Deployment",
+            "desc": "Get your lead system up and running in days, not months."
+          },
+          {
+            "title": "Custom Qualification",
+            "desc": "Forms and steps designed to fit your unique business requirements."
+          },
+          {
+            "title": "Transparent Reporting",
+            "desc": "Weekly insights into volume, quality, and cost per result."
+          },
+          {
+            "title": "Scale-First Approach",
+            "desc": "Build a pipeline that grows as fast as your business does."
+          }
+        ],
+        "mockupImage": "/assets/img/Service-main/Lead-Gene.webp"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "image": "/assets/img/faq.webp",
+        "items": [
+          {
+            "question": "What is considered a 'qualified' lead?",
+            "answer": "A lead that meets your specific criteria for budget, need, authority, and timeline, as defined during our strategy phase."
+          },
+          {
+            "question": "How soon will I start receiving leads?",
+            "answer": "Once the funnel is live and traffic starts flowing, leads can begin arriving almost immediately."
+          },
+          {
+            "question": "Do you help with lead nurturing?",
+            "answer": "Yes, we set up automated email and WhatsApp sequences to keep prospects engaged until they are ready to close."
+          },
+          {
+            "question": "Can you integrate with my CRM?",
+            "answer": "We integrate with most major CRMs like Salesforce, HubSpot, Zoho, and many more via direct APIs or Zapier."
+          },
+          {
+            "question": "How do you improve lead quality over time?",
+            "answer": "By analyzing conversion data and feedback from your sales team, we refine targeting and qualification steps."
+          }
+        ]
+      }
+    }
+  ]
+}

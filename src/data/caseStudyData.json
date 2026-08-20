@@ -1,0 +1,990 @@
+{
+  "services": [
+    {
+      "id": "all",
+      "name": "All Services"
+    },
+    {
+      "id": "web-development",
+      "name": "Web Development"
+    },
+    {
+      "id": "search-engine-optimization",
+      "name": "Search Engine Optimization"
+    },
+    {
+      "id": "lead-generation",
+      "name": "Lead Generation"
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media"
+    },
+    {
+      "id": "branding",
+      "name": "Branding Designing & Development"
+    }
+  ],
+  "caseStudies": [
+    {
+      "id": 1,
+      "slug": "madan-traders-seo",
+      "img": "MadanTraderSEO.webp",
+      "imageName": "Madan Trader - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "Madan Traders - SEO Optimization",
+      "description": "Comprehensive digital marketing campaign achieving 1st page rankings",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/madan-traders-seo",
+      "category": "SEO",
+      "images": [
+        "MadanTraderSEO.webp",
+        "MadanTraderBrandDesign.webp",
+        "MadanTraderSocialMedia.webp",
+        "MadanTraderWebSite.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "madan-traders-branding",
+      "img": "MadanTraderBrandDesign.webp",
+      "imageName": "Madan Trader - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Madan Traders - Brand Design & Development",
+      "description": "Complete brand identity redesign and visual guidelines",
+      "service": "branding",
+      "href": "/case-study/details/madan-traders-branding",
+      "category": "Branding",
+      "images": [
+        "MadanTraderBrandDesign.webp",
+        "MadanTraderSEO.webp",
+        "MadanTraderSocialMedia.webp",
+        "MadanTraderWebSite.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "madan-traders-social-media",
+      "img": "MadanTraderSocialMedia.webp",
+      "imageName": "Madan Trader - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Madan Traders - Social Media Marketing",
+      "description": "Engaged social media strategy with content creation",
+      "service": "social-media",
+      "href": "/case-study/details/madan-traders-social-media",
+      "category": "Social Media",
+      "images": [
+        "MadanTraderSocialMedia.webp",
+        "MadanTraderSEO.webp",
+        "MadanTraderBrandDesign.webp",
+        "MadanTraderWebSite.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "madan-traders-website",
+      "img": "MadanTraderWebSite.webp",
+      "imageName": "Madan Trader - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Madan Traders - Website Development",
+      "description": "Responsive website with conversion optimization",
+      "service": "web-development",
+      "href": "/case-study/details/madan-traders-website",
+      "category": "Web Development",
+      "images": [
+        "MadanTraderWebSite.webp",
+        "MadanTraderSEO.webp",
+        "MadanTraderBrandDesign.webp",
+        "MadanTraderSocialMedia.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "road-safety-lead-generation",
+      "img": "LTSRoadSafetyLeadGene.webp",
+      "imageName": "Road Safety - Lead Generation",
+      "date": "MARCH 26, 2025",
+      "title": "LTS Road Safety - Lead Generation Campaign",
+      "description": "B2B marketing and lead generation strategy",
+      "service": "lead-generation",
+      "href": "/case-study/details/road-safety-lead-generation",
+      "category": "Lead Generation",
+      "images": [
+        "LTSRoadSafetyLeadGene.webp",
+        "LTSRoadSafetySEO.webp",
+        "LTSRoadSafetyBrandDesign.webp",
+        "LTSRoadSafetyWebsite.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "road-safety-seo",
+      "img": "LTSRoadSafetySEO.webp",
+      "imageName": "Road Safety - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "Road Safety - SEO Optimization",
+      "description": "Search engine optimization for SaaS platform",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/road-safety-seo",
+      "category": "SEO",
+      "images": [
+        "LTSRoadSafetySEO.webp",
+        "LTSRoadSafetyLeadGene.webp",
+        "LTSRoadSafetyBrandDesign.webp",
+        "LTSRoadSafetyWebsite.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "road-safety-branding",
+      "img": "LTSRoadSafetyBrandDesign.webp",
+      "imageName": "Road Safety - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Road Safety - Brand Design",
+      "description": "Professional branding for B2B SaaS company",
+      "service": "branding",
+      "href": "/case-study/details/road-safety-branding",
+      "category": "Branding",
+      "images": [
+        "LTSRoadSafetyBrandDesign.webp",
+        "LTSRoadSafetyLeadGene.webp",
+        "LTSRoadSafetySEO.webp",
+        "LTSRoadSafetyWebsite.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "road-safety-social-media",
+      "img": "LTSRoadSafetySocialMedia.webp",
+      "imageName": "Road Safety - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Road Safety - Social Media Strategy",
+      "description": "Targeted social media campaigns for B2B audience",
+      "service": "social-media",
+      "href": "/case-study/details/road-safety-social-media",
+      "category": "Social Media",
+      "images": [
+        "LTSRoadSafetySocialMedia.webp",
+        "LTSRoadSafetyLeadGene.webp",
+        "LTSRoadSafetySEO.webp",
+        "LTSRoadSafetyWebsite.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "road-safety-website",
+      "img": "LTSRoadSafetyWebsite.webp",
+      "imageName": "Road Safety - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Road Safety - Website Development",
+      "description": "Custom SaaS platform website with user portal",
+      "service": "web-development",
+      "href": "/case-study/details/road-safety-website",
+      "category": "Web Development",
+      "images": [
+        "LTSRoadSafetyWebsite.webp",
+        "LTSRoadSafetyLeadGene.webp",
+        "LTSRoadSafetySEO.webp",
+        "LTSRoadSafetyBrandDesign.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "avecia-healthcare-seo",
+      "img": "AveciaSEO.webp",
+      "imageName": "Avecia Healthcare - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "Avecia Healthcare - SEO Optimization",
+      "description": "Product pages ranking on first page for competitive keywords",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/avecia-healthcare-seo",
+      "category": "SEO",
+      "images": [
+        "AveciaSEO.webp",
+        "AveciaBrandDesign.webp",
+        "AveciaLeadGen.webp",
+        "AveciaSocialMedia.webp",
+        "AveciaWebsite.webp"
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "avecia-healthcare-branding",
+      "img": "AveciaBrandDesign.webp",
+      "imageName": "Avecia Healthcare - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Avecia Healthcare - Brand Design",
+      "description": "Premium healthcare brand identity development",
+      "service": "branding",
+      "href": "/case-study/details/avecia-healthcare-branding",
+      "category": "Branding",
+      "images": [
+        "AveciaHealthcareBrandDesign.webp",
+        "AveciaHealthcareSEO.webp",
+        "AveciaHealthcareLeadGene.webp",
+        "AveciaHealthcareSocialMedia.webp",
+        "AveciaHealthcareWebsite.webp"
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "avecia-healthcare-lead-generation",
+      "img": "AveciaLeadGen.webp",
+      "imageName": "Avecia Healthcare - Lead Generation",
+      "date": "MARCH 26, 2025",
+      "title": "Avecia Healthcare - Lead Generation",
+      "description": "Healthcare product lead generation campaign",
+      "service": "lead-generation",
+      "href": "/case-study/details/avecia-healthcare-lead-generation",
+      "category": "Lead Generation",
+      "images": [
+        "AveciaHealthcareLeadGene.webp",
+        "AveciaHealthcareSEO.webp",
+        "AveciaHealthcareBrandDesign.webp",
+        "AveciaHealthcareSocialMedia.webp",
+        "AveciaHealthcareWebsite.webp"
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "avecia-healthcare-social-media",
+      "img": "AveciaSocailMedia.webp",
+      "imageName": "Avecia Healthcare - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Avecia Healthcare - Social Media Marketing",
+      "description": "Comprehensive social media marketing and engagement strategy",
+      "service": "social-media",
+      "href": "/case-study/details/avecia-healthcare-social-media",
+      "category": "Social Media",
+      "images": [
+        "AveciaHealthcareSocialMedia.webp",
+        "AveciaHealthcareSEO.webp",
+        "AveciaHealthcareBrandDesign.webp",
+        "AveciaHealthcareLeadGene.webp",
+        "AveciaHealthcareWebsite.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "avecia-healthcare-website",
+      "img": "AveciaWebSite.webp",
+      "imageName": "Avecia Healthcare - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Avecia Healthcare - Website Development",
+      "description": " website with product management system",
+      "service": "web-development",
+      "href": "/case-study/details/avecia-healthcare-website",
+      "category": "Web Development",
+      "images": [
+        "AveciaHealthcareWebSite.webp",
+        "AveciaHealthcareSEO.webp",
+        "AveciaHealthcareBrandDesign.webp",
+        "AveciaHealthcareLeadGene.webp",
+        "AveciaHealthcareSocialMedia.webp"
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "diplomate-branding",
+      "img": "DiplomateBrandDesign.webp",
+      "imageName": "Diplomate - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Diplomate - Brand Design & Development",
+      "description": "Complete branding and visual identity system",
+      "service": "branding",
+      "href": "/case-study/details/diplomate-branding",
+      "category": "Branding",
+      "images": [
+        "DiplomateBrandDesign.webp",
+        "DiplomateSocailMedia.webp",
+        "DiplomateWebSite.webp"
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "diplomate-social-media",
+      "img": "DiplomateSocailMedia.webp",
+      "imageName": "Diplomate - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Diplomate - Social Media Campaign",
+      "description": "Professional social media management and content",
+      "service": "social-media",
+      "href": "/case-study/details/diplomate-social-media",
+      "category": "Social Media",
+      "images": [
+        "DiplomateSocailMedia.webp",
+        "DiplomateBrandDesign.webp",
+        "DiplomateWebSite.webp"
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "diplomate-website",
+      "img": "DiplomateWebSite.webp",
+      "imageName": "Diplomate - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Diplomate - Website Development",
+      "description": "Professional corporate website development",
+      "service": "web-development",
+      "href": "/case-study/details/diplomate-website",
+      "category": "Web Development",
+      "images": [
+        "DiplomateWebSite.webp",
+        "DiplomateBrandDesign.webp",
+        "DiplomateSocailMedia.webp"
+      ]
+    },
+    {
+      "id": 18,
+      "slug": "goodfine-branding",
+      "img": "GoodFineBrandDesign.webp",
+      "imageName": "Good Fine - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Good Fine - Brand Design",
+      "description": "Elegant brand identity and design system",
+      "service": "branding",
+      "href": "/case-study/details/goodfine-branding",
+      "category": "Branding",
+      "images": [
+        "GoodFineBrandDesign.webp",
+        "GoodFineSocialMedia.webp",
+        "GoodFineWebSite.webp"
+      ]
+    },
+    {
+      "id": 19,
+      "slug": "goodfine-social-media",
+      "img": "GoodFineSocialMedia.webp",
+      "imageName": "Good Fine - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Good Fine - Social Media Strategy",
+      "description": "Lifestyle brand social media marketing",
+      "service": "social-media",
+      "href": "/case-study/details/goodfine-social-media",
+      "category": "Social Media",
+      "images": [
+        "GoodFineSocialMedia.webp",
+        "GoodFineBrandDesign.webp",
+        "GoodFineWebSite.webp"
+      ]
+    },
+    {
+      "id": 20,
+      "slug": "goodfine-website",
+      "img": "GoodFineWebSite.webp",
+      "imageName": "Good Fine - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Good Fine - Website Development",
+      "description": " website with inventory management",
+      "service": "web-development",
+      "href": "/case-study/details/goodfine-website",
+      "category": "Web Development",
+      "images": [
+        "GoodFineWebSite.webp",
+        "GoodFineBrandDesign.webp",
+        "GoodFineSocialMedia.webp"
+      ]
+    },
+    {
+      "id": 21,
+      "slug": "hare-krishna-branding",
+      "img": "HareKrishnaBrandDesign.webp",
+      "imageName": "Hare Krishna - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Hare Krishna - Brand Design",
+      "description": "Religious organization branding and identity",
+      "service": "branding",
+      "href": "/case-study/details/hare-krishna-branding",
+      "category": "Branding",
+      "images": [
+        "HareKrishnaBrandDesign.webp",
+        "HareKrishnaSocailMedia.webp",
+        "HareKrishnaWebSite.webp"
+      ]
+    },
+    {
+      "id": 22,
+      "slug": "hare-krishna-social-media",
+      "img": "HareKrishnaSocailMedia.webp",
+      "imageName": "Hare Krishna - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Hare Krishna - Social Media Marketing",
+      "description": "Community engagement social media strategy",
+      "service": "social-media",
+      "href": "/case-study/details/hare-krishna-social-media",
+      "category": "Social Media",
+      "images": [
+        "HareKrishnaSocailMedia.webp",
+        "HareKrishnaBrandDesign.webp",
+        "HareKrishnaWebSite.webp"
+      ]
+    },
+    {
+      "id": 23,
+      "slug": "hare-krishna-website",
+      "img": "HareKrishnaWebSite.webp",
+      "imageName": "Hare Krishna - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Hare Krishna - Website Development",
+      "description": "Community website with events and resources",
+      "service": "web-development",
+      "href": "/case-study/details/hare-krishna-website",
+      "category": "Web Development",
+      "images": [
+        "HareKrishnaWebSite.webp",
+        "HareKrishnaBrandDesign.webp",
+        "HareKrishnaSocailMedia.webp"
+      ]
+    },
+    {
+      "id": 24,
+      "slug": "kaasu-enterprises-branding",
+      "img": "KaasuBrandDesign.webp",
+      "imageName": "Kaasu Enterprises - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Kaasu Enterprises - Brand Design",
+      "description": "Enterprise-level branding and identity",
+      "service": "branding",
+      "href": "/case-study/details/kaasu-enterprises-branding",
+      "category": "Branding",
+      "images": [
+        "KaasuBrandDesign.webp",
+        "KaasuSEO.webp",
+        "KaasuSocailMedia.webp",
+        "KaasuWebSite.webp"
+      ]
+    },
+    {
+      "id": 25,
+      "slug": "kaasu-enterprises-seo",
+      "img": "KaasuSEO.webp",
+      "imageName": "Kaasu Enterprises - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "Kaasu Enterprises - SEO Optimization",
+      "description": "Enterprise website SEO and optimization",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/kaasu-enterprises-seo",
+      "category": "SEO",
+      "images": [
+        "KaasuSEO.webp",
+        "KaasuBrandDesign.webp",
+        "KaasuSocailMedia.webp",
+        "KaasuWebSite.webp"
+      ]
+    },
+    {
+      "id": 26,
+      "slug": "kaasu-enterprises-social-media",
+      "img": "KaasuSocailMedia.webp",
+      "imageName": "Kaasu Enterprises - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Kaasu Enterprises - Social Media Management",
+      "description": "B2B social media strategy and content",
+      "service": "social-media",
+      "href": "/case-study/details/kaasu-enterprises-social-media",
+      "category": "Social Media",
+      "images": [
+        "KaasuSocailMedia.webp",
+        "KaasuBrandDesign.webp",
+        "KaasuSEO.webp",
+        "KaasuWebSite.webp"
+      ]
+    },
+    {
+      "id": 27,
+      "slug": "kaasu-enterprises-website",
+      "img": "KaasuWebSite.webp",
+      "imageName": "Kaasu Enterprises - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Kaasu Enterprises - Website Development",
+      "description": "Multi-channel web development platform",
+      "service": "web-development",
+      "href": "/case-study/details/kaasu-enterprises-website",
+      "category": "Web Development",
+      "images": [
+        "KaasuWebSite.webp",
+        "KaasuBrandDesign.webp",
+        "KaasuSEO.webp",
+        "KaasuSocailMedia.webp"
+      ]
+    },
+    {
+      "id": 28,
+      "slug": "pgsa2z-branding",
+      "img": "PGSA2ZBrandDesign.webp",
+      "imageName": "PGSA2Z - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "PGSA2Z - Brand Design & Identity",
+      "description": "Professional services brand identity",
+      "service": "branding",
+      "href": "/case-study/details/pgsa2z-branding",
+      "category": "Branding",
+      "images": [
+        "PGSA2ZBrandDesign.webp",
+        "PGSA2ZSEO.webp",
+        "PGSA2ZSocialMedia.webp",
+        "PGSA2ZWebSite.webp"
+      ]
+    },
+    {
+      "id": 29,
+      "slug": "pgsa2z-seo",
+      "img": "PGSA2ZSEO.webp",
+      "imageName": "PGSA2Z - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "PGSA2Z - SEO Optimization",
+      "description": "Search engine optimization for professional services",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/pgsa2z-seo",
+      "category": "SEO",
+      "images": [
+        "PGSA2ZSEO.webp",
+        "PGSA2ZBrandDesign.webp",
+        "PGSA2ZSocialMedia.webp",
+        "PGSA2ZWebSite.webp"
+      ]
+    },
+    {
+      "id": 30,
+      "slug": "pgsa2z-social-media",
+      "img": "PGSA2ZSocialMedia.webp",
+      "imageName": "PGSA2Z - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "PGSA2Z - Social Media Marketing",
+      "description": "Professional LinkedIn and social media strategy",
+      "service": "social-media",
+      "href": "/case-study/details/pgsa2z-social-media",
+      "category": "Social Media",
+      "images": [
+        "PGSA2ZSocialMedia.webp",
+        "PGSA2ZBrandDesign.webp",
+        "PGSA2ZSEO.webp",
+        "PGSA2ZWebSite.webp"
+      ]
+    },
+    {
+      "id": 31,
+      "slug": "pgsa2z-website",
+      "img": "PGSA2ZWebSite.webp",
+      "imageName": "PGSA2Z - Website",
+      "date": "MARCH 26, 2025",
+      "title": "PGSA2Z - Website Development",
+      "description": "Professional services website with case studies",
+      "service": "web-development",
+      "href": "/case-study/details/pgsa2z-website",
+      "category": "Web Development",
+      "images": [
+        "PGSA2ZWebSite.webp",
+        "PGSA2ZBrandDesign.webp",
+        "PGSA2ZSEO.webp",
+        "PGSA2ZSocialMedia.webp"
+      ]
+    },
+    {
+      "id": 32,
+      "slug": "raviarts-branding",
+      "img": "RaviartsBrandDesign.webp",
+      "imageName": "Raviarts - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Raviarts - Brand Design",
+      "description": "Creative art studio branding",
+      "service": "branding",
+      "href": "/case-study/details/raviarts-branding",
+      "category": "Branding",
+      "images": [
+        "RaviartsBrandDesign.webp",
+        "RaviartsLeadGen.webp",
+        "RaviartsSEO.webp",
+        "RaviartsSocialMedia.webp",
+        "RaviartsWebSite.webp"
+      ]
+    },
+    {
+      "id": 33,
+      "slug": "raviarts-lead-generation",
+      "img": "RaviartsLeadGen.webp",
+      "imageName": "Raviarts - Lead Generation",
+      "date": "MARCH 26, 2025",
+      "title": "Raviarts - Lead Generation Campaign",
+      "description": "Lead generation for art and creative services",
+      "service": "lead-generation",
+      "href": "/case-study/details/raviarts-lead-generation",
+      "category": "Lead Generation",
+      "images": [
+        "RaviartsLeadGen.webp",
+        "RaviartsBrandDesign.webp",
+        "RaviartsSEO.webp",
+        "RaviartsSocialMedia.webp",
+        "RaviartsWebSite.webp"
+      ]
+    },
+    {
+      "id": 34,
+      "slug": "raviarts-seo",
+      "img": "RaviartsSEO.webp",
+      "imageName": "Raviarts - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "Raviarts - SEO Optimization",
+      "description": "Search engine optimization for art caseStudy",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/raviarts-seo",
+      "category": "SEO",
+      "images": [
+        "RaviartsSEO.webp",
+        "RaviartsBrandDesign.webp",
+        "RaviartsLeadGen.webp",
+        "RaviartsSocialMedia.webp",
+        "RaviartsWebSite.webp"
+      ]
+    },
+    {
+      "id": 35,
+      "slug": "raviarts-social-media",
+      "img": "RaviartsSocialMedia.webp",
+      "imageName": "Raviarts - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Raviarts - Social Media Strategy",
+      "description": "Instagram and social media marketing for artists",
+      "service": "social-media",
+      "href": "/case-study/details/raviarts-social-media",
+      "category": "Social Media",
+      "images": [
+        "RaviartsSocialMedia.webp",
+        "RaviartsBrandDesign.webp",
+        "RaviartsLeadGen.webp",
+        "RaviartsSEO.webp",
+        "RaviartsWebSite.webp"
+      ]
+    },
+    {
+      "id": 36,
+      "slug": "raviarts-website",
+      "img": "RaviartsWebSite.webp",
+      "imageName": "Raviarts - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Raviarts - Website Development",
+      "description": "Artist caseStudy and  website",
+      "service": "web-development",
+      "href": "/case-study/details/raviarts-website",
+      "category": "Web Development",
+      "images": [
+        "RaviartsWebSite.webp",
+        "RaviartsBrandDesign.webp",
+        "RaviartsLeadGen.webp",
+        "RaviartsSEO.webp",
+        "RaviartsSocialMedia.webp"
+      ]
+    },
+    {
+      "id": 37,
+      "slug": "shiv-shakti-bath-branding",
+      "img": "ShivShaktiBathBrandDesign.webp",
+      "imageName": "Shiv Shakti Bath - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Shiv Shakti Bath - Brand Design",
+      "description": "Bath products brand identity and packaging",
+      "service": "branding",
+      "href": "/case-study/details/shiv-shakti-bath-branding",
+      "category": "Branding",
+      "images": [
+        "ShivShaktiBathBrandDesign.webp",
+        "ShivShaktiBathSEO.webp",
+        "ShivShaktiBathSocialmedia.webp",
+        "ShivShaktiBathWebSite.webp"
+      ]
+    },
+    {
+      "id": 38,
+      "slug": "shiv-shakti-bath-seo",
+      "img": "ShivShaktiBathSEO.webp",
+      "imageName": "Shiv Shakti Bath - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "Shiv Shakti Bath - SEO Optimization",
+      "description": " SEO for bath products",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/shiv-shakti-bath-seo",
+      "category": "SEO",
+      "images": [
+        "ShivShaktiBathSEO.webp",
+        "ShivShaktiBathBrandDesign.webp",
+        "ShivShaktiBathSocialmedia.webp",
+        "ShivShaktiBathWebSite.webp"
+      ]
+    },
+    {
+      "id": 39,
+      "slug": "shiv-shakti-bath-social-media",
+      "img": "ShivShaktiBathSocialMedia.webp",
+      "imageName": "Shiv Shakti Bath - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Shiv Shakti Bath - Social Media Marketing",
+      "description": "Lifestyle and wellness social media campaigns",
+      "service": "social-media",
+      "href": "/case-study/details/shiv-shakti-bath-social-media",
+      "category": "Social Media",
+      "images": [
+        "ShivShaktiBathSocialMedia.webp",
+        "ShivShaktiBathBrandDesign.webp",
+        "ShivShaktiBathSEO.webp",
+        "ShivShaktiBathWebSite.webp"
+      ]
+    },
+    {
+      "id": 40,
+      "slug": "shiv-shakti-bath-website",
+      "img": "ShivShaktiBathWebSite.webp",
+      "imageName": "Shiv Shakti Bath - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Shiv Shakti Bath - Website",
+      "description": "Full-stack  platform with inventory",
+      "service": "web-development",
+      "href": "/case-study/details/shiv-shakti-bath-website",
+      "category": "Web Development",
+      "images": [
+        "ShivShaktiBathWebSite.webp",
+        "ShivShaktiBathBrandDesign.webp",
+        "ShivShaktiBathSEO.webp",
+        "ShivShaktiBathSocialmedia.webp"
+      ]
+    },
+    {
+      "id": 41,
+      "slug": "skytech-branding",
+      "img": "SkyTechBrandDesign.webp",
+      "imageName": "Sky Tech - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Sky Tech - Brand Design & Development",
+      "description": "Technology company branding and identity",
+      "service": "branding",
+      "href": "/case-study/details/skytech-branding",
+      "category": "Branding",
+      "images": [
+        "SkyTechBrandDesign.webp",
+        "SkyTechSEO.webp",
+        "SkyTechSocialMedia.webp",
+        "SkyTechWebSite.webp"
+      ]
+    },
+    {
+      "id": 42,
+      "slug": "skytech-seo",
+      "img": "SkyTechSEO.webp",
+      "imageName": "Sky Tech - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "Sky Tech - SEO Optimization",
+      "description": "Tech industry SEO strategy",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/skytech-seo",
+      "category": "SEO",
+      "images": [
+        "SkyTechSEO.webp",
+        "SkyTechBrandDesign.webp",
+        "SkyTechSocialMedia.webp",
+        "SkyTechWebSite.webp"
+      ]
+    },
+    {
+      "id": 43,
+      "slug": "skytech-social-media",
+      "img": "SkyTechSocialMedia.webp",
+      "imageName": "Sky Tech - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Sky Tech - Social Media Growth Campaign",
+      "description": "360-degree social media management for tech brand",
+      "service": "social-media",
+      "href": "/case-study/details/skytech-social-media",
+      "category": "Social Media",
+      "images": [
+        "SkyTechSocialMedia.webp",
+        "SkyTechBrandDesign.webp",
+        "SkyTechSEO.webp",
+        "SkyTechWebSite.webp"
+      ]
+    },
+    {
+      "id": 44,
+      "slug": "skytech-website",
+      "img": "SkyTechWebSite.webp",
+      "imageName": "Sky Tech - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Sky Tech - WebSite Development",
+      "description": "Enterprise web development with scalable architecture",
+      "service": "web-development",
+      "href": "/case-study/details/skytech-website",
+      "category": "Web Development",
+      "images": [
+        "SkyTechWebSite.webp",
+        "SkyTechBrandDesign.webp",
+        "SkyTechSEO.webp",
+        "SkyTechSocialMedia.webp"
+      ]
+    },
+    {
+      "id": 45,
+      "slug": "zentech-branding",
+      "img": "ZentechBrandDesign.webp",
+      "imageName": "Zentech - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Zentech - Brand Design",
+      "description": "Tech startup branding and visual identity",
+      "service": "branding",
+      "href": "/case-study/details/zentech-branding",
+      "category": "Branding",
+      "images": [
+        "ZentechBrandDesign.webp",
+        "ZentechSEO.webp",
+        "ZentechSocialMedia.webp",
+        "ZentechWebSite.webp"
+      ]
+    },
+    {
+      "id": 46,
+      "slug": "zentech-seo",
+      "img": "ZentechSEO.webp",
+      "imageName": "Zentech - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "Zentech - SEO Optimization",
+      "description": "Agency website optimization achieving 1st page rankings",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/zentech-seo",
+      "category": "SEO",
+      "images": [
+        "ZentechSEO.webp",
+        "ZentechBrandDesign.webp",
+        "ZentechSocialMedia.webp",
+        "ZentechWebSite.webp"
+      ]
+    },
+    {
+      "id": 47,
+      "slug": "zentech-social-media",
+      "img": "ZentechSocialMedia.webp",
+      "imageName": "Zentech - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Zentech - Social Media Strategy",
+      "description": "Tech industry social media management",
+      "service": "social-media",
+      "href": "/case-study/details/zentech-social-media",
+      "category": "Social Media",
+      "images": [
+        "ZentechSocialMedia.webp",
+        "ZentechBrandDesign.webp",
+        "ZentechSEO.webp",
+        "ZentechWebSite.webp"
+      ]
+    },
+    {
+      "id": 48,
+      "slug": "zentech-website",
+      "img": "ZentechWebSite.webp",
+      "imageName": "Zentech - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Zentech - Website Development",
+      "description": "Modern tech company website with case studies",
+      "service": "web-development",
+      "href": "/case-study/details/zentech-website",
+      "category": "Web Development",
+      "images": [
+        "ZentechWebSite.webp",
+        "ZentechBrandDesign.webp",
+        "ZentechSEO.webp",
+        "ZentechSocialMedia.webp"
+      ]
+    },
+    {
+      "id": 49,
+      "slug": "chemo-biological-branding",
+      "img": "ChemoBrandDesign.webp",
+      "imageName": "Chemo Biological - Brand Design",
+      "date": "MARCH 26, 2025",
+      "title": "Chemo Biological - Brand Design",
+      "description": "Chemical and biological company branding",
+      "service": "branding",
+      "href": "/case-study/details/chemo-biological-branding",
+      "category": "Branding",
+      "images": [
+        "ChemoBrandDesign.webp",
+        "ChemoLeadGene.webp",
+        "ChemoSEO.webp",
+        "ChemoSocialMedia.webp",
+        "ChemoWebSite.webp"
+      ]
+    },
+    {
+      "id": 50,
+      "slug": "chemo-biological-lead-generation",
+      "img": "ChemoLeadGene.webp",
+      "imageName": "Chemo Biological - Lead Generation",
+      "date": "MARCH 26, 2025",
+      "title": "Chemo Biological - Lead Generation",
+      "description": "B2B lead generation for chemical products",
+      "service": "lead-generation",
+      "href": "/case-study/details/chemo-biological-lead-generation",
+      "category": "Lead Generation",
+      "images": [
+        "ChemoLeadGene.webp",
+        "ChemoBranddesign.webp",
+        "ChemoSEO.webp",
+        "ChemoSocialMedia.webp",
+        "ChemoWebSite.webp"
+      ]
+    },
+    {
+      "id": 51,
+      "slug": "chemo-biological-seo",
+      "img": "ChemoSEO.webp",
+      "imageName": "Chemo Biological - SEO",
+      "date": "MARCH 26, 2025",
+      "title": "Chemo Biological - SEO Optimization",
+      "description": "Technical SEO for chemical industry website",
+      "service": "search-engine-optimization",
+      "href": "/case-study/details/chemo-biological-seo",
+      "category": "SEO",
+      "images": [
+        "ChemoSEO.webp",
+        "ChemoBranddesign.webp",
+        "ChemoLeadGene.webp",
+        "ChemoSocialMedia.webp",
+        "ChemoWebSite.webp"
+      ]
+    },
+    {
+      "id": 52,
+      "slug": "chemo-biological-social-media",
+      "img": "ChemoSocialMedia.webp",
+      "imageName": "Chemo Biological - Social Media",
+      "date": "MARCH 26, 2025",
+      "title": "Chemo Biological - Social Media Marketing",
+      "description": "B2B social media strategy for chemical industry",
+      "service": "social-media",
+      "href": "/case-study/details/chemo-biological-social-media",
+      "category": "Social Media",
+      "images": [
+        "ChemoSocialMedia.webp",
+        "ChemoBranddesign.webp",
+        "ChemoLeadGene.webp",
+        "ChemoSEO.webp",
+        "ChemoWebSite.webp"
+      ]
+    },
+    {
+      "id": 53,
+      "slug": "chemo-biological-website",
+      "img": "ChemoWebSite.webp",
+      "imageName": "Chemo Biological - Website",
+      "date": "MARCH 26, 2025",
+      "title": "Chemo Biological - Website Development",
+      "description": "Professional industrial website with product catalog",
+      "service": "web-development",
+      "href": "/case-study/details/chemo-biological-website",
+      "category": "Web Development",
+      "images": [
+        "ChemoWebSite.webp",
+        "ChemoBranddesign.webp",
+        "ChemoLeadGene.webp",
+        "ChemoSEO.webp",
+        "ChemoSocialMedia.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+/* ============================================================
+   Service Stack Section
+   Desktop : single sticky panel, cards stacked as abs layers
+   Mobile  : horizontal snap-scroll carousel
+   ============================================================ */
+
+/* ── Section wrapper ─────────────────────────────────────────── */
+.service-stack {
+  position: relative;
+  z-index: 10;
+  overflow: visible;
+  background: #f6f7fb;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* ── Intro header ────────────────────────────────────────────── */
+.service-stack__intro-wrap {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: clamp(2.5rem, 7vw, 4.5rem) clamp(1.25rem, 4vw, 2rem) clamp(2rem, 5vw, 3rem);
+  text-align: center;
+}
+
+.service-stack__eyebrow {
+  margin: 0 0 0.875rem;
+  font-family: var(--font-manrope), var(--font-sora), system-ui, sans-serif;
+  font-size: clamp(0.8125rem, 1.2vw, 0.9375rem);
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #f7941d;
+}
+
+.service-stack h2.service-stack__title {
+  margin: 0 0 1.25rem !important;
+  font-family: var(--font-sora), var(--font-manrope), system-ui, sans-serif !important;
+  font-size: clamp(2.125rem, 5vw, 3rem) !important;
+  font-weight: 700 !important;
+  line-height: 1.1 !important;
+  letter-spacing: -0.02em !important;
+  color: #111827 !important;
+  text-transform: none !important;
+}
+
+.service-stack__title-highlight {
+  color: #f7941d;
+  position: relative;
+  display: inline-block;
+}
+
+.service-stack__title-highlight::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0.06em;
+  height: 0.28em;
+  background: linear-gradient(
+    90deg,
+    rgba(247, 148, 29, 0.35) 0%,
+    rgba(247, 148, 29, 0.12) 100%
+  );
+  border-radius: 2px;
+  z-index: -1;
+}
+
+.service-stack__subtitle {
+  margin: 0 auto;
+  max-width: 40rem;
+  font-family: var(--font-manrope), var(--font-sora), system-ui, sans-serif;
+  font-size: clamp(1.0625rem, 2vw, 1.3125rem);
+  line-height: 1.65;
+  color: #4b5563;
+}
+
+.service-stack__subtitle-em {
+  color: #111827;
+  font-weight: 700;
+}
+
+/* ══════════════════════════════════════════════════════════════
+   DESKTOP (≥ 768px) — Stacked sticky scroll
+   ══════════════════════════════════════════════════════════════
+
+   Key insight: the sticky-panel must be the ONLY sticky element,
+   spanning the full scroll-root height.  All cards live INSIDE it
+   as position:absolute layers.  This gives the sticky element the
+   maximum possible sticking range (N×100vh − 100vh).
+   ══════════════════════════════════════════════════════════════ */
+@media (min-width: 768px) {
+
+  /* Tall scroll driver — height set inline via JS (N × 100vh) */
+  .service-stack__scroll-root {
+    position: relative;
+    width: 100%;
+    max-width: 76rem;
+    margin: 0 auto;
+  }
+
+  /*
+    Panel: position:absolute, top:0 inside scroll-root.
+    JS translates it down by Math.min(scrolled, (N-1)×vh) on every
+    scroll frame — simulates sticky without any CSS sticky quirks.
+    will-change:transform promotes it to its own GPU composite layer.
+  */
+  .service-stack__sticky-panel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100vh;
+    will-change: transform;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+
+  /*
+    Each deck-card: absolutely fills the panel.
+    Padding gives breathing room around the image.
+    JS drives transform (translateY slide-in + scale-back) and opacity.
+    NO blur, NO top/margin — transform + opacity only.
+  */
+  .service-stack__deck-card {
+    position: absolute;
+    inset: clamp(1rem, 2.5vh, 2rem) clamp(1rem, 3vw, 3rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* GPU-only properties — no layout triggers */
+    will-change: transform, opacity;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    /* Short transition smooths out any jitter between RAF frames */
+    transition: transform 0.07s linear, opacity 0.07s linear;
+  }
+
+  .service-stack__deck-card img {
+    width: 100%;
+    max-width: 72rem;
+    height: auto;
+    display: block;
+    border-radius: 24px;
+    /* Lighter shadow avoids expensive repaint */
+    box-shadow: 0 10px 36px rgba(0, 0, 0, 0.1);
+    will-change: transform;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+
+  /* Hide mobile-only elements */
+  .service-stack__mobile-wrap {
+    display: none;
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════
+   MOBILE (< 768px) — Horizontal snap carousel
+   ══════════════════════════════════════════════════════════════ */
+@media (max-width: 767px) {
+
+  /* Hide desktop stack entirely */
+  .service-stack__scroll-root {
+    display: none;
+  }
+
+  /* Snap-scroll track */
+  .service-stack__mobile-carousel {
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    padding: 0 1.25rem 1.5rem;
+    gap: 20px;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    will-change: scroll-position;
+    transform: translateZ(0);
+  }
+
+  .service-stack__mobile-carousel::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Each slide snaps to center */
+  .service-stack__mobile-slide {
+    flex: 0 0 calc(100% - 2.5rem);
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    border-radius: 20px;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    will-change: transform;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.09);
+  }
+
+  .service-stack__mobile-slide img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  /* Dot indicators */
+  .service-stack__dots {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 1rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .service-stack__dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #c8ccd6;
+    transition: background 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+    border: none;
+    padding: 0;
+  }
+
+  .service-stack__dot.is-active {
+    background: #0a0f1a;
+    transform: scale(1.35);
+  }
+}

@@ -1,0 +1,471 @@
+[
+  {
+    "id": "website-design",
+    "label": "Website Design",
+    "link": "/industrial-specific/web-design",
+    "cards": [
+      {
+        "title": "PCD Pharma Industries Website Design",
+        "link": "/industrial-specific/web-design/pcd-pharma"
+      },
+      {
+        "title": "Car Parts Importer & Suppliers Website Design",
+        "link": "/industrial-specific/web-design/car-parts"
+      },
+      {
+        "title": "Road Safety Product Manufacturer Website Design",
+        "link": "/industrial-specific/web-design/road-safety"
+      },
+      {
+        "title": "Electronics Devices Supplier Website Design",
+        "link": "/industrial-specific/web-design/electronics"
+      },
+      {
+        "title": "Industrial Automation Solutions Website Design",
+        "link": "/industrial-specific/web-design/industrial-automation"
+      },
+      {
+        "title": "Healthcare Industries Website Design",
+        "link": "/industrial-specific/web-design/healthcare"
+      },
+      {
+        "title": "SMC & GRP Tanks Manufacturer Website Design",
+        "link": "/industrial-specific/web-design/smc-grp-tanks"
+      },
+      {
+        "title": "Offline Brand Advertisement Website Design",
+        "link": "/industrial-specific/web-design/offline-brand-ads"
+      },
+      {
+        "title": "Bag Manufacturer Website Design",
+        "link": "/industrial-specific/web-design/bag-manufacturer"
+      },
+      {
+        "title": "Machinery Manufacturer Website Design",
+        "link": "/industrial-specific/web-design/machinery-manufacturer"
+      },
+      {
+        "title": "Ball Bearing Importer & Supplier Website Design",
+        "link": "/industrial-specific/web-design/ball-bearing"
+      },
+      {
+        "title": "Pool Table Manufacturer Website Design",
+        "link": "/industrial-specific/web-design/pool-table"
+      },
+      {
+        "title": "Electronic Device Supplier Website Design",
+        "link": "/industrial-specific/web-design/electronics"
+      },
+      {
+        "title": "Fire Safety Doors Manufacturer Website Design",
+        "link": "/industrial-specific/web-design/fire-safety-doors"
+      },
+      {
+        "title": "View All",
+        "link": "/industrial-specific"
+      }
+    ]
+  },
+  {
+    "id": "website-development",
+    "label": "Website Development",
+    "link": "/services/web-development",
+    "cards": [
+      {
+        "title": "PCD Pharma Industries Website Development",
+        "link": "/services/web-development/pcd-pharma"
+      },
+      {
+        "title": "Car Parts Importer & Suppliers Website Development",
+        "link": "/services/web-development/car-parts"
+      },
+      {
+        "title": "Road Safety Product Manufacturer Website Development",
+        "link": "/services/web-development/road-safety"
+      },
+      {
+        "title": "Electronics Devices Supplier Website Development",
+        "link": "/services/web-development/electronics"
+      },
+      {
+        "title": "Industrial Automation Solutions Website Development",
+        "link": "/services/web-development/industrial-automation"
+      },
+      {
+        "title": "Healthcare Industries  Website Development",
+        "link": "/services/web-development/healthcare"
+      },
+      {
+        "title": "SMC & GRP Tanks Manufacturer Website Development",
+        "link": "/services/web-development/smc-grp-tanks"
+      },
+      {
+        "title": "Offline Brand Advertisement Website Development",
+        "link": "/services/web-development/offline-brand-ads"
+      },
+      {
+        "title": "Bag Manufacturer Website Development",
+        "link": "/services/web-development/bag-manufacturer"
+      },
+      {
+        "title": "Machinery Manufacturer Website Development",
+        "link": "/services/web-development/machinery-manufacturer"
+      },
+      {
+        "title": "Ball Bearing Importer & Supplier Website Development",
+        "link": "/services/web-development/ball-bearing"
+      },
+      {
+        "title": "Pool Table Manufacturer Website Development",
+        "link": "/services/web-development/pool-table"
+      },
+      {
+        "title": "Electronic Device Supplier Website Development",
+        "link": "/services/web-development/electronics"
+      },
+      {
+        "title": "Fire Safety Doors Manufacturer Website Development",
+        "link": "/services/web-development/fire-safety-doors"
+      },
+      {
+        "title": "View All",
+        "link": "/industrial-specific"
+      }
+    ]
+  },
+  {
+    "id": "social-media-management",
+    "label": "Social Media Management",
+    "link": "/services/social-media-management",
+    "cards": [
+      {
+        "title": "PCD Pharma Industries Social Media Management ",
+        "link": "/services/social-media-management/pcd-pharma"
+      },
+      {
+        "title": "Car Parts Importer & Suppliers Social Media Management",
+        "link": "/services/social-media-management/car-parts"
+      },
+      {
+        "title": "Road Safety Product Manufacturer Social Media Management",
+        "link": "/services/social-media-management/road-safety"
+      },
+      {
+        "title": "Electronics Devices Supplier Social Media Management",
+        "link": "/services/social-media-management/electronics"
+      },
+      {
+        "title": "Industrial Automation Solutions Social Media Management",
+        "link": "/services/social-media-management/industrial-automation"
+      },
+      {
+        "title": "Healthcare Industries Social Media Management",
+        "link": "/services/social-media-management/healthcare"
+      },
+      {
+        "title": "SMC & GRP Tanks Manufacturer Social Media Management",
+        "link": "/services/social-media-management/smc-grp-tanks"
+      },
+      {
+        "title": "Offline Brand Advertisement Social Media Management",
+        "link": "/services/social-media-management/offline-brand-ads"
+      },
+      {
+        "title": "Bag Manufacturer Social Media Management",
+        "link": "/services/social-media-management/bag-manufacturer"
+      },
+      {
+        "title": "Machinery Manufacturer Social Media Management",
+        "link": "/services/social-media-management/machinery-manufacturer"
+      },
+      {
+        "title": "Ball Bearing Importer & Supplier Social Media Management",
+        "link": "/services/social-media-management/ball-bearing"
+      },
+      {
+        "title": "Pool Table Manufacturer Social Media Management",
+        "link": "/services/social-media-management/pool-table"
+      },
+      {
+        "title": "Electronic Device Supplier Social Media Management",
+        "link": "/services/social-media-management/electronics"
+      },
+      {
+        "title": "Fire Safety Doors Manufacturer Social Media Management",
+        "link": "/services/social-media-management/fire-safety-doors"
+      },
+      {
+        "title": "View All",
+        "link": "/industrial-specific"
+      }
+    ]
+  },
+  {
+    "id": "ads-management",
+    "label": "Ads Management",
+    "link": "/services/ads-management",
+    "cards": [
+      {
+        "title": "PCD Pharma Industries Ads Management",
+        "link": "/services/ads-management/pcd-pharma"
+      },
+      {
+        "title": "Car Parts Importer & Suppliers Ads Management",
+        "link": "/services/ads-management/car-parts"
+      },
+      {
+        "title": "Road Safety Product Manufacturer Ads Management",
+        "link": "/services/ads-management/road-safety"
+      },
+      {
+        "title": "Electronics Devices Supplier Ads Management",
+        "link": "/services/ads-management/electronics"
+      },
+      {
+        "title": "Industrial Automation Solutions Ads Management",
+        "link": "/services/ads-management/industrial-automation"
+      },
+      {
+        "title": "Healthcare Industries Ads Management",
+        "link": "/services/ads-management/healthcare"
+      },
+      {
+        "title": "SMC & GRP Tanks Manufacturer Ads Management",
+        "link": "/services/ads-management/smc-grp-tanks"
+      },
+      {
+        "title": "Offline Brand Advertisement Ads Management",
+        "link": "/services/ads-management/offline-brand-ads"
+      },
+      {
+        "title": "Bag Manufacturer Ads Management",
+        "link": "/services/ads-management/bag-manufacturer"
+      },
+      {
+        "title": "Machinery Manufacturer Ads Management",
+        "link": "/services/ads-management/machinery-manufacturer"
+      },
+      {
+        "title": "Ball Bearing Importer & Supplier Ads Management",
+        "link": "/services/ads-management/ball-bearing"
+      },
+      {
+        "title": "Pool Table Manufacturer Ads Management",
+        "link": "/services/ads-management/pool-table"
+      },
+      {
+        "title": "Electronic Device Supplier Ads Management",
+        "link": "/services/ads-management/electronics"
+      },
+      {
+        "title": "Fire Safety Doors Manufacturer Ads Management",
+        "link": "/services/ads-management/fire-safety-doors"
+      },
+      {
+        "title": "View All",
+        "link": "/industrial-specific"
+      }
+    ]
+  },
+  {
+    "id": "Meta Ads",
+    "label": "Meta Ads",
+    "link": "/services/meta-ads",
+    "cards": [
+      {
+        "title": "PCD Pharma Industries Meta Ads ",
+        "link": "/services/meta-ads/pcd-pharma"
+      },
+      {
+        "title": "Car Parts Importer & Suppliers Meta Ads",
+        "link": "/services/meta-ads/car-parts"
+      },
+      {
+        "title": "Road Safety Product Manufacturer Meta Ads",
+        "link": "/services/meta-ads/road-safety"
+      },
+      {
+        "title": "Electronics Devices Supplier Meta Ads",
+        "link": "/services/meta-ads/electronics"
+      },
+      {
+        "title": "Industrial Automation Solutions Meta Ads",
+        "link": "/services/meta-ads/industrial-automation"
+      },
+      {
+        "title": "Healthcare Industries Meta Ads",
+        "link": "/services/meta-ads/healthcare"
+      },
+      {
+        "title": "SMC & GRP Tanks Manufacturer Meta Ads",
+        "link": "/services/meta-ads/smc-grp-tanks"
+      },
+      {
+        "title": "Offline Brand Advertisement Meta Ads",
+        "link": "/services/meta-ads/offline-brand-ads"
+      },
+      {
+        "title": "Bag Manufacturer Meta Ads",
+        "link": "/services/meta-ads/bag-manufacturer"
+      },
+      {
+        "title": "Machinery Manufacturer Meta Ads",
+        "link": "/services/meta-ads/machinery-manufacturer"
+      },
+      {
+        "title": "Ball Bearing Importer & Supplier Meta Ads",
+        "link": "/services/meta-ads/ball-bearing"
+      },
+      {
+        "title": "Pool Table Manufacturer Meta Ads",
+        "link": "/services/meta-ads/pool-table"
+      },
+      {
+        "title": "Electronic Device Supplier Meta Ads",
+        "link": "/services/meta-ads/electronics"
+      },
+      {
+        "title": "Fire Safety Doors Manufacturer Meta Ads",
+        "link": "/services/meta-ads/fire-safety-doors"
+      },
+      {
+        "title": "View All",
+        "link": "/industrial-specific"
+      }
+    ]
+  },
+  {
+    "id": "branding-design",
+    "label": "Branding Designing & Development",
+    "link": "/services/branding-designing",
+    "cards": [
+      {
+        "title": "PCD Pharma Industries Branding ",
+        "link": "/services/branding-designing/pcd-pharma"
+      },
+      {
+        "title": "Car Parts Importer & Suppliers Branding",
+        "link": "/services/branding-designing/car-parts"
+      },
+      {
+        "title": "Road Safety Product Manufacturer Branding",
+        "link": "/services/branding-designing/road-safety"
+      },
+      {
+        "title": "Electronics Devices Supplier Branding",
+        "link": "/services/branding-designing/electronics"
+      },
+      {
+        "title": "Industrial Automation Solutions Branding",
+        "link": "/services/branding-designing/industrial-automation"
+      },
+      {
+        "title": "Healthcare Industries Branding",
+        "link": "/services/branding-designing/healthcare"
+      },
+      {
+        "title": "SMC & GRP Tanks Manufacturer Branding",
+        "link": "/services/branding-designing/smc-grp-tanks"
+      },
+      {
+        "title": "Offline Brand Advertisement Branding",
+        "link": "/services/branding-designing/offline-brand-ads"
+      },
+      {
+        "title": "Bag Manufacturer Branding",
+        "link": "/services/branding-designing/bag-manufacturer"
+      },
+      {
+        "title": "Machinery Manufacturer Branding",
+        "link": "/services/branding-designing/machinery-manufacturer"
+      },
+      {
+        "title": "Ball Bearing Importer & Supplier Branding",
+        "link": "/services/branding-designing/ball-bearing"
+      },
+      {
+        "title": "Pool Table Manufacturer Branding",
+        "link": "/services/branding-designing/pool-table"
+      },
+      {
+        "title": "Electronic Device Supplier Branding",
+        "link": "/services/branding-designing/electronics"
+      },
+      {
+        "title": "Fire Safety Doors Manufacturer Branding",
+        "link": "/services/branding-designing/fire-safety-doors"
+      },
+      {
+        "title": "View All",
+        "link": "/industrial-specific"
+      }
+    ]
+  },
+  {
+    "id": "seo",
+    "label": "SEO (Search Engine Optimization)",
+    "link": "/services/seo",
+    "cards": [
+      {
+        "title": "PCD Pharma Industries SEO ",
+        "link": "/services/seo/pcd-pharma"
+      },
+      {
+        "title": "Car Parts Importer & Suppliers SEO",
+        "link": "/services/seo/car-parts"
+      },
+      {
+        "title": "Road Safety Product Manufacturer SEO",
+        "link": "/services/seo/road-safety"
+      },
+      {
+        "title": "Electronics Devices Supplier SEO",
+        "link": "/services/seo/electronics"
+      },
+      {
+        "title": "Industrial Automation Solutions SEO",
+        "link": "/services/seo/industrial-automation"
+      },
+      {
+        "title": "Healthcare Industries SEO",
+        "link": "/services/seo/healthcare"
+      },
+      {
+        "title": "SMC & GRP Tanks Manufacturer SEO",
+        "link": "/services/seo/smc-grp-tanks"
+      },
+      {
+        "title": "Offline Brand Advertisement SEO",
+        "link": "/services/seo/offline-brand-ads"
+      },
+      {
+        "title": "Bag Manufacturer SEO",
+        "link": "/services/seo/bag-manufacturer"
+      },
+      {
+        "title": "Machinery Manufacturer SEO",
+        "link": "/services/seo/machinery-manufacturer"
+      },
+      {
+        "title": "Ball Bearing Importer & Supplier SEO",
+        "link": "/services/seo/ball-bearing"
+      },
+      {
+        "title": "Pool Table Manufacturer SEO",
+        "link": "/services/seo/pool-table"
+      },
+      {
+        "title": "Electronic Device Supplier SEO",
+        "link": "/services/seo/electronics"
+      },
+      {
+        "title": "Fire Safety Doors Manufacturer SEO",
+        "link": "/services/seo/fire-safety-doors"
+      },
+      {
+        "title": "View All",
+        "link": "/industrial-specific"
+      }
+    ]
+  }
+]

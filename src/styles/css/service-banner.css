@@ -1,0 +1,205 @@
+/* service-banner.css */
+/* Modern gradient and rounded-corner service hero banner */
+
+.modern-service-banner-section {
+  padding: 40px 15px;
+  background-color: #f8fbfd; /* Slight off-white background outside the banner */
+  display: flex;
+  justify-content: center;
+}
+
+.modern-banner-container {
+  position: relative;
+  width: 100%;
+  max-width: 1400px;
+  /* Soft peach to lavender/purple linear gradient */
+  background: linear-gradient(135deg, #fdf5f6 0%, #f4e8fb 100%);
+  border-radius: 40px;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  padding: 40px 40px 0 40px; /* Zero bottom padding so image can touch the border */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden; /* Ensure bottom image is clipped nicely if it bleeds */
+  min-height: 700px;
+}
+
+/* Breadcrumb Styling */
+.modern-breadcrumb {
+  align-self: flex-start;
+  font-size: 14px;
+  color: #555;
+  font-weight: 500;
+  display: flex;
+  gap: 8px;
+  margin-bottom: 60px;
+  letter-spacing: 0.05em;
+}
+
+.modern-breadcrumb a {
+  color: #555;
+  transition: color 0.3s;
+}
+
+.modern-breadcrumb a:hover {
+  color: #3b2854;
+}
+
+.modern-breadcrumb .separator {
+  color: #999;
+}
+
+/* Typography */
+.modern-banner-content {
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto 50px auto;
+  z-index: 2;
+}
+
+.modern-subtitle {
+  font-size: 20px;
+  font-weight: 700;
+  color: #3b2854; /* Deep purple */
+  margin-bottom: 20px;
+  letter-spacing: 0.03em;
+}
+
+.modern-title {
+  font-size: 80px;
+  font-weight: 800;
+  line-height: 1.1;
+  color: #3b2854; /* Deep purple */
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+/* For smaller screens */
+@media (max-width: 991px) {
+  .modern-title {
+    font-size: 60px;
+  }
+  .modern-banner-container {
+    padding: 30px 20px 0 20px;
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 575px) {
+  .modern-title {
+    font-size: 44px;
+  }
+  .modern-subtitle {
+    font-size: 16px;
+  }
+  .modern-breadcrumb {
+    font-size: 12px;
+    margin-bottom: 40px;
+  }
+}
+
+/* Floating Elements (Bottom Left and Right) */
+.modern-floating-elements {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  pointer-events: none; /* Let clicks pass through */
+  z-index: 2;
+}
+
+.scroll-down {
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  opacity: 0.8;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.scroll-down:hover {
+  opacity: 1;
+}
+
+.scroll-down .arrow-circle {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 1px solid #3b2854;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #3b2854;
+  font-size: 18px;
+  animation: bounceDown 2s infinite ease-in-out;
+}
+
+.scroll-down span {
+  font-size: 14px;
+  font-weight: 700;
+  color: #3b2854;
+  line-height: 1.3;
+}
+
+@keyframes bounceDown {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(5px); }
+}
+
+.graffiti-text {
+  position: absolute;
+  bottom: 60px;
+  right: 50px;
+  transform: rotate(-10deg);
+  opacity: 0.9;
+}
+
+.graffiti-text span {
+  font-family: 'Impact', 'Arial Black', sans-serif; /* Proxy for heavy graffiti font */
+  font-size: 45px;
+  line-height: 0.9;
+  font-weight: 900;
+  color: #3b2854;
+  text-transform: uppercase;
+  display: block;
+  text-align: left;
+  /* A slight outline to make it look like street art */
+  -webkit-text-stroke: 1px #3b2854;
+  color: transparent;
+  /* Filling it partially or solidly */
+  text-shadow: 2px 2px 0px #3b2854;
+}
+
+@media (max-width: 991px) {
+  .scroll-down, .graffiti-text {
+    display: none; /* Hide decorative elements on mobile for clean space */
+  }
+}
+
+/* Center Image (Laptop Mockup) */
+.modern-center-image {
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+  width: 100%;
+}
+
+.modern-center-image img {
+  max-width: 800px;
+  width: 90%;
+  height: auto;
+  display: block;
+  /* Lower it slightly to cut off cleanly at the bottom border */
+  transform: translateY(10px);
+}
+
+@media (max-width: 991px) {
+  .modern-center-image img {
+    max-width: 600px;
+  }
+}

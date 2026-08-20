@@ -1,0 +1,27 @@
+{
+  "targetLocationSlugs": [
+    "delhi",
+    "noida",
+    "greater-noida",
+    "gurugram",
+    "faridabad",
+    "ghaziabad",
+    "delhi-ncr",
+    "connaught-place"
+  ],
+  "services": [
+    { "name": "Best Digital Marketing Service Company", "slug": "best-digital-marketing-service-company", "shortName": "Digital Marketing" },
+    { "name": "Best SEO Service Company", "slug": "best-seo-service-company", "shortName": "SEO" },
+    { "name": "Best Meta Ads Service Company", "slug": "best-meta-ads-service-company", "shortName": "Meta Ads" },
+    { "name": "Best Google Ads Service Company", "slug": "best-google-ads-service-company", "shortName": "Google Ads" },
+    { "name": "Best Lead Generation Service Company", "slug": "best-lead-generation-service-company", "shortName": "Lead Generation" },
+    { "name": "Best Social Media Service Company", "slug": "best-social-media-service-company", "shortName": "Social Media" },
+    { "name": "Best Website Development Service Company", "slug": "best-website-development-service-company", "shortName": "Website Development" },
+    { "name": "Best Website Design Service Company", "slug": "best-website-design-service-company", "shortName": "Website Design" },
+    { "name": "Best UGC Marketing Service Company", "slug": "best-ugc-marketing-service-company", "shortName": "UGC Marketing" },
+    { "name": "Best Video Creation Service Company", "slug": "best-video-creation-service-company", "shortName": "Video Creation" },
+    { "name": "Best Influencer Marketing Service Company", "slug": "best-influencer-marketing-service-company", "shortName": "Influencer Marketing" },
+    { "name": "Best Product Photography Service Company", "slug": "best-product-photography-service-company", "shortName": "Product Photography" },
+    { "name": "Best PPC Service Company", "slug": "best-ppc-service-company", "shortName": "PPC" }
+  ]
+}
