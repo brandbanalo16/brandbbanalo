@@ -20,7 +20,7 @@ declare(strict_types=1);
 $SMTP_HOST = 'smtp.gmail.com';
 $SMTP_PORT = 587;              // 587 = STARTTLS
 $SMTP_USER = 'info@brandbanalo.com';
-$SMTP_PASS = 'culewdrbqbffntwq';
+$SMTP_PASS = 'zmmvzntfefoeihyd';
 
 $FROM_EMAIL = $SMTP_USER;      // Gmail requires from_email == authenticated user
 $FROM_NAME = 'Brandbanalo Pvt Ltd';

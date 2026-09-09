@@ -27,7 +27,7 @@ return [
         'username' => 'info@brandbanalo.com',
 
         // Paste your APP PASSWORD here (for Gmail: 16-char app password)
-        'password' => 'culewdrbqbffntwq',
+        'password' => 'zmmvzntfefoeihyd',
 
         // Best deliverability: keep from_email the same as username (Gmail requirement)
         'from_email' => 'info@brandbanalo.com',
