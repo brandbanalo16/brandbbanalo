@@ -55,9 +55,9 @@ for (const [name, slug, cities] of statesData) {
         name: name,
         slug: slug,
         type: 'state',
-        intro: `Scale your business in ${name} with Brand Banalo. We are the leading digital marketing agency in ${name}, specializing in SEO, SMM, and lead generation.`,
+        intro: `Scale your business in ${name} with Brandbanalo. We are the leading digital marketing agency in ${name}, specializing in SEO, SMM, and lead generation.`,
         meta: {
-            title: `Best Digital Marketing Agency in ${name} | Brand Banalo`,
+            title: `Best Digital Marketing Agency in ${name} | Brandbanalo`,
             description: `Grow your business in ${name} with our expert digital marketing services. Top-rated SEO, Social Media, and PPC agency in ${name}.`,
             keywords: [`Digital Marketing ${name}`, `SEO Services ${name}`, `Marketing Agency ${name}`]
         },
@@ -76,7 +76,7 @@ for (const [name, slug, cities] of statesData) {
             name: city,
             slug: citySlug,
             type: 'city',
-            intro: `Brand Banalo offers customized digital marketing strategies for brands in ${city}. Boost your online presence with the best SEO and performance marketing in ${city}.`,
+            intro: `Brandbanalo offers customized digital marketing strategies for brands in ${city}. Boost your online presence with the best SEO and performance marketing in ${city}.`,
             meta: {
                 title: `Best Digital Marketing Agency in ${city} | SEO Experts`,
                 description: `Leading digital marketing company in ${city}. We provide results-driven SEO, Google Ads, and social media management in ${city}.`,
@@ -91,7 +91,7 @@ for (const [name, slug, cities] of statesData) {
             areas: getAreas(city),
             faqs: [
                 {
-                    q: `Why choose Brand Banalo in ${city}?`,
+                    q: `Why choose Brandbanalo in ${city}?`,
                     a: `We provide data-driven strategies and local expertise to ensure your brand stands out in ${city}.`
                 },
                 {

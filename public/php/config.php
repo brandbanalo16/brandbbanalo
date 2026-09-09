@@ -8,7 +8,7 @@
 
 return [
     // Branding
-    'company_name' => 'Brand Banalo Pvt Ltd',
+    'company_name' => 'Brandbanalo Pvt Ltd',
     'website_url' => 'https://brandbanalo.com',
     'logo_url' => null, // Optional public logo URL
 

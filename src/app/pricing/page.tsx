@@ -2,9 +2,9 @@ import PricingSections from "@/components/main/PricingSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Digital Marketing & Branding Packages | Brand Banalo",
+  title: "Digital Marketing & Branding Packages | Brandbanalo",
   description:
-    "Explore affordable and transparent pricing for Brand Banalo's digital marketing, SEO, social media management, and web development services.",
+    "Explore affordable and transparent pricing for Brandbanalo's digital marketing, SEO, social media management, and web development services.",
   keywords: [
     "Digital Marketing Packages",
     "SEO Pricing India",

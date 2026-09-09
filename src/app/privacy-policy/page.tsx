@@ -1,4 +1,17 @@
 import React from 'react';
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Privacy Policy | Brandbanalo",
+  description:
+    "Read Brandbanalo's Privacy Policy to understand how we collect, use, and protect your personal information when you use our digital marketing services.",
+  keywords: [
+    "Brandbanalo Privacy Policy",
+    "Data Protection Policy",
+    "User Privacy",
+    "Personal Data",
+  ],
+};
 
 export default function PrivacyPolicyPage() {
   return (

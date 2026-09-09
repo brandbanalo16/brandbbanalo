@@ -35,10 +35,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   return {
-    title: `Best ${service.name} Service | Brand Banalo`,
+    title: `Best ${service.name} Service | Brandbanalo`,
     description:
       service.hero?.description ||
-      "Professional digital marketing and web services by Brand Banalo.",
+      "Professional digital marketing and web services by Brandbanalo.",
     keywords: [
       `Best ${service.name} Service`,
       `${service.name} Creating Service`,

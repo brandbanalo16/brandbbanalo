@@ -2,8 +2,8 @@
   {
     "page": "Home",
     "path": "src/app/page.tsx",
-    "title": "Creative & Digital Marketing Agency | Brand Banalo",
-    "description": "Brand Banalo helps businesses grow with branding, web development, SEO, social media marketing, lead generation, and performance ads.",
+    "title": "Creative & Digital Marketing Agency | Brandbanalo",
+    "description": "Brandbanalo helps businesses grow with branding, web development, SEO, social media marketing, lead generation, and performance ads.",
     "keywords": [
       "Best Digital Marketing Agency",
       "Digital Marketing Service",
@@ -16,8 +16,8 @@
   {
     "page": "About Us",
     "path": "src/app/behind-the-brand/page.tsx",
-    "title": "About Brand Banalo | Top Digital Marketing Experts",
-    "description": "Learn about Brand Banalo's journey, our team, and our commitment to helping businesses scale with data-driven digital marketing and intuitive branding.",
+    "title": "About Brandbanalo | Top Digital Marketing Experts",
+    "description": "Learn about Brandbanalo's journey, our team, and our commitment to helping businesses scale with data-driven digital marketing and intuitive branding.",
     "keywords": [
       "About Brandbanalo",
       "Digital Marketing Experts",
@@ -30,8 +30,8 @@
   {
     "page": "Blog Index",
     "path": "src/app/blog/page.tsx",
-    "title": "Digital Marketing Blog & Insights | Brand Banalo",
-    "description": "Explore the Brand Banalo blog for the latest trends, tips, and insights in digital marketing, SEO, web development, and branding strategies.",
+    "title": "Digital Marketing Blog & Insights | Brandbanalo",
+    "description": "Explore the Brandbanalo blog for the latest trends, tips, and insights in digital marketing, SEO, web development, and branding strategies.",
     "keywords": [
       "Digital Marketing Blog",
       "SEO Marketing Insights",
@@ -44,8 +44,8 @@
   {
     "page": "Case Studies",
     "path": "src/app/case-study/page.tsx",
-    "title": "Success Stories & Case Studies | Brand Banalo",
-    "description": "Discover how Brand Banalo has helped clients achieve their goals through targeted digital marketing, innovative web design, and stellar branding campaigns.",
+    "title": "Success Stories & Case Studies | Brandbanalo",
+    "description": "Discover how Brandbanalo has helped clients achieve their goals through targeted digital marketing, innovative web design, and stellar branding campaigns.",
     "keywords": [
       "Marketing Case Studies",
       "SEO Success Stories",
@@ -58,8 +58,8 @@
   {
     "page": "Contact Us",
     "path": "src/app/contact/page.tsx",
-    "title": "Contact Brand Banalo | Digital Marketing Agency",
-    "description": "Get in touch with Brand Banalo to discuss your digital marketing, SEO, and web development needs. Let's work together to elevate your business.",
+    "title": "Contact Brandbanalo | Digital Marketing Agency",
+    "description": "Get in touch with Brandbanalo to discuss your digital marketing, SEO, and web development needs. Let's work together to elevate your business.",
     "keywords": [
       "Contact Brandbanalo",
       "Get in Touch for Marketing",
@@ -72,8 +72,8 @@
   {
     "page": "FAQ",
     "path": "src/app/faq/page.tsx",
-    "title": "Frequently Asked Questions | Brand Banalo",
-    "description": "Find answers to all your questions about digital marketing, SEO, web development, and the services we offer at Brand Banalo.",
+    "title": "Frequently Asked Questions | Brandbanalo",
+    "description": "Find answers to all your questions about digital marketing, SEO, web development, and the services we offer at Brandbanalo.",
     "keywords": [
       "Digital Marketing FAQ",
       "Branding Questions",
@@ -86,7 +86,7 @@
   {
     "page": "Industry Specific Services",
     "path": "src/app/industrial-specific/page.tsx",
-    "title": "Industry Specific Marketing | Brand Banalo",
+    "title": "Industry Specific Marketing | Brandbanalo",
     "description": "Tailored digital marketing and branding solutions for your specific industry. We understand your market and help you stand out from the competition.",
     "keywords": [
       "Best Industry Specific Marketing",
@@ -100,13 +100,13 @@
   {
     "page": "Industry Specific Service",
     "path": "src/app/industry-specific-service/page.tsx",
-    "title": "Industry Specific Service | Brand Banalo",
+    "title": "Industry Specific Service | Brandbanalo",
     "description": "Expert digital marketing agency for specialized industries including Pharma, Automotive, Electronics, and more. Tailored growth strategies for your niche.",
     "keywords": [
       "Industry Specific Service",
       "Digital Marketing for Industries",
       "Niche Marketing Experts",
-      "Brand Banalo Industry Solutions",
+      "Brandbanalo Industry Solutions",
       "Specialized Marketing Service",
       "Industrial Growth Strategies"
     ]
@@ -114,8 +114,8 @@
   {
     "page": "Marketing Area",
     "path": "src/app/marketing-area/page.tsx",
-    "title": "Service Locations | Brand Banalo",
-    "description": "Discover the wide range of locations we serve across India. Brand Banalo provides expert digital marketing services in multiple states and cities.",
+    "title": "Service Locations | Brandbanalo",
+    "description": "Discover the wide range of locations we serve across India. Brandbanalo provides expert digital marketing services in multiple states and cities.",
     "keywords": [
       "Marketing Agencies in India",
       "Local SEO Services India",
@@ -128,8 +128,8 @@
   {
     "page": "Pricing",
     "path": "src/app/pricing/page.tsx",
-    "title": "Digital Marketing & Branding Packages | Brand Banalo",
-    "description": "Explore affordable and transparent pricing for Brand Banalo's digital marketing, SEO, social media management, and web development services.",
+    "title": "Digital Marketing & Branding Packages | Brandbanalo",
+    "description": "Explore affordable and transparent pricing for Brandbanalo's digital marketing, SEO, social media management, and web development services.",
     "keywords": [
       "Digital Marketing Packages",
       "SEO Pricing India",
@@ -142,7 +142,7 @@
   {
     "page": "Services Index",
     "path": "src/app/services/page.tsx",
-    "title": "Our Digital Marketing Services | Brand Banalo",
+    "title": "Our Digital Marketing Services | Brandbanalo",
     "description": "Comprehensive digital marketing services including SEO, Lead Generation, Web Development, Branding, and Ads Management to boost your online presence.",
     "keywords": [
       "Best Digital Marketing Service",
@@ -156,7 +156,7 @@
   {
     "page": "Service: Ads Management",
     "path": "src/app/services/ads-management/page.tsx",
-    "title": "Best Ads Management Service | Brand Banalo",
+    "title": "Best Ads Management Service | Brandbanalo",
     "description": "Maximize your ROI with expert performance ads management. We run highly targeted search and social media campaigns tailored to your business goals.",
     "keywords": [
       "Best Ads Management Service",
@@ -170,7 +170,7 @@
   {
     "page": "Service: Branding & Designing",
     "path": "src/app/services/branding-designing/page.tsx",
-    "title": "Best Branding & Designing Service | Brand Banalo",
+    "title": "Best Branding & Designing Service | Brandbanalo",
     "description": "Build a memorable brand with our creative branding and designing services. From logo design to entire brand identity, we bring your vision to life.",
     "keywords": [
       "Best Branding & Designing Service",
@@ -184,7 +184,7 @@
   {
     "page": "Service: Lead Generation",
     "path": "src/app/services/lead-generation/page.tsx",
-    "title": "Best Lead Generation Service | Brand Banalo",
+    "title": "Best Lead Generation Service | Brandbanalo",
     "description": "Grow your sales pipeline with our targeted lead generation strategies. Let us help you find and convert potential customers into long-term clients.",
     "keywords": [
       "Best Lead Generation Service",
@@ -198,8 +198,8 @@
   {
     "page": "Service: SEO",
     "path": "src/app/services/seo/page.tsx",
-    "title": "Best SEO Service | Brand Banalo",
-    "description": "Increase your organic search visibility and drive high-quality traffic to your website with Brand Banalo's comprehensive SEO services.",
+    "title": "Best SEO Service | Brandbanalo",
+    "description": "Increase your organic search visibility and drive high-quality traffic to your website with Brandbanalo's comprehensive SEO services.",
     "keywords": [
       "Best SEO Service",
       "SEO Creating Service",
@@ -212,7 +212,7 @@
   {
     "page": "Service: Social Media Management",
     "path": "src/app/services/social-media-management/page.tsx",
-    "title": "Best Social Media Management Service | Brand Banalo",
+    "title": "Best Social Media Management Service | Brandbanalo",
     "description": "Engage your audience and build brand credibility through consistent and creative social media management across all major platforms.",
     "keywords": [
       "Best Social Media Management Service",
@@ -226,8 +226,8 @@
   {
     "page": "Service: Technology",
     "path": "src/app/services/technology/page.tsx",
-    "title": "Best Technology Service | Brand Banalo",
-    "description": "Empower your business with cutting-edge technology solutions ranging from app development to complex platform integrations by Brand Banalo.",
+    "title": "Best Technology Service | Brandbanalo",
+    "description": "Empower your business with cutting-edge technology solutions ranging from app development to complex platform integrations by Brandbanalo.",
     "keywords": [
       "Best Technology Service",
       "Technology Creating Service",
@@ -240,7 +240,7 @@
   {
     "page": "Service: Web Development",
     "path": "src/app/services/web-development/page.tsx",
-    "title": "Best Website Development Service | Brand Banalo",
+    "title": "Best Website Development Service | Brandbanalo",
     "description": "We build fast, responsive, and SEO-friendly websites focusing on user experience, performance, and conversion rate optimization.",
     "keywords": [
       "Best Website Development Service",
@@ -254,8 +254,8 @@
   {
     "page": "Team",
     "path": "src/app/team/page.tsx",
-    "title": "Meet Our Expert Team | Brand Banalo",
-    "description": "Meet the passionate digital marketers, creative designers, and expert developers behind Brand Banalo's top-rated marketing agency.",
+    "title": "Meet Our Expert Team | Brandbanalo",
+    "description": "Meet the passionate digital marketers, creative designers, and expert developers behind Brandbanalo's top-rated marketing agency.",
     "keywords": [
       "Digital Marketing Experts Team",
       "Meet Brandbanalo Staff",

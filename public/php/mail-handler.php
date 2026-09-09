@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /**
- * Brand Banalo Pvt Ltd - Universal Form Mail Handler
+ * Brandbanalo Pvt Ltd - Universal Form Mail Handler
  *
  * Supports multiple form types with one endpoint:
  * - Contact Form
@@ -212,7 +212,7 @@ $payload = [
     'user_agent' => $ua,
 ];
 
-$company = (string)($config['company_name'] ?? 'Brand Banalo Pvt Ltd');
+$company = (string)($config['company_name'] ?? 'Brandbanalo Pvt Ltd');
 $adminEmail = (string)($config['admin_email'] ?? '');
 $adminName = (string)($config['admin_name'] ?? $company);
 

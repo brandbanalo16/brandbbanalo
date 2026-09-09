@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import ServiceSections from "@/components/main/ServiceSections";
 
 export const metadata: Metadata = {
-  title: "Best Technology Service | Brand Banalo",
+  title: "Best Technology Service | Brandbanalo",
   description:
-    "Empower your business with cutting-edge technology solutions ranging from app development to complex platform integrations by Brand Banalo.",
+    "Empower your business with cutting-edge technology solutions ranging from app development to complex platform integrations by Brandbanalo.",
   keywords: [
     "Best Technology Service",
     "Technology Creating Service",
@@ -18,9 +18,9 @@ export const metadata: Metadata = {
 export default function TechnologyServicePage() {
   return (
     <main>
-      <ServiceSections 
-        showBanner={false} 
-        initialServiceId="002" 
+      <ServiceSections
+        showBanner={false}
+        initialServiceId="002"
       />
     </main>
   );

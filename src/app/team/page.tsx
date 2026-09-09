@@ -2,9 +2,9 @@ import TeamSections from "@/components/main/TeamSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Meet Our Expert Team | Brand Banalo",
+  title: "Meet Our Expert Team | Brandbanalo",
   description:
-    "Meet the passionate digital marketers, creative designers, and expert developers behind Brand Banalo's top-rated marketing agency.",
+    "Meet the passionate digital marketers, creative designers, and expert developers behind Brandbanalo's top-rated marketing agency.",
   keywords: [
     "Digital Marketing Experts Team",
     "Meet Brandbanalo Staff",

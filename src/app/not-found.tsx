@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Page Not Found",
   description:
-    "Sorry, we couldn’t find the page you’re looking for. Explore Brand Banalo services or get in touch to discuss your project.",
+    "Sorry, we couldn’t find the page you’re looking for. Explore Brandbanalo services or get in touch to discuss your project.",
 };
 
 export default function NotFound() {

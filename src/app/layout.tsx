@@ -25,11 +25,11 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: {
-    default: "Brand Banalo",
-    template: "%s | Brand Banalo",
+    default: "Brandbanalo",
+    template: "%s | Brandbanalo",
   },
   description:
-    "Brand Banalo is a creative and digital marketing agency helping businesses grow with branding, web development, SEO, social media, lead generation, and performance ads.",
+    "Brandbanalo is a creative and digital marketing agency helping businesses grow with branding, web development, SEO, social media, lead generation, and performance ads.",
   robots: {
     index: true,
     follow: true,

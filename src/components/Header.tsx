@@ -85,7 +85,7 @@ export default function Header() {
               <Link href="/" className="header-logo">
                 <img
                   src={scrolled ? "/assets/img/logo/logo-black.webp" : "/assets/img/logo/logo-export-file-01.webp"}
-                  alt="Brand Banalo logo"
+                  alt="Brandbanalo logo"
                   className="logo-img"
                   style={{ transition: "opacity 0.3s ease" }}
                 />

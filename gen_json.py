@@ -49,9 +49,9 @@ def get_areas(city):
 
 def get_intro(name, is_state=True):
     if is_state:
-        return f'Brand Banalo Pvt Ltd. is the premier digital marketing agency in {name}, offering comprehensive solutions to scale your business. From SEO to social media, we empower {name} enterprises with data-driven growth strategies.'
+        return f'Brandbanalo Pvt Ltd. is the premier digital marketing agency in {name}, offering comprehensive solutions to scale your business. From SEO to social media, we empower {name} enterprises with data-driven growth strategies.'
     else:
-        return f'Looking for a top-tier digital marketing company in {city}? Brand Banalo delivers customized SEO and lead generation services designed to help {city} businesses achieve market leadership and higher ROI.'
+        return f'Looking for a top-tier digital marketing company in {city}? Brandbanalo delivers customized SEO and lead generation services designed to help {city} businesses achieve market leadership and higher ROI.'
 
 output = {'states': []}
 
@@ -60,11 +60,11 @@ for name, slug, cities in states_data:
         'name': name,
         'slug': slug,
         'type': 'state',
-        'intro': f'Empower your brand in {name} with Brand Banalo’s award-winning digital marketing services. We specialize in driving organic growth and brand visibility for businesses across the entire state of {name}.',
+        'intro': f'Empower your brand in {name} with Brandbanalo’s award-winning digital marketing services. We specialize in driving organic growth and brand visibility for businesses across the entire state of {name}.',
         'meta': {
-            'title': f'Best Digital Marketing Agency in {name} | Brand Banalo',
+            'title': f'Best Digital Marketing Agency in {name} | Brandbanalo',
             'description': f'Leading digital marketing agency in {name}. We offer SEO, PPC, and Social Media Marketing services tailored for {name} businesses. Book a free consultation today!',
-            'keywords': [f'Digital Marketing {name}', f'SEO Services {name}', f'Marketing Agency {name}', f'Brand Banalo {name}']
+            'keywords': [f'Digital Marketing {name}', f'SEO Services {name}', f'Marketing Agency {name}', f'Brandbanalo {name}']
         },
         'keywords': [
             f'Digital Marketing Services in {name}',
@@ -81,10 +81,10 @@ for name, slug, cities in states_data:
             'name': city,
             'slug': city_slug,
             'type': 'city',
-            'intro': f'Brand Banalo Pvt Ltd. is the leading provider of expert digital marketing services in {city}. Our team helps local businesses in {city} boost their online presence through advanced SEO and performance marketing.',
+            'intro': f'Brandbanalo Pvt Ltd. is the leading provider of expert digital marketing services in {city}. Our team helps local businesses in {city} boost their online presence through advanced SEO and performance marketing.',
             'meta': {
                 'title': f'Top Digital Marketing Agency in {city} | SEO & PPC Experts',
-                'description': f'Grow your business in {city} with Brand Banalo. We provide the best SEO, Social Media, and Google Ads management services in {city}. Get results-driven marketing!',
+                'description': f'Grow your business in {city} with Brandbanalo. We provide the best SEO, Social Media, and Google Ads management services in {city}. Get results-driven marketing!',
                 'keywords': [f'Digital Marketing in {city}', f'SEO Company {city}', f'Marketing Agency {city}', f'PPC Services {city}']
             },
             'keywords': [
@@ -97,7 +97,7 @@ for name, slug, cities in states_data:
             'areas': get_areas(city),
             'faqs': [
                 {
-                    'q': f'What makes Brand Banalo the best digital marketing agency in {city}?',
+                    'q': f'What makes Brandbanalo the best digital marketing agency in {city}?',
                     'a': f'Our combination of deep local market knowledge, industry-leading tools, and a track record of delivering high ROI makes us the preferred choice for businesses in {city}.'
                 },
                 {

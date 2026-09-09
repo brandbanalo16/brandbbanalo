@@ -2,9 +2,9 @@ import ContactSections from "@/components/main/ContactSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contact Brand Banalo | Digital Marketing Agency",
+  title: "Contact Brandbanalo | Digital Marketing Agency",
   description:
-    "Get in touch with Brand Banalo to discuss your digital marketing, SEO, and web development needs. Let's work together to elevate your business.",
+    "Get in touch with Brandbanalo to discuss your digital marketing, SEO, and web development needs. Let's work together to elevate your business.",
   keywords: [
     "Contact Brandbanalo",
     "Get in Touch for Marketing",

@@ -2,7 +2,7 @@ import ServiceSections from "@/components/main/ServiceSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Best Social Media Management Service | Brand Banalo",
+  title: "Best Social Media Management Service | Brandbanalo",
   description:
     "Engage your audience and build brand credibility through consistent and creative social media management across all major platforms.",
   keywords: [

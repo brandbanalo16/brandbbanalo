@@ -2,7 +2,7 @@ import ServiceSections from "@/components/main/ServiceSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Best Branding & Designing Service | Brand Banalo",
+  title: "Best Branding & Designing Service | Brandbanalo",
   description:
     "Build a memorable brand with our creative branding and designing services. From logo design to entire brand identity, we bring your vision to life.",
   keywords: [

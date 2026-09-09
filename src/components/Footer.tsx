@@ -48,7 +48,7 @@ export default function Footer({ marquee }: { marquee?: React.ReactNode }) {
           {/* Column 1: Brand Info */}
           <div className="footer-column footer-brand">
             <Link href="/" className="footer-logo">
-              <img src="/assets/img/logo/logo-black.webp" alt="Brand Banalo Logo" />
+              <img src="/assets/img/logo/logo-black.webp" alt="Brandbanalo Logo" />
             </Link>
             <p>
               Brandbanalo is a full-service digital marketing agency based in Delhi, India. We help businesses grow, scale, and build a strong online presence. We are a team of passionate digital marketers who are dedicated to helping businesses succeed in the digital space.

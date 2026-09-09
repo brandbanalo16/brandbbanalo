@@ -26,9 +26,9 @@ $FROM_EMAIL = $SMTP_USER;      // Gmail requires from_email == authenticated use
 $FROM_NAME = 'Brandbanalo Pvt Ltd';
 
 $TO_EMAIL = 'admin@brandbanalo.com';
-$TO_NAME = 'Brand Banalo Team';
+$TO_NAME = 'Brandbanalo Team';
 
-$SUBJECT = 'SMTP Test Email - Brand Banalo';
+$SUBJECT = 'SMTP Test Email - Brandbanalo';
 $HTML_BODY = '<h2 style="margin:0 0 8px 0;">SMTP Test</h2><p>This is a test email sent via <b>simple SMTP PHP</b>.</p>';
 $TEXT_BODY = "SMTP Test\nThis is a test email sent via simple SMTP PHP.";
 

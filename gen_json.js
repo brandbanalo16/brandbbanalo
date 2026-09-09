@@ -55,11 +55,11 @@ for (const [name, slug, cities] of statesData) {
         name: name,
         slug: slug,
         type: 'state',
-        intro: `Empower your brand in ${name} with Brand Banalo’s award-winning digital marketing services. We specialize in driving organic growth and brand visibility for businesses across the entire state of ${name}.`,
+        intro: `Empower your brand in ${name} with Brandbanalo’s award-winning digital marketing services. We specialize in driving organic growth and brand visibility for businesses across the entire state of ${name}.`,
         meta: {
-            title: `Best Digital Marketing Agency in ${name} | Brand Banalo`,
+            title: `Best Digital Marketing Agency in ${name} | Brandbanalo`,
             description: `Leading digital marketing agency in ${name}. We offer SEO, PPC, and Social Media Marketing services tailored for ${name} businesses. Book a free consultation today!`,
-            keywords: [`Digital Marketing ${name}`, `SEO Services ${name}`, `Marketing Agency ${name}`, `Brand Banalo ${name}`]
+            keywords: [`Digital Marketing ${name}`, `SEO Services ${name}`, `Marketing Agency ${name}`, `Brandbanalo ${name}`]
         },
         keywords: [
             `Digital Marketing Services in ${name}`,
@@ -77,10 +77,10 @@ for (const [name, slug, cities] of statesData) {
             name: city,
             slug: citySlug,
             type: 'city',
-            intro: `Brand Banalo Pvt Ltd. is the leading provider of expert digital marketing services in ${city}. Our team helps local businesses in ${city} boost their online presence through advanced SEO and performance marketing.`,
+            intro: `Brandbanalo Pvt Ltd. is the leading provider of expert digital marketing services in ${city}. Our team helps local businesses in ${city} boost their online presence through advanced SEO and performance marketing.`,
             meta: {
                 title: `Top Digital Marketing Agency in ${city} | SEO & PPC Experts`,
-                description: `Grow your business in ${city} with Brand Banalo. We provide the best SEO, Social Media, and Google Ads management services in ${city}. Get results-driven marketing!`,
+                description: `Grow your business in ${city} with Brandbanalo. We provide the best SEO, Social Media, and Google Ads management services in ${city}. Get results-driven marketing!`,
                 keywords: [`Digital Marketing in ${city}`, `SEO Company ${city}`, `Marketing Agency ${city}`, `PPC Services ${city}`]
             },
             keywords: [
@@ -93,7 +93,7 @@ for (const [name, slug, cities] of statesData) {
             areas: getAreas(city),
             faqs: [
                 {
-                    q: `What makes Brand Banalo the best digital marketing agency in ${city}?`,
+                    q: `What makes Brandbanalo the best digital marketing agency in ${city}?`,
                     a: `Our combination of deep local market knowledge, industry-leading tools, and a track record of delivering high ROI makes us the preferred choice for businesses in ${city}.`
                 },
                 {

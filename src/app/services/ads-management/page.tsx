@@ -2,7 +2,7 @@ import ServiceSections from "@/components/main/ServiceSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Best Ads Management Service | Brand Banalo",
+  title: "Best Ads Management Service | Brandbanalo",
   description:
     "Maximize your ROI with expert performance ads management. We run highly targeted search and social media campaigns tailored to your business goals.",
   keywords: [

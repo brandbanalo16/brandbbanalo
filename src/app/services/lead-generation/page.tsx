@@ -2,7 +2,7 @@ import ServiceSections from "@/components/main/ServiceSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Best Lead Generation Service | Brand Banalo",
+  title: "Best Lead Generation Service | Brandbanalo",
   description:
     "Grow your sales pipeline with our targeted lead generation strategies. Let us help you find and convert potential customers into long-term clients.",
   keywords: [

@@ -6,7 +6,7 @@
 
 return [
     // Branding
-    'company_name' => 'Brand Banalo Pvt Ltd',
+    'company_name' => 'Brandbanalo Pvt Ltd',
     'website_url' => 'https://brandbanalo.com',
     'logo_url' => null, // Optional: public URL to a logo image (PNG/JPG)
 
@@ -22,7 +22,7 @@ return [
         'username' => 'info@brandbanalo.com',
         'password' => 'cule wdrb qbff ntwq',
         'from_email' => 'info@brandbanalo.com',
-        'from_name' => 'Brand Banalo Pvt Ltd',
+        'from_name' => 'Brandbanalo Pvt Ltd',
         // Optional (recommended): separate reply-to mailbox for replies from admin
         'reply_to_email' => 'info@brandbanalo.com',
         'reply_to_name' => 'Brandbanalo Support',

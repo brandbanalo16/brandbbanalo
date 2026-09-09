@@ -1,4 +1,17 @@
 import React from 'react';
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Terms & Conditions | Brandbanalo",
+  description:
+    "Review the Terms & Conditions for using Brandbanalo's website and digital marketing services. Understand your rights and responsibilities as a user.",
+  keywords: [
+    "Brandbanalo Terms and Conditions",
+    "Terms of Use",
+    "Website Terms",
+    "Service Agreement",
+  ],
+};
 
 export default function TermsPage() {
   return (

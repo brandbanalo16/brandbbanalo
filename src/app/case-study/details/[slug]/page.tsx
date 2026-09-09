@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return {
       title: "Case Study",
       description:
-        "Explore Brand Banalo case studies and see how our branding, web, SEO, and performance marketing work delivers measurable results.",
+        "Explore Brandbanalo case studies and see how our branding, web, SEO, and performance marketing work delivers measurable results.",
     };
   }
 

@@ -2,7 +2,7 @@ import ServiceSections from "@/components/main/ServiceSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Industry Specific Marketing | Brand Banalo",
+  title: "Industry Specific Marketing | Brandbanalo",
   description:
     "Tailored digital marketing and branding solutions for your specific industry. We understand your market and help you stand out from the competition.",
   keywords: [

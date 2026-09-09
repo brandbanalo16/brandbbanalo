@@ -2,7 +2,7 @@ import ServiceMainListingPage from "@/components/main/ServiceMainListingPage";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Our Digital Marketing Services | Brand Banalo",
+  title: "Our Digital Marketing Services | Brandbanalo",
   description:
     "Comprehensive digital marketing services including SEO, Lead Generation, Web Development, Branding, and Ads Management to boost your online presence.",
   keywords: [

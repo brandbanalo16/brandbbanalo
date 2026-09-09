@@ -5,9 +5,9 @@ import type { Metadata } from "next";
 
 
 export const metadata: Metadata = {
-  title: "Digital Marketing Blog & Insights | Brand Banalo ",
+  title: "Digital Marketing Blog & Insights | Brandbanalo ",
   description:
-    "Explore the Brand Banalo blog for the latest trends, tips, and insights in digital marketing, SEO, web development, and branding strategies.",
+    "Explore the Brandbanalo blog for the latest trends, tips, and insights in digital marketing, SEO, web development, and branding strategies.",
   keywords: [
     "Digital Marketing Blog",
     "SEO Marketing Insights",

@@ -19,7 +19,7 @@ export default function NewsSection() {
             },
             {
               id: 2,
-              title: "Brand Banalo best Digital marketing agency for Lead Generation",
+              title: "Brandbanalo best Digital marketing agency for Lead Generation",
               cat: "STRATEGY",
               date: "October 20, 2025",
               img: "post-5.webp"

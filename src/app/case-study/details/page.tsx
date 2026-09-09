@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Case Study Details",
   description:
-    "Read case study details and learn how Brand Banalo delivers results with branding, websites, SEO, and performance marketing.",
+    "Read case study details and learn how Brandbanalo delivers results with branding, websites, SEO, and performance marketing.",
 };
 
 export default function CaseStudyDetailsPage() {

@@ -2,9 +2,9 @@ import ServiceSections from "@/components/main/ServiceSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Best SEO Service | Brand Banalo",
+  title: "Best SEO Service | Brandbanalo",
   description:
-    "Increase your organic search visibility and drive high-quality traffic to your website with Brand Banalo's comprehensive SEO services.",
+    "Increase your organic search visibility and drive high-quality traffic to your website with Brandbanalo's comprehensive SEO services.",
   keywords: [
     "Best SEO Service",
     "SEO Creating Service",
