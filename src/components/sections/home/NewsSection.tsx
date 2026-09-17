@@ -40,14 +40,14 @@ export default function NewsSection() {
               <div className="news-box-items-2">
                 <div className="thumb">
                   <img src={`/assets/img/news/${post.img}`} alt={post.title} />
-                  <a href={`/blog/details?slug=${post.title.toLowerCase().replace(/ /g, '-')}`} className="post-cat">
+                  <a href={`/blog/details/${post.title.toLowerCase().replace(/ /g, '-')}`} className="post-cat">
                     {post.cat}
                   </a>
                 </div>
                 <div className="content">
                   <p>{post.date}</p>
                   <h3>
-                    <a href={`/blog/details?slug=${post.title.toLowerCase().replace(/ /g, '-')}`}>
+                    <a href={`/blog/details/${post.title.toLowerCase().replace(/ /g, '-')}`}>
                       {post.title}
                     </a>
                   </h3>

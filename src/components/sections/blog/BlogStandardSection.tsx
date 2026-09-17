@@ -51,7 +51,7 @@ export default function BlogStandardSection() {
                   <div className="content">
                     <ul className="cat-list">
                       <li>
-                        <Link href={`/blog/details?slug=${post.slug}`}>
+                        <Link href={`/blog/details/${post.slug}`}>
                           {post.category}
                         </Link>
                       </li>
@@ -60,12 +60,12 @@ export default function BlogStandardSection() {
                       </li>
                     </ul>
                     <h3>
-                      <Link href={`/blog/details?slug=${post.slug}`}>
+                      <Link href={`/blog/details/${post.slug}`}>
                         {post.title}
                       </Link>
                     </h3>
                     <Link
-                      href={`/blog/details?slug=${post.slug}`}
+                      href={`/blog/details/${post.slug}`}
                       className="theme-btn"
                     >
                       <span className="icon-1">

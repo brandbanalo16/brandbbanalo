@@ -1,7 +1,4 @@
-"use client";
-
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
 import blogsData from "@/data/blogs.json";
 
 function QuoteIcon() {
@@ -25,10 +22,7 @@ function QuoteIcon() {
   );
 }
 
-export default function BlogDetailsContentSection() {
-  const searchParams = useSearchParams();
-  const slug = searchParams.get("slug") || "digital-marketing-agency-for-e-commerce-startup";
-
+export default function BlogDetailsContentSection({ slug = "digital-marketing-agency-for-e-commerce-startup" }: { slug?: string }) {
   const post = blogsData.find((b) => b.slug === slug) || blogsData[0];
 
   return (

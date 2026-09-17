@@ -52,14 +52,14 @@ export default function BlogGridSection({ allBlogs }: BlogGridSectionProps) {
                 <div className="content">
                   <ul className="cat-list">
                     <li>
-                      <Link href={`/blog/details?slug=${post.slug}`}>{post.category}</Link>
+                      <Link href={`/blog/details/${post.slug}`}>{post.category}</Link>
                     </li>
                     <li>
                       <span>{post.date}</span>
                     </li>
                   </ul>
                   <h4>
-                    <Link href={`/blog/details?slug=${post.slug}`}>{post.title}</Link>
+                    <Link href={`/blog/details/${post.slug}`}>{post.title}</Link>
                   </h4>
                 </div>
               </div>

@@ -2,13 +2,17 @@ import BlogBreadcrumbSection from "@/components/sections/blog/BlogBreadcrumbSect
 import BlogCtaSection from "@/components/sections/blog/BlogCtaSection";
 import BlogDetailsMainSection from "@/components/sections/blog/BlogDetailsMainSection";
 
-export default function BlogDetailsSections() {
+interface BlogDetailsSectionsProps {
+  title?: string;
+  slug?: string;
+}
+
+export default function BlogDetailsSections({ title, slug }: BlogDetailsSectionsProps) {
   return (
     <>
-      <BlogBreadcrumbSection title="Blog Details" />
-      <BlogDetailsMainSection />
+      <BlogBreadcrumbSection title={title || "Blog Details"} />
+      <BlogDetailsMainSection slug={slug} />
       <BlogCtaSection />
     </>
   );
 }
-

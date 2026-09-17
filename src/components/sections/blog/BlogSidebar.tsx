@@ -172,7 +172,7 @@ export default function BlogSidebar() {
               </div>
               <div className="recent-content">
                 <h6>
-                  <Link href={`/blog/details?slug=${blog.slug}`}>
+                  <Link href={`/blog/details/${blog.slug}`}>
                     {blog.title}
                   </Link>
                 </h6>
