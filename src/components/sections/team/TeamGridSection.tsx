@@ -4,11 +4,13 @@ const teamMembers = [
   { img: "yash.webp", name: "Yash Mishra", role: "Performance Marketing Executive" },
   { img: "amit.webp", name: "Amit Kumar", role: "Sales" },
   { img: "geet.webp", name: "Geet Kaur", role: "Social Media Manager" },
+  { img: "drishti.webp", name: "Drishti", role: "Social Media Intern" },
   { img: "kajal.webp", name: "Kajal", role: "Graphic Designer" },
   { img: "sanjana.webp", name: "Sanjana", role: "Graphic Designer" },
-  { img: "Navjot.webp", name: "Navjot Singh", role: "Content Creator" },
+  { img: "navjot.webp", name: "Navjot Singh", role: "Content Creator" },
   { img: "akansha.webp", name: "Akansha Verma", role: "Web Developer" },
   { img: "dhruv.webp", name: "Dhruv Prajapati", role: "Web Developer" },
+
 ];
 
 export default function TeamGridSection() {
