@@ -10,7 +10,6 @@ const teamMembers = [
   { img: "navjot.webp", name: "Navjot Singh", role: "Content Creator" },
   { img: "akansha.webp", name: "Akansha Verma", role: "Web Developer" },
   { img: "dhruv.webp", name: "Dhruv Prajapati", role: "Web Developer" },
-
 ];
 
 export default function TeamGridSection() {
